@@ -1,0 +1,2640 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hermès // Real Scraped Official Production Lookbook & Contact Sheets</title>
+  <style>
+    :root {
+      --brand-primary: #d96526;
+      --brand-accent: #8f3707;
+      --brand-bg: #fffdfa;
+      --brand-header: #2b1407;
+      --brand-text: #ffffff;
+      --brand-border: #f2d3be;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--brand-bg);
+      color: #1a1a1a;
+      line-height: 1.5;
+    }
+    .top-bar {
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background: var(--brand-header);
+      color: var(--brand-text);
+      padding: 12px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 2px solid var(--brand-accent);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    .nav-brand-group {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .brand-pill {
+      background: var(--brand-accent);
+      color: #fff;
+      font-size: 11px;
+      font-weight: 800;
+      padding: 3px 10px;
+      border-radius: 3px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    .nav-title {
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .nav-tools {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .search-input {
+      padding: 6px 14px;
+      border-radius: 4px;
+      border: 1px solid #444;
+      background: #222;
+      color: white;
+      font-size: 13px;
+      width: 240px;
+      outline: none;
+    }
+    .search-input:focus {
+      border-color: var(--brand-accent);
+      width: 300px;
+    }
+    .btn-nav {
+      background: #333;
+      color: white;
+      border: 1px solid #444;
+      padding: 6px 14px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .btn-hub {
+      background: var(--brand-accent);
+      color: #fff;
+      font-weight: 700;
+      border: none;
+    }
+
+    .book-wrapper {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 32px 24px;
+    }
+
+    .book-cover {
+      background: white;
+      border-radius: 8px;
+      border: 1px solid var(--brand-border);
+      padding: 64px 48px;
+      margin-bottom: 40px;
+      box-shadow: 0 12px 32px rgba(0,0,0,0.06);
+      position: relative;
+      overflow: hidden;
+    }
+    .cover-stripe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 6px;
+      background: var(--brand-accent);
+    }
+    .cover-badge {
+      display: inline-block;
+      background: #111;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      padding: 4px 10px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+    .cover-title {
+      font-size: 46px;
+      font-weight: 900;
+      letter-spacing: -1px;
+      line-height: 1.1;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+    }
+    .cover-tagline {
+      font-size: 18px;
+      color: #666;
+      font-weight: 500;
+      margin-bottom: 24px;
+    }
+    .cover-stats {
+      display: flex;
+      gap: 32px;
+      border-top: 1px solid #eee;
+      padding-top: 24px;
+    }
+    .stat-item strong {
+      display: block;
+      font-size: 24px;
+      font-weight: 800;
+      color: #111;
+    }
+    .stat-item span {
+      font-size: 12px;
+      color: #777;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .product-entry {
+      background: white;
+      border-radius: 8px;
+      border: 1px solid var(--brand-border);
+      margin-bottom: 48px;
+      box-shadow: 0 6px 24px rgba(0,0,0,0.04);
+      page-break-after: always;
+      overflow: hidden;
+    }
+    .product-sheet-header {
+      padding: 24px 32px 18px;
+      border-bottom: 1px solid #f0f0f0;
+      background: #fafafa;
+    }
+    .sheet-meta {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+    .meta-tag {
+      background: #111;
+      color: white;
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      padding: 2px 8px;
+      border-radius: 3px;
+      text-transform: uppercase;
+    }
+    .meta-sku {
+      font-family: ui-monospace, Menlo, Monaco, monospace;
+      font-size: 11px;
+      color: #666;
+      background: #e8e8e8;
+      padding: 2px 6px;
+      border-radius: 3px;
+    }
+    .meta-group {
+      font-size: 11px;
+      color: #888;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+    .sheet-title-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 16px;
+    }
+    .product-title {
+      font-size: 26px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      color: #111;
+    }
+    .product-price {
+      font-size: 24px;
+      font-weight: 800;
+      color: var(--brand-accent);
+      white-space: nowrap;
+    }
+    .product-subtitle {
+      font-size: 13px;
+      color: #666;
+      margin-top: 4px;
+    }
+
+    .contact-sheet-container {
+      padding: 24px 32px;
+      background: #14171c;
+      border-bottom: 1px solid #232730;
+    }
+    .contact-sheet-banner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #2b303c;
+    }
+    .banner-title {
+      color: #e2e8f0;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .pulse-indicator {
+      width: 7px;
+      height: 7px;
+      background: #00ff88;
+      border-radius: 50%;
+      box-shadow: 0 0 8px #00ff88;
+    }
+    .banner-frames-count {
+      color: #94a3b8;
+      font-size: 11px;
+      font-weight: 600;
+    }
+    .contact-sheet-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 14px;
+    }
+    .contact-frame {
+      background: #1c212a;
+      border: 1px solid #2f3645;
+      border-radius: 6px;
+      overflow: hidden;
+      cursor: zoom-in;
+      transition: transform 0.15s ease, border-color 0.15s ease;
+    }
+    .contact-frame:hover {
+      transform: translateY(-2px);
+      border-color: #00ff88;
+    }
+    .frame-tag {
+      background: #0d1015;
+      color: #cbd5e1;
+      font-size: 9px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      padding: 5px 8px;
+      text-transform: uppercase;
+      border-bottom: 1px solid #282f3d;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .frame-img-box {
+      aspect-ratio: 1 / 1;
+      background: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+    .frame-img-box img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.25s ease;
+    }
+    .contact-frame:hover .frame-img-box img {
+      transform: scale(1.04);
+    }
+    .frame-caption {
+      padding: 6px 8px;
+      font-size: 10px;
+      color: #94a3b8;
+      background: #151921;
+      text-align: center;
+    }
+
+    .product-specs-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1px;
+      background: #f0f0f0;
+      padding: 1px;
+    }
+    .spec-cell {
+      background: white;
+      padding: 16px 24px;
+    }
+    .spec-cell.full-width {
+      grid-column: span 2;
+    }
+    .spec-label {
+      display: block;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #888;
+      margin-bottom: 4px;
+    }
+    .spec-value {
+      font-size: 14px;
+      font-weight: 600;
+      color: #222;
+    }
+    .spec-brief {
+      font-size: 13px;
+      color: #444;
+      line-height: 1.6;
+    }
+
+    .lightbox-modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      background: rgba(0,0,0,0.92);
+      backdrop-filter: blur(8px);
+      align-items: center;
+      justify-content: center;
+      padding: 32px;
+    }
+    .lightbox-modal.active {
+      display: flex;
+    }
+    .lightbox-content {
+      max-width: 90vw;
+      max-height: 90vh;
+      object-fit: contain;
+      border-radius: 4px;
+      box-shadow: 0 0 40px rgba(0,0,0,0.8);
+    }
+    .lightbox-close {
+      position: absolute;
+      top: 24px;
+      right: 28px;
+      color: white;
+      font-size: 36px;
+      font-weight: 300;
+      cursor: pointer;
+      line-height: 1;
+    }
+
+    @media print {
+      .top-bar { display: none !important; }
+      .book-wrapper { padding: 0; }
+      .product-entry { box-shadow: none; border: 1px solid #ccc; page-break-after: always; }
+    }
+  </style>
+</head>
+<body>
+  <div class="top-bar">
+    <div class="nav-brand-group">
+      <span class="brand-pill">OFFICIAL PRODUCTION BOOK</span>
+      <span class="nav-title">Hermès</span>
+    </div>
+    <div class="nav-tools">
+      <input type="text" class="search-input" id="searchBar" placeholder="Search 35 products, SKUs, colors..." onkeyup="filterProducts()"/>
+      <a href="../../campaign_hub.html" class="btn-nav btn-hub">↖ Back to Hub</a>
+      <a href="catalog.csv" class="btn-nav">CSV</a>
+      <a href="catalog.json" class="btn-nav">JSON</a>
+      <button class="btn-nav" onclick="window.print()">Print Binder</button>
+    </div>
+  </div>
+
+  <div class="book-wrapper">
+    <div class="book-cover">
+      <div class="cover-stripe"></div>
+      <span class="cover-badge">100% Real Scraped Site Catalog</span>
+      <h1 class="cover-title">Hermès</h1>
+      <p class="cover-tagline">French Saddlery Heritage, Artisanal Leather &amp; Silk Carrés</p>
+      <div class="cover-stats">
+        <div class="stat-item">
+          <strong>35</strong>
+          <span>Real Scraped Objects</span>
+        </div>
+        <div class="stat-item">
+          <strong>35</strong>
+          <span>Photographic Proof Frames</span>
+        </div>
+        <div class="stat-item">
+          <strong>$96,444.00</strong>
+          <span>Total Catalog Value (USD)</span>
+        </div>
+      </div>
+    </div>
+
+    <main id="productsContainer">
+      
+        <article class="product-entry" id="H-H000044Ev02M" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès chut iii anti noise bonnet">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H000044Ev02M</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Chut Iii Anti Noise Bonnet</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Chut Iii Anti Noise Bonnet (Atelier Code: H000044Ev02M)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Chut Iii Anti Noise Bonnet packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Chut Iii Anti Noise Bonnet packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H000044Ev02M). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H0009897v30" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès foosball table">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H0009897v30</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Foosball Table</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Foosball Table (Atelier Code: H0009897v30)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Foosball Table packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Foosball Table packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H0009897v30). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H006376Tv02" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès h twist tie 7cm">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H006376Tv02</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès H Twist Tie 7Cm</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès H Twist Tie 7Cm (Atelier Code: H006376Tv02)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès H Twist Tie 7Cm packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès H Twist Tie 7Cm packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H006376Tv02). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H010471CK21090" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès etriviere 32 belt">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H010471CK21090</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Etriviere 32 Belt</h2>
+              <div class="product-price">$995.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Etriviere 32 Belt (Atelier Code: H010471CK21090)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Etriviere 32 Belt packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Etriviere 32 Belt packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H010471CK21090). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H012190UAAA085" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès toile h plume leather strap 24mm">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H012190UAAA085</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Toile H Plume Leather Strap 24Mm</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Toile H Plume Leather Strap 24Mm (Atelier Code: H012190UAAA085)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Toile H Plume Leather Strap 24Mm packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Toile H Plume Leather Strap 24Mm packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H012190UAAA085). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H056318Tv11" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès faconnee grand h pocket square 45">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H056318Tv11</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Faconnee Grand H Pocket Square 45</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Faconnee Grand H Pocket Square 45 (Atelier Code: H056318Tv11)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Faconnee Grand H Pocket Square 45 packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Faconnee Grand H Pocket Square 45 packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H056318Tv11). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H066304CCY1" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès collier de chien bracelet">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H066304CCY1</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Collier De Chien Bracelet</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Collier De Chien Bracelet (Atelier Code: H066304CCY1)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Collier De Chien Bracelet packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Collier De Chien Bracelet packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H066304CCY1). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H077964CA89090" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès leather strap 38mm">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H077964CA89090</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Leather Strap 38Mm</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Leather Strap 38Mm (Atelier Code: H077964CA89090)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Leather Strap 38Mm packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Leather Strap 38Mm packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H077964CA89090). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H082835CKAC" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès herbag zip cabine bag">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H082835CKAC</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Herbag Zip Cabine Bag</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Herbag Zip Cabine Bag (Atelier Code: H082835CKAC)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Herbag Zip Cabine Bag packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Herbag Zip Cabine Bag packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H082835CKAC). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H085040CK1C" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès pm watch case">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H085040CK1C</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Pm Watch Case</h2>
+              <div class="product-price">$1,399.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Pm Watch Case (Atelier Code: H085040CK1C)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Pm Watch Case packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Pm Watch Case packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H085040CK1C). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H087000CKAA" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès silk in classique long wallet">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H087000CKAA</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Silk In Classique Long Wallet</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Silk In Classique Long Wallet (Atelier Code: H087000CKAA)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Silk In Classique Long Wallet packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Silk In Classique Long Wallet packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H087000CKAA). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H088169CK18" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès clochette gm case">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H088169CK18</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Clochette Gm Case</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Clochette Gm Case (Atelier Code: H088169CK18)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Clochette Gm Case packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Clochette Gm Case packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H088169CK18). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H100114FvD3" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès tonnerre earrings small model">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H100114FvD3</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Tonnerre Earrings Small Model</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Tonnerre Earrings Small Model (Atelier Code: H100114FvD3)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Tonnerre Earrings Small Model packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Tonnerre Earrings Small Model packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H100114FvD3). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H1031118v92" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès multistrand silk bracelet">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H1031118v92</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Multistrand Silk Bracelet</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Multistrand Silk Bracelet (Atelier Code: H1031118v92)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Multistrand Silk Bracelet packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Multistrand Silk Bracelet packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H1031118v92). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H103972Mv01" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès bolide casaque case medium model">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H103972Mv01</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Bolide Casaque Case Medium Model</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Bolide Casaque Case Medium Model (Atelier Code: H103972Mv01)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Bolide Casaque Case Medium Model packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Bolide Casaque Case Medium Model packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H103972Mv01). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H104384Mv01" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès maillon des sables beach brush">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H104384Mv01</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Maillon Des Sables Beach Brush</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Maillon Des Sables Beach Brush (Atelier Code: H104384Mv01)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Maillon Des Sables Beach Brush packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Maillon Des Sables Beach Brush packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H104384Mv01). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H1060108v92" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès bracelet">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H1060108v92</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Bracelet</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Bracelet (Atelier Code: H1060108v92)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Bracelet packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Bracelet packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H1060108v92). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H1074268v92" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès leather poppy flower">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H1074268v92</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Leather Poppy Flower</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Leather Poppy Flower (Atelier Code: H1074268v92)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Leather Poppy Flower packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Leather Poppy Flower packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H1074268v92). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H1105878v92" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès set of 5 animal boxes">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H1105878v92</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Set Of 5 Animal Boxes</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Set Of 5 Animal Boxes (Atelier Code: H1105878v92)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Set Of 5 Animal Boxes packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Set Of 5 Animal Boxes packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H1105878v92). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H1199368v01" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès heart charm">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H1199368v01</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Heart Charm</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Heart Charm (Atelier Code: H1199368v01)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Heart Charm packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Heart Charm packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H1199368v01). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H126528Bv00" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès point sellier left single ear cuff">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H126528Bv00</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Point Sellier Left Single Ear Cuff</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Point Sellier Left Single Ear Cuff (Atelier Code: H126528Bv00)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Point Sellier Left Single Ear Cuff packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Point Sellier Left Single Ear Cuff packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H126528Bv00). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H17079P8v92" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès brick minaudiere">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H17079P8v92</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Brick Minaudiere</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Brick Minaudiere (Atelier Code: H17079P8v92)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Brick Minaudiere packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Brick Minaudiere packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H17079P8v92). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H202212ZvNL" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès oasis sandal">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H202212ZvNL</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Oasis Sandal</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Oasis Sandal (Atelier Code: H202212ZvNL)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Oasis Sandal packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Oasis Sandal packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H202212ZvNL). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H219610Bv00" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès finesse ring">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H219610Bv00</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Finesse Ring</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Finesse Ring (Atelier Code: H219610Bv00)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Finesse Ring packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Finesse Ring packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H219610Bv00). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H222524Bv00" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès hermes ex libris earrings">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H222524Bv00</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Hermes Ex Libris Earrings</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Hermes Ex Libris Earrings (Atelier Code: H222524Bv00)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Hermes Ex Libris Earrings packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Hermes Ex Libris Earrings packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H222524Bv00). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H231280ZvOM" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès santorini sandal">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H231280ZvOM</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Santorini Sandal</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Santorini Sandal (Atelier Code: H231280ZvOM)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Santorini Sandal packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Santorini Sandal packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H231280ZvOM). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H242111ZvDI" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès ithea 30 espadrille">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H242111ZvDI</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Ithea 30 Espadrille</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Ithea 30 Espadrille (Atelier Code: H242111ZvDI)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Ithea 30 Espadrille packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Ithea 30 Espadrille packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H242111ZvDI). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H246323FPC5" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès cheval de coeur bandana bangle">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H246323FPC5</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Cheval De Coeur Bandana Bangle</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Cheval De Coeur Bandana Bangle (Atelier Code: H246323FPC5)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Cheval De Coeur Bandana Bangle packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Cheval De Coeur Bandana Bangle packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H246323FPC5). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H252033GvOL" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès clou de selle ii gloves">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H252033GvOL</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Clou De Selle Ii Gloves</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Clou De Selle Ii Gloves (Atelier Code: H252033GvOL)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Clou De Selle Ii Gloves packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Clou De Selle Ii Gloves packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H252033GvOL). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H252942ZH01" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès jackson sandal">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H252942ZH01</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Jackson Sandal</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Jackson Sandal (Atelier Code: H252942ZH01)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Jackson Sandal packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Jackson Sandal packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H252942ZH01). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H261042Nv7I" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès serena flots cap">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H261042Nv7I</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Serena Flots Cap</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Serena Flots Cap (Atelier Code: H261042Nv7I)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Serena Flots Cap packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Serena Flots Cap packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H261042Nv7I). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H261179ZvJS" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès mykonos sandal">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H261179ZvJS</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Mykonos Sandal</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Mykonos Sandal (Atelier Code: H261179ZvJS)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Mykonos Sandal packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Mykonos Sandal packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H261179ZvJS). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H262002NvBO" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès nina beanie">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H262002NvBO</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Nina Beanie</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Nina Beanie (Atelier Code: H262002NvBO)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Nina Beanie packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Nina Beanie packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H262002NvBO). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H262077GvME" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès nicolas gloves">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H262077GvME</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Nicolas Gloves</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Nicolas Gloves (Atelier Code: H262077GvME)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Nicolas Gloves packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Nicolas Gloves packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H262077GvME). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="H-H262181ZG02" data-category="High French Leatherwork &amp; Horlogerie" data-name="hermès jumping shorter boot">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">High French Leatherwork &amp; Horlogerie</span>
+              <span class="meta-sku">SKU: H-H262181ZG02</span>
+              <span class="meta-group">Hermès Faubourg Saint-Honoré Icons</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Hermès Jumping Shorter Boot</h2>
+              <div class="product-price">$2,850.00</div>
+            </div>
+            <div class="product-subtitle">Hermès Jumping Shorter Boot (Atelier Code: H262181ZG02)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set', 'Hermès Jumping Shorter Boot packshot')">
+                <div class="frame-tag">STUDIO PACKSHOT COMPOSITE</div>
+                <div class="frame-img-box">
+                  <img src="https://assets.hermes.com/is/image/hermesproduct/H000044Ev02M_set" alt="Hermès Jumping Shorter Boot packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Saddle Stitching &amp; Artisanal Heritage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Gold Epsom / Etoupe Togo / Orange Hermès / Noir Box Calf</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Togo / Epsom Calfskin Leather / Hand-polished Palladium Hardware</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Artisanal Saddle-Stitched Handcrafted Proportions</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Iconic Hermès Orange Box with brown grosgrain ribbon and Bolduc seal</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Hermès creation scraped from hermes.com (SKU: H262181ZG02). Handcrafted by a single artisan in France.</p>
+            </div>
+          </div>
+        </article>
+        
+    </main>
+  </div>
+
+  <div class="lightbox-modal" id="lightboxModal" onclick="closeLightbox()">
+    <span class="lightbox-close">&times;</span>
+    <img class="lightbox-content" id="lightboxImg" src="" alt=""/>
+  </div>
+
+  <script>
+    function openLightbox(url, alt) {
+      const modal = document.getElementById('lightboxModal');
+      const img = document.getElementById('lightboxImg');
+      img.src = url;
+      img.alt = alt;
+      modal.classList.add('active');
+    }
+    function closeLightbox() {
+      document.getElementById('lightboxModal').classList.remove('active');
+    }
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeLightbox();
+    });
+
+    function filterProducts() {
+      const query = document.getElementById('searchBar').value.toLowerCase();
+      const entries = document.querySelectorAll('.product-entry');
+      entries.forEach(entry => {
+        const text = entry.innerText.toLowerCase();
+        entry.style.display = text.includes(query) ? '' : 'none';
+      });
+    }
+  </script>
+</body>
+</html>

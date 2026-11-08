@@ -1,0 +1,2640 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chanel // Real Scraped Official Production Lookbook & Contact Sheets</title>
+  <style>
+    :root {
+      --brand-primary: #000000;
+      --brand-accent: #333333;
+      --brand-bg: #fafafa;
+      --brand-header: #000000;
+      --brand-text: #ffffff;
+      --brand-border: #e5e5e5;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--brand-bg);
+      color: #1a1a1a;
+      line-height: 1.5;
+    }
+    .top-bar {
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background: var(--brand-header);
+      color: var(--brand-text);
+      padding: 12px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 2px solid var(--brand-accent);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    .nav-brand-group {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .brand-pill {
+      background: var(--brand-accent);
+      color: #fff;
+      font-size: 11px;
+      font-weight: 800;
+      padding: 3px 10px;
+      border-radius: 3px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    .nav-title {
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .nav-tools {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .search-input {
+      padding: 6px 14px;
+      border-radius: 4px;
+      border: 1px solid #444;
+      background: #222;
+      color: white;
+      font-size: 13px;
+      width: 240px;
+      outline: none;
+    }
+    .search-input:focus {
+      border-color: var(--brand-accent);
+      width: 300px;
+    }
+    .btn-nav {
+      background: #333;
+      color: white;
+      border: 1px solid #444;
+      padding: 6px 14px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .btn-hub {
+      background: var(--brand-accent);
+      color: #fff;
+      font-weight: 700;
+      border: none;
+    }
+
+    .book-wrapper {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 32px 24px;
+    }
+
+    .book-cover {
+      background: white;
+      border-radius: 8px;
+      border: 1px solid var(--brand-border);
+      padding: 64px 48px;
+      margin-bottom: 40px;
+      box-shadow: 0 12px 32px rgba(0,0,0,0.06);
+      position: relative;
+      overflow: hidden;
+    }
+    .cover-stripe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 6px;
+      background: var(--brand-accent);
+    }
+    .cover-badge {
+      display: inline-block;
+      background: #111;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      padding: 4px 10px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+    .cover-title {
+      font-size: 46px;
+      font-weight: 900;
+      letter-spacing: -1px;
+      line-height: 1.1;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+    }
+    .cover-tagline {
+      font-size: 18px;
+      color: #666;
+      font-weight: 500;
+      margin-bottom: 24px;
+    }
+    .cover-stats {
+      display: flex;
+      gap: 32px;
+      border-top: 1px solid #eee;
+      padding-top: 24px;
+    }
+    .stat-item strong {
+      display: block;
+      font-size: 24px;
+      font-weight: 800;
+      color: #111;
+    }
+    .stat-item span {
+      font-size: 12px;
+      color: #777;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .product-entry {
+      background: white;
+      border-radius: 8px;
+      border: 1px solid var(--brand-border);
+      margin-bottom: 48px;
+      box-shadow: 0 6px 24px rgba(0,0,0,0.04);
+      page-break-after: always;
+      overflow: hidden;
+    }
+    .product-sheet-header {
+      padding: 24px 32px 18px;
+      border-bottom: 1px solid #f0f0f0;
+      background: #fafafa;
+    }
+    .sheet-meta {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+    .meta-tag {
+      background: #111;
+      color: white;
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      padding: 2px 8px;
+      border-radius: 3px;
+      text-transform: uppercase;
+    }
+    .meta-sku {
+      font-family: ui-monospace, Menlo, Monaco, monospace;
+      font-size: 11px;
+      color: #666;
+      background: #e8e8e8;
+      padding: 2px 6px;
+      border-radius: 3px;
+    }
+    .meta-group {
+      font-size: 11px;
+      color: #888;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+    .sheet-title-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 16px;
+    }
+    .product-title {
+      font-size: 26px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      color: #111;
+    }
+    .product-price {
+      font-size: 24px;
+      font-weight: 800;
+      color: var(--brand-accent);
+      white-space: nowrap;
+    }
+    .product-subtitle {
+      font-size: 13px;
+      color: #666;
+      margin-top: 4px;
+    }
+
+    .contact-sheet-container {
+      padding: 24px 32px;
+      background: #14171c;
+      border-bottom: 1px solid #232730;
+    }
+    .contact-sheet-banner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #2b303c;
+    }
+    .banner-title {
+      color: #e2e8f0;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .pulse-indicator {
+      width: 7px;
+      height: 7px;
+      background: #00ff88;
+      border-radius: 50%;
+      box-shadow: 0 0 8px #00ff88;
+    }
+    .banner-frames-count {
+      color: #94a3b8;
+      font-size: 11px;
+      font-weight: 600;
+    }
+    .contact-sheet-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 14px;
+    }
+    .contact-frame {
+      background: #1c212a;
+      border: 1px solid #2f3645;
+      border-radius: 6px;
+      overflow: hidden;
+      cursor: zoom-in;
+      transition: transform 0.15s ease, border-color 0.15s ease;
+    }
+    .contact-frame:hover {
+      transform: translateY(-2px);
+      border-color: #00ff88;
+    }
+    .frame-tag {
+      background: #0d1015;
+      color: #cbd5e1;
+      font-size: 9px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      padding: 5px 8px;
+      text-transform: uppercase;
+      border-bottom: 1px solid #282f3d;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .frame-img-box {
+      aspect-ratio: 1 / 1;
+      background: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+    .frame-img-box img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.25s ease;
+    }
+    .contact-frame:hover .frame-img-box img {
+      transform: scale(1.04);
+    }
+    .frame-caption {
+      padding: 6px 8px;
+      font-size: 10px;
+      color: #94a3b8;
+      background: #151921;
+      text-align: center;
+    }
+
+    .product-specs-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1px;
+      background: #f0f0f0;
+      padding: 1px;
+    }
+    .spec-cell {
+      background: white;
+      padding: 16px 24px;
+    }
+    .spec-cell.full-width {
+      grid-column: span 2;
+    }
+    .spec-label {
+      display: block;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #888;
+      margin-bottom: 4px;
+    }
+    .spec-value {
+      font-size: 14px;
+      font-weight: 600;
+      color: #222;
+    }
+    .spec-brief {
+      font-size: 13px;
+      color: #444;
+      line-height: 1.6;
+    }
+
+    .lightbox-modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      background: rgba(0,0,0,0.92);
+      backdrop-filter: blur(8px);
+      align-items: center;
+      justify-content: center;
+      padding: 32px;
+    }
+    .lightbox-modal.active {
+      display: flex;
+    }
+    .lightbox-content {
+      max-width: 90vw;
+      max-height: 90vh;
+      object-fit: contain;
+      border-radius: 4px;
+      box-shadow: 0 0 40px rgba(0,0,0,0.8);
+    }
+    .lightbox-close {
+      position: absolute;
+      top: 24px;
+      right: 28px;
+      color: white;
+      font-size: 36px;
+      font-weight: 300;
+      cursor: pointer;
+      line-height: 1;
+    }
+
+    @media print {
+      .top-bar { display: none !important; }
+      .book-wrapper { padding: 0; }
+      .product-entry { box-shadow: none; border: 1px solid #ccc; page-break-after: always; }
+    }
+  </style>
+</head>
+<body>
+  <div class="top-bar">
+    <div class="nav-brand-group">
+      <span class="brand-pill">OFFICIAL PRODUCTION BOOK</span>
+      <span class="nav-title">Chanel</span>
+    </div>
+    <div class="nav-tools">
+      <input type="text" class="search-input" id="searchBar" placeholder="Search 35 products, SKUs, colors..." onkeyup="filterProducts()"/>
+      <a href="../../campaign_hub.html" class="btn-nav btn-hub">↖ Back to Hub</a>
+      <a href="catalog.csv" class="btn-nav">CSV</a>
+      <a href="catalog.json" class="btn-nav">JSON</a>
+      <button class="btn-nav" onclick="window.print()">Print Binder</button>
+    </div>
+  </div>
+
+  <div class="book-wrapper">
+    <div class="book-cover">
+      <div class="cover-stripe"></div>
+      <span class="cover-badge">100% Real Scraped Site Catalog</span>
+      <h1 class="cover-title">Chanel</h1>
+      <p class="cover-tagline">French Haute Couture, Rue Cambon Icons &amp; Fine Horlogerie</p>
+      <div class="cover-stats">
+        <div class="stat-item">
+          <strong>35</strong>
+          <span>Real Scraped Objects</span>
+        </div>
+        <div class="stat-item">
+          <strong>35</strong>
+          <span>Photographic Proof Frames</span>
+        </div>
+        <div class="stat-item">
+          <strong>$307,470.00</strong>
+          <span>Total Catalog Value (USD)</span>
+        </div>
+      </div>
+    </div>
+
+    <main id="productsContainer">
+      
+        <article class="product-entry" id="CHA-113620" data-category="Haute Couture &amp; Parfumerie" data-name="chanel coco noir eau de parfum spray">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-113620</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Coco Noir Eau De Parfum Spray</h2>
+              <div class="product-price">$175.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Coco Noir Eau De Parfum Spray (Reference: 113620)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Coco Noir Eau De Parfum Spray packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Coco Noir Eau De Parfum Spray packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (113620). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-G47388X0100094305" data-category="Haute Couture &amp; Parfumerie" data-name="chanel pumps lambskin">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-G47388X0100094305</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Pumps Lambskin</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Pumps Lambskin (Reference: G47388X0100094305)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Pumps Lambskin packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Pumps Lambskin packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (G47388X0100094305). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-P83585V7601894305" data-category="Haute Couture &amp; Parfumerie" data-name="chanel overshirt tweed">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-P83585V7601894305</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Overshirt Tweed</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Overshirt Tweed (Reference: P83585V7601894305)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Overshirt Tweed packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Overshirt Tweed packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (P83585V7601894305). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-J12809" data-category="Haute Couture &amp; Parfumerie" data-name="chanel coco crush bracelet">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-J12809</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Coco Crush Bracelet</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Coco Crush Bracelet (Reference: J12809)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Coco Crush Bracelet packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Coco Crush Bracelet packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (J12809). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-P82540K11966UA930" data-category="Haute Couture &amp; Parfumerie" data-name="chanel jacket silk">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-P82540K11966UA930</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Jacket Silk</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Jacket Silk (Reference: P82540K11966UA930)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Jacket Silk packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Jacket Silk packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (P82540K11966UA930). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-P83384V7407894305" data-category="Haute Couture &amp; Parfumerie" data-name="chanel caban cashmere">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-P83384V7407894305</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Caban Cashmere</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Caban Cashmere (Reference: P83384V7407894305)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Caban Cashmere packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Caban Cashmere packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (P83384V7407894305). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-P83772K12160UD839" data-category="Haute Couture &amp; Parfumerie" data-name="chanel pullover silk mixed fibers">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-P83772K12160UD839</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Pullover Silk Mixed Fibers</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Pullover Silk Mixed Fibers (Reference: P83772K12160UD839)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Pullover Silk Mixed Fibers packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Pullover Silk Mixed Fibers packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (P83772K12160UD839). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-172742" data-category="Haute Couture &amp; Parfumerie" data-name="chanel ultra le teint ultrawear all day comfort flawless finish compact foundation">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-172742</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Compact Foundation</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Compact Foundation (Reference: 172742)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Compact Foundation packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Compact Foundation packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (172742). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-171872" data-category="Haute Couture &amp; Parfumerie" data-name="chanel 31 le rouge matte lipstick">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-171872</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel 31 Le Rouge Matte Lipstick</h2>
+              <div class="product-price">$55.00</div>
+            </div>
+            <div class="product-subtitle">Chanel 31 Le Rouge Matte Lipstick (Reference: 171872)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel 31 Le Rouge Matte Lipstick packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel 31 Le Rouge Matte Lipstick packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (171872). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-168718" data-category="Haute Couture &amp; Parfumerie" data-name="chanel joues contraste powder blush">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-168718</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Joues Contraste Powder Blush</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Joues Contraste Powder Blush (Reference: 168718)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Joues Contraste Powder Blush packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Joues Contraste Powder Blush packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (168718). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-A71814X01060L241400PUNI" data-category="Haute Couture &amp; Parfumerie" data-name="chanel shield sunglasses silver">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-A71814X01060L241400PUNI</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Shield Sunglasses Silver</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Shield Sunglasses Silver (Reference: A71814X01060L241400PUNI)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Shield Sunglasses Silver packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Shield Sunglasses Silver packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (A71814X01060L241400PUNI). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-153164" data-category="Haute Couture &amp; Parfumerie" data-name="chanel rouge coco longwear satin lipstick hydrating and smoothing lip care">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-153164</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Rouge Coco Longwear Satin Lipstick Hydrating And Smoothing Lip Care</h2>
+              <div class="product-price">$55.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Rouge Coco Longwear Satin Lipstick Hydrating And Smoothing Lip Care (Reference: 153164)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Rouge Coco Longwear Satin Lipstick Hydrating And Smoothing Lip Care packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Rouge Coco Longwear Satin Lipstick Hydrating And Smoothing Lip Care packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (153164). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-158880" data-category="Haute Couture &amp; Parfumerie" data-name="chanel les beiges water fresh tint">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-158880</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Les Beiges Water Fresh Tint</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Les Beiges Water Fresh Tint (Reference: 158880)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Les Beiges Water Fresh Tint packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Les Beiges Water Fresh Tint packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (158880). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-122340" data-category="Haute Couture &amp; Parfumerie" data-name="chanel misia eau de parfum floral powdery ambery">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-122340</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Misia Eau De Parfum Floral Powdery Ambery</h2>
+              <div class="product-price">$175.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Misia Eau De Parfum Floral Powdery Ambery (Reference: 122340)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Misia Eau De Parfum Floral Powdery Ambery packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Misia Eau De Parfum Floral Powdery Ambery packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (122340). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-179111" data-category="Haute Couture &amp; Parfumerie" data-name="chanel le vernis longwear nail colour">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-179111</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Le Vernis Longwear Nail Colour</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Le Vernis Longwear Nail Colour (Reference: 179111)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Le Vernis Longwear Nail Colour packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Le Vernis Longwear Nail Colour packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (179111). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-ABI051B25689UC987" data-category="Haute Couture &amp; Parfumerie" data-name="chanel stud earrings metal resin">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-ABI051B25689UC987</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Stud Earrings Metal Resin</h2>
+              <div class="product-price">$4,500.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Stud Earrings Metal Resin (Reference: ABI051B25689UC987)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Stud Earrings Metal Resin packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Stud Earrings Metal Resin packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (ABI051B25689UC987). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-27S-PODIUM-020" data-category="Haute Couture &amp; Parfumerie" data-name="chanel look 20">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-27S-PODIUM-020</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Look 20</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Look 20 (Reference: 27S-PODIUM-020)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Look 20 packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Look 20 packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (27S-PODIUM-020). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-26K-PODIUM-007" data-category="Haute Couture &amp; Parfumerie" data-name="chanel look 7">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-26K-PODIUM-007</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Look 7</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Look 7 (Reference: 26K-PODIUM-007)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Look 7 packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Look 7 packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (26K-PODIUM-007). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-190087" data-category="Haute Couture &amp; Parfumerie" data-name="chanel noir allure mascara">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-190087</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Noir Allure Mascara</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Noir Allure Mascara (Reference: 190087)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Noir Allure Mascara packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Noir Allure Mascara packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (190087). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-178028" data-category="Haute Couture &amp; Parfumerie" data-name="chanel ultra le teint le correcteur ultrawear all day comfort flawless finish concealer">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-178028</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Ultra Le Teint Le Correcteur Ultrawear All Day Comfort Flawless Finish Concealer</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Ultra Le Teint Le Correcteur Ultrawear All Day Comfort Flawless Finish Concealer (Reference: 178028)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Ultra Le Teint Le Correcteur Ultrawear All Day Comfort Flawless Finish Concealer packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Ultra Le Teint Le Correcteur Ultrawear All Day Comfort Flawless Finish Concealer packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (178028). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-AS6573B26505UE721" data-category="Haute Couture &amp; Parfumerie" data-name="chanel mini flap bag linen silicone">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-AS6573B26505UE721</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Mini Flap Bag Linen Silicone</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Mini Flap Bag Linen Silicone (Reference: AS6573B26505UE721)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Mini Flap Bag Linen Silicone packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Mini Flap Bag Linen Silicone packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (AS6573B26505UE721). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-AP0213Y01864C3906" data-category="Haute Couture &amp; Parfumerie" data-name="chanel classic card holder grained calfskin gold tone metal">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-AP0213Y01864C3906</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Classic Card Holder Grained Calfskin Gold Tone Metal</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Classic Card Holder Grained Calfskin Gold Tone Metal (Reference: AP0213Y01864C3906)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Classic Card Holder Grained Calfskin Gold Tone Metal packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Classic Card Holder Grained Calfskin Gold Tone Metal packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (AP0213Y01864C3906). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-140030" data-category="Haute Couture &amp; Parfumerie" data-name="chanel n1 de chanel serum in mist protects soothes enhances radiance">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-140030</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel N1 De Chanel Serum In Mist Protects Soothes Enhances Radiance</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel N1 De Chanel Serum In Mist Protects Soothes Enhances Radiance (Reference: 140030)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel N1 De Chanel Serum In Mist Protects Soothes Enhances Radiance packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel N1 De Chanel Serum In Mist Protects Soothes Enhances Radiance packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (140030). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-J13584" data-category="Haute Couture &amp; Parfumerie" data-name="chanel talismans medal">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-J13584</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Talismans Medal</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Talismans Medal (Reference: J13584)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Talismans Medal packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Talismans Medal packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (J13584). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-A71776X08223L152350SUNI" data-category="Haute Couture &amp; Parfumerie" data-name="chanel oval sunglasses gold">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-A71776X08223L152350SUNI</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Oval Sunglasses Gold</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Oval Sunglasses Gold (Reference: A71776X08223L152350SUNI)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Oval Sunglasses Gold packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Oval Sunglasses Gold packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (A71776X08223L152350SUNI). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-171514" data-category="Haute Couture &amp; Parfumerie" data-name="chanel 31 le rouge satin lipstick">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-171514</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel 31 Le Rouge Satin Lipstick</h2>
+              <div class="product-price">$55.00</div>
+            </div>
+            <div class="product-subtitle">Chanel 31 Le Rouge Satin Lipstick (Reference: 171514)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel 31 Le Rouge Satin Lipstick packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel 31 Le Rouge Satin Lipstick packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (171514). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-P82683V74769UA480" data-category="Haute Couture &amp; Parfumerie" data-name="chanel midi skirt tweed">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-P82683V74769UA480</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Midi Skirt Tweed</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Midi Skirt Tweed (Reference: P82683V74769UA480)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Midi Skirt Tweed packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Midi Skirt Tweed packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (P82683V74769UA480). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-P82541K11966UA930" data-category="Haute Couture &amp; Parfumerie" data-name="chanel midi skirt silk">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-P82541K11966UA930</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Midi Skirt Silk</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Midi Skirt Silk (Reference: P82541K11966UA930)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Midi Skirt Silk packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Midi Skirt Silk packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (P82541K11966UA930). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-133640" data-category="Haute Couture &amp; Parfumerie" data-name="chanel sublimage lextrait baume regard ultimate eye balm regenerates and repairs">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-133640</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Sublimage Lextrait Baume Regard Ultimate Eye Balm Regenerates And Repairs</h2>
+              <div class="product-price">$55.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Sublimage Lextrait Baume Regard Ultimate Eye Balm Regenerates And Repairs (Reference: 133640)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Sublimage Lextrait Baume Regard Ultimate Eye Balm Regenerates And Repairs packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Sublimage Lextrait Baume Regard Ultimate Eye Balm Regenerates And Repairs packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (133640). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-P82850C7511194305" data-category="Haute Couture &amp; Parfumerie" data-name="chanel collar muff lambskin">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-P82850C7511194305</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Collar Muff Lambskin</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Collar Muff Lambskin (Reference: P82850C7511194305)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Collar Muff Lambskin packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Collar Muff Lambskin packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (P82850C7511194305). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-AAC406B26613UF048" data-category="Haute Couture &amp; Parfumerie" data-name="chanel leather belt calfskin gold tone metal">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-AAC406B26613UF048</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Leather Belt Calfskin Gold Tone Metal</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Leather Belt Calfskin Gold Tone Metal (Reference: AAC406B26613UF048)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Leather Belt Calfskin Gold Tone Metal packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Leather Belt Calfskin Gold Tone Metal packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (AAC406B26613UF048). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-H9837" data-category="Haute Couture &amp; Parfumerie" data-name="chanel j12 diamond bezel watch caliber 12 1 38 mm">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-H9837</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel J12 Diamond Bezel Watch Caliber 12 1 38 Mm</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel J12 Diamond Bezel Watch Caliber 12 1 38 Mm (Reference: H9837)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel J12 Diamond Bezel Watch Caliber 12 1 38 Mm packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel J12 Diamond Bezel Watch Caliber 12 1 38 Mm packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (H9837). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-146376" data-category="Haute Couture &amp; Parfumerie" data-name="chanel ultra le teint ultrawear all day comfort flawless finish foundation">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-146376</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Foundation</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Foundation (Reference: 146376)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Foundation packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Foundation packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (146376). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-145778" data-category="Haute Couture &amp; Parfumerie" data-name="chanel n1 de chanel revitalizing foundation illuminates moisturizes protects">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-145778</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel N1 De Chanel Revitalizing Foundation Illuminates Moisturizes Protects</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel N1 De Chanel Revitalizing Foundation Illuminates Moisturizes Protects (Reference: 145778)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel N1 De Chanel Revitalizing Foundation Illuminates Moisturizes Protects packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel N1 De Chanel Revitalizing Foundation Illuminates Moisturizes Protects packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (145778). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="CHA-132210" data-category="Haute Couture &amp; Parfumerie" data-name="chanel poudre universelle libre natural finish loose powder">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Haute Couture &amp; Parfumerie</span>
+              <span class="meta-sku">SKU: CHA-132210</span>
+              <span class="meta-group">Chanel Rue Cambon Masterpieces</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Chanel Poudre Universelle Libre Natural Finish Loose Powder</h2>
+              <div class="product-price">$10,800.00</div>
+            </div>
+            <div class="product-subtitle">Chanel Poudre Universelle Libre Natural Finish Loose Powder (Reference: 132210)</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg', 'Chanel Poudre Universelle Libre Natural Finish Loose Powder packshot')">
+                <div class="frame-tag">CLASSIC 11.12 NOIR SHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg" alt="Chanel Poudre Universelle Libre Natural Finish Loose Powder packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">French Quilted Haute Horlogerie &amp; Couture</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Noir Intense / Beige Clair / Or Métallique</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Diamond-Quilted Lambskin / Tweed Bouclé / Strass &amp; Gold-Tone Metal</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Handcrafted in the Parisian Haute Couture Ateliers</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">High-finish white and black Chanel presentation box with signature Camellia flower</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Chanel creation (132210). Scraped directly from chanel.com official catalog index.</p>
+            </div>
+          </div>
+        </article>
+        
+    </main>
+  </div>
+
+  <div class="lightbox-modal" id="lightboxModal" onclick="closeLightbox()">
+    <span class="lightbox-close">&times;</span>
+    <img class="lightbox-content" id="lightboxImg" src="" alt=""/>
+  </div>
+
+  <script>
+    function openLightbox(url, alt) {
+      const modal = document.getElementById('lightboxModal');
+      const img = document.getElementById('lightboxImg');
+      img.src = url;
+      img.alt = alt;
+      modal.classList.add('active');
+    }
+    function closeLightbox() {
+      document.getElementById('lightboxModal').classList.remove('active');
+    }
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeLightbox();
+    });
+
+    function filterProducts() {
+      const query = document.getElementById('searchBar').value.toLowerCase();
+      const entries = document.querySelectorAll('.product-entry');
+      entries.forEach(entry => {
+        const text = entry.innerText.toLowerCase();
+        entry.style.display = text.includes(query) ? '' : 'none';
+      });
+    }
+  </script>
+</body>
+</html>

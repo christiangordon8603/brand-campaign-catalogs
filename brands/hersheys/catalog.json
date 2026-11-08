@@ -1,0 +1,1689 @@
+{
+  "brand": "Hershey's",
+  "tagline": "Americana Confectionery Heritage & Pure Chocolate Happiness",
+  "total_products": 60,
+  "total_frames": 120,
+  "total_value_usd": 149.4,
+  "products": [
+    {
+      "id": "HSY-REESESMILK",
+      "name": "Reeses Milk Chocolate Peanut Butter Pumpkins 1 2 Oz Bag 6 Pack",
+      "full_name": "Reeses Milk Chocolate Peanut Butter Pumpkins 1 2 Oz Bag 6 Pack Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "REESEʼS Milk Chocolate Peanut Butter Pumpkins are the classic combo you love in a fun, seasonal shape. Shop Halloween treats today!",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_47203_1_701_47226_001_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-milk-chocolate-peanut-butter-pumpkins-1-2-oz-bag-6-pack_front.webp",
+          "alt": "Reeses Milk Chocolate Peanut Butter Pumpkins 1 2 Oz Bag 6 Pack packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_47203_1_701_47226_001_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-milk-chocolate-peanut-butter-pumpkins-1-2-oz-bag-6-pack_back.webp",
+          "alt": "Reeses Milk Chocolate Peanut Butter Pumpkins 1 2 Oz Bag 6 Pack package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSFAL",
+      "name": "Hersheys Fall Harvest Miniatures Assortment 9 9 Oz Bag",
+      "full_name": "Hersheys Fall Harvest Miniatures Assortment 9 9 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hersheys-fall-harvest-miniatures-assortment-9-9-oz-bag_front.webp",
+          "alt": "Hersheys Fall Harvest Miniatures Assortment 9 9 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hersheys-fall-harvest-miniatures-assortment-9-9-oz-bag_back.webp",
+          "alt": "Hersheys Fall Harvest Miniatures Assortment 9 9 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-ROLOCREAMY",
+      "name": "Rolo Creamy Caramels In Rich Chocolate Candy 29 5 Oz Bag",
+      "full_name": "Rolo Creamy Caramels In Rich Chocolate Candy 29 5 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "When you need enough caramel candy to satisfy a crowd, get this bulk party bag of ROLO® Creamy Caramels in Rich Chocolate Candy.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_46324_4_701_46324_003_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_rolo-creamy-caramels-in-rich-chocolate-candy-29-5-oz-bag_front.webp",
+          "alt": "Rolo Creamy Caramels In Rich Chocolate Candy 29 5 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_46324_4_701_46324_003_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_rolo-creamy-caramels-in-rich-chocolate-candy-29-5-oz-bag_back.webp",
+          "alt": "Rolo Creamy Caramels In Rich Chocolate Candy 29 5 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSKIS",
+      "name": "Hersheys Kisses Sugar Cookie White Creme Candy 8 Oz Bag",
+      "full_name": "Hersheys Kisses Sugar Cookie White Creme Candy 8 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "HERSHEY’S KISSES Sugar Cookie White Creme Candies make for a magical twist to your holiday baked treats! Or snack on a few in between cookie batches. Shop now.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_14250_7_701_14250_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-kisses-sugar-cookie-white-creme-candy-8-oz-bag_front.webp",
+          "alt": "Hersheys Kisses Sugar Cookie White Creme Candy 8 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_14250_7_701_14250_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-kisses-sugar-cookie-white-creme-candy-8-oz-bag_back.webp",
+          "alt": "Hersheys Kisses Sugar Cookie White Creme Candy 8 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYHALL",
+      "name": "Hershey Halloween Assortment 41 82 Oz Bag 115 Pieces",
+      "full_name": "Hershey Halloween Assortment 41 82 Oz Bag 115 Pieces Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-halloween-assortment-41-82-oz-bag-115-pieces_front.webp",
+          "alt": "Hershey Halloween Assortment 41 82 Oz Bag 115 Pieces packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-halloween-assortment-41-82-oz-bag-115-pieces_back.webp",
+          "alt": "Hershey Halloween Assortment 41 82 Oz Bag 115 Pieces package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-REESESPIECE",
+      "name": "Reeses Pieces Holiday Peanut Butter Candy 4 Oz Box",
+      "full_name": "Reeses Pieces Holiday Peanut Butter Candy 4 Oz Box Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_reeses-pieces-holiday-peanut-butter-candy-4-oz-box_front.webp",
+          "alt": "Reeses Pieces Holiday Peanut Butter Candy 4 Oz Box packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_reeses-pieces-holiday-peanut-butter-candy-4-oz-box_back.webp",
+          "alt": "Reeses Pieces Holiday Peanut Butter Candy 4 Oz Box package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSKIS",
+      "name": "Hersheys Kisses Candy Cane Mint Candy 31 67 Oz Bag",
+      "full_name": "Hersheys Kisses Candy Cane Mint Candy 31 67 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Spread delicious holiday cheer with the cool, creamy flavor of HERSHEY’S KISSES Candy Cane Mint Candy — crunchy, pepperminty and wrapped in festive foils.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_14408_2_701_14408_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-kisses-candy-cane-mint-candy-31-67-oz-bag_front.webp",
+          "alt": "Hersheys Kisses Candy Cane Mint Candy 31 67 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_14408_2_701_14408_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-kisses-candy-cane-mint-candy-31-67-oz-bag_back.webp",
+          "alt": "Hersheys Kisses Candy Cane Mint Candy 31 67 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-CADBURYCARA",
+      "name": "Cadbury Caramello Easter Milk Chocolate And Creamy Caramel Miniatures Candy Bars 7 6 Oz Bag",
+      "full_name": "Cadbury Caramello Easter Milk Chocolate And Creamy Caramel Miniatures Candy Bars 7 6 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "This shareable bag of spring-themed CADBURY CARAMELLO Miniatures Milk Chocolate &amp; Creamy Caramel Candy makes it easy to enjoy the sweetness of the season.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_94453_8_701_94453_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_cadbury-caramello-easter-milk-chocolate-and-creamy-caramel-miniatures-candy-bars-7-6-oz-bag_front.webp",
+          "alt": "Cadbury Caramello Easter Milk Chocolate And Creamy Caramel Miniatures Candy Bars 7 6 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_94453_8_701_94453_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_cadbury-caramello-easter-milk-chocolate-and-creamy-caramel-miniatures-candy-bars-7-6-oz-bag_back.webp",
+          "alt": "Cadbury Caramello Easter Milk Chocolate And Creamy Caramel Miniatures Candy Bars 7 6 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSCOO",
+      "name": "Hersheys Cookies N Creme Popcorn 5 25 Oz Bag",
+      "full_name": "Hersheys Cookies N Creme Popcorn 5 25 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Snack on a new level with HERSHEY’S Cookies ‘n’ Creme Popcorn. Enjoy sweet white creme and crunchy cookie bits on each piece for the perfect sweet and salty snack.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/products/general-products/hersheys-cookies-n-creme-popcorn-5-25-oz-bag-front.png",
+          "file": "hershey_hersheys-cookies-n-creme-popcorn-5-25-oz-bag_front.webp",
+          "alt": "Hersheys Cookies N Creme Popcorn 5 25 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/products/general-products/hersheys-cookies-n-creme-popcorn-5-25-oz-bag-front.png",
+          "file": "hershey_hersheys-cookies-n-creme-popcorn-5-25-oz-bag_back.webp",
+          "alt": "Hersheys Cookies N Creme Popcorn 5 25 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-REESESHOLID",
+      "name": "Reeses Holiday Milk Chocolate Miniatures Peanut Butter Cups 15 5 Oz Bag",
+      "full_name": "Reeses Holiday Milk Chocolate Miniatures Peanut Butter Cups 15 5 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Celebrate this season with mouthwatering REESE’S Holiday Miniatures Milk Chocolate Peanut Butter Cups. We know you want to. Shop now for stocking stuffers.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_46590_3_701_46590_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-holiday-milk-chocolate-miniatures-peanut-butter-cups-15-5-oz-bag_front.webp",
+          "alt": "Reeses Holiday Milk Chocolate Miniatures Peanut Butter Cups 15 5 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_46590_3_701_46590_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-holiday-milk-chocolate-miniatures-peanut-butter-cups-15-5-oz-bag_back.webp",
+          "alt": "Reeses Holiday Milk Chocolate Miniatures Peanut Butter Cups 15 5 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-DOTSHOMESTY",
+      "name": "Dots Homestyle Pretzels Parmesan Garlic Seasoned Pretzel Twists 16 Oz Bag",
+      "full_name": "Dots Homestyle Pretzels Parmesan Garlic Seasoned Pretzel Twists 16 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "DOT&#39;S HOMESTYLE PRETZELS Parmesan Garlic Seasoned Twists are irresistibly rich, buttery and savory. Perfect for tailgates, road trips or lunch boxes! Shop now.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_50031_71985_9_779_71985_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_dots-homestyle-pretzels-parmesan-garlic-seasoned-pretzel-twists-16-oz-bag_front.webp",
+          "alt": "Dots Homestyle Pretzels Parmesan Garlic Seasoned Pretzel Twists 16 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_50031_71985_9_779_71985_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_dots-homestyle-pretzels-parmesan-garlic-seasoned-pretzel-twists-16-oz-bag_back.webp",
+          "alt": "Dots Homestyle Pretzels Parmesan Garlic Seasoned Pretzel Twists 16 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-REESESHALLO",
+      "name": "Reeses Halloween Milk Chocolate Snack Size Peanut Butter Cups 30 25 Oz Bag 55 Pieces",
+      "full_name": "Reeses Halloween Milk Chocolate Snack Size Peanut Butter Cups 30 25 Oz Bag 55 Pieces Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_reeses-halloween-milk-chocolate-snack-size-peanut-butter-cups-30-25-oz-bag-55-pieces_front.webp",
+          "alt": "Reeses Halloween Milk Chocolate Snack Size Peanut Butter Cups 30 25 Oz Bag 55 Pieces packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_reeses-halloween-milk-chocolate-snack-size-peanut-butter-cups-30-25-oz-bag-55-pieces_back.webp",
+          "alt": "Reeses Halloween Milk Chocolate Snack Size Peanut Butter Cups 30 25 Oz Bag 55 Pieces package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSCAR",
+      "name": "Hersheys Caramel Syrup 22 Oz Bottle",
+      "full_name": "Hersheys Caramel Syrup 22 Oz Bottle Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "HERSHEY&#39;S Syrup in caramel flavor is an indulgent addition to your favorite sweets and treats. Try it as a twist on the classic chocolate milk shake!",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_00366_2_701_31840_033_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-caramel-syrup-22-oz-bottle_front.webp",
+          "alt": "Hersheys Caramel Syrup 22 Oz Bottle packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_00366_2_701_31840_033_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-caramel-syrup-22-oz-bottle_back.webp",
+          "alt": "Hersheys Caramel Syrup 22 Oz Bottle package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-CADBURYMINI",
+      "name": "Cadbury Mini Eggs Royal Dark Chocolate Candy 26 5 Oz Bag",
+      "full_name": "Cadbury Mini Eggs Royal Dark Chocolate Candy 26 5 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "The perfect Easter treat for dark chocolate lovers. CADBURY MINI EGGS Royal Dark Chocolate Candy have a rich dark chocolate center with a colorful sugar shell.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_46183_7_701_46183_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_cadbury-mini-eggs-royal-dark-chocolate-candy-26-5-oz-bag_front.webp",
+          "alt": "Cadbury Mini Eggs Royal Dark Chocolate Candy 26 5 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_46183_7_701_46183_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_cadbury-mini-eggs-royal-dark-chocolate-candy-26-5-oz-bag_back.webp",
+          "alt": "Cadbury Mini Eggs Royal Dark Chocolate Candy 26 5 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-KITKATVALE",
+      "name": "Kit Kat Valentines Milk Chocolate Miniatures Candy Bars 9 6 Oz Bag",
+      "full_name": "Kit Kat Valentines Milk Chocolate Miniatures Candy Bars 9 6 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Fill your candy dishes with KIT KAT® Valentine&#39;s Milk Chocolate Miniatures Candy Bars and unwrap a much-deserved mini break. Shop Valentine&#39;s Day sweets today.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_22881_2_701_22881_004_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_kit-kat-valentines-milk-chocolate-miniatures-candy-bars-9-6-oz-bag_front.webp",
+          "alt": "Kit Kat Valentines Milk Chocolate Miniatures Candy Bars 9 6 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_22881_2_701_22881_004_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_kit-kat-valentines-milk-chocolate-miniatures-candy-bars-9-6-oz-bag_back.webp",
+          "alt": "Kit Kat Valentines Milk Chocolate Miniatures Candy Bars 9 6 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-PIRATESBOOT",
+      "name": "Pirates Booty Valentines Exchange Aged White Cheddar Rice And Corn Puffs 0 5 Oz Bag 18 Count Box",
+      "full_name": "Pirates Booty Valentines Exchange Aged White Cheddar Rice And Corn Puffs 0 5 Oz Bag 18 Count Box Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "PIRATE’S BOOTY Valentine’s Exchange Aged White Cheddar Rice &amp; Corn Puffs, 18 count box, are the perfect way to show your mateys you treasure them.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_15665_00107_1_782_00107_000_Item_Left?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_pirates-booty-valentines-exchange-aged-white-cheddar-rice-and-corn-puffs-0-5-oz-bag-18-count-box_front.webp",
+          "alt": "Pirates Booty Valentines Exchange Aged White Cheddar Rice And Corn Puffs 0 5 Oz Bag 18 Count Box packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_15665_00107_1_782_00107_000_Item_Left?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_pirates-booty-valentines-exchange-aged-white-cheddar-rice-and-corn-puffs-0-5-oz-bag-18-count-box_back.webp",
+          "alt": "Pirates Booty Valentines Exchange Aged White Cheddar Rice And Corn Puffs 0 5 Oz Bag 18 Count Box package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-ICEBREAKERS",
+      "name": "Ice Breakers Ice Cubes Spearmint Sugar Free Gum 1 62 Oz Thin Pack 20 Pieces",
+      "full_name": "Ice Breakers Ice Cubes Spearmint Sugar Free Gum 1 62 Oz Thin Pack 20 Pieces Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_ice-breakers-ice-cubes-spearmint-sugar-free-gum-1-62-oz-thin-pack-20-pieces_front.webp",
+          "alt": "Ice Breakers Ice Cubes Spearmint Sugar Free Gum 1 62 Oz Thin Pack 20 Pieces packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_ice-breakers-ice-cubes-spearmint-sugar-free-gum-1-62-oz-thin-pack-20-pieces_back.webp",
+          "alt": "Ice Breakers Ice Cubes Spearmint Sugar Free Gum 1 62 Oz Thin Pack 20 Pieces package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-ICEBREAKERS",
+      "name": "Ice Breakers Ice Cubes Strawberry Lemonade Sugar Free Gum 2 6 Oz 4 Count Box",
+      "full_name": "Ice Breakers Ice Cubes Strawberry Lemonade Sugar Free Gum 2 6 Oz 4 Count Box Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_ice-breakers-ice-cubes-strawberry-lemonade-sugar-free-gum-2-6-oz-4-count-box_front.webp",
+          "alt": "Ice Breakers Ice Cubes Strawberry Lemonade Sugar Free Gum 2 6 Oz 4 Count Box packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_ice-breakers-ice-cubes-strawberry-lemonade-sugar-free-gum-2-6-oz-4-count-box_back.webp",
+          "alt": "Ice Breakers Ice Cubes Strawberry Lemonade Sugar Free Gum 2 6 Oz 4 Count Box package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-JOLLYRANCHE",
+      "name": "Jolly Rancher Ropes Watermelon And Green Apple Flavored Candy 10 Oz Bag",
+      "full_name": "Jolly Rancher Ropes Watermelon And Green Apple Flavored Candy 10 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Rope in fruity fun with JOLLY RANCHER Ropes Watermelon + Green Apple Flavored Candy. These chewy treats are bursting with bold flavors. Shop now.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_10700_55725_4_702_55725_002_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_jolly-rancher-ropes-watermelon-and-green-apple-flavored-candy-10-oz-bag_front.webp",
+          "alt": "Jolly Rancher Ropes Watermelon And Green Apple Flavored Candy 10 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_10700_55725_4_702_55725_002_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_jolly-rancher-ropes-watermelon-and-green-apple-flavored-candy-10-oz-bag_back.webp",
+          "alt": "Jolly Rancher Ropes Watermelon And Green Apple Flavored Candy 10 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-REESESCREAM",
+      "name": "Reeses Creamy Peanut Butter 18 Oz Jar",
+      "full_name": "Reeses Creamy Peanut Butter 18 Oz Jar Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "We know peanut butter. Elevate the flavor of your PB&amp;Js, smoothies and snacks with a spoonful of REESE’S Creamy Peanut Butter. Get your 18 oz jar today!",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d2.scene7.com/is/image/hersheysassets/0_34000_40012_6_701_40012_006_Item_Front?fmt=png-alpha&hei=908",
+          "file": "hershey_reeses-creamy-peanut-butter-18-oz-jar_front.webp",
+          "alt": "Reeses Creamy Peanut Butter 18 Oz Jar packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d2.scene7.com/is/image/hersheysassets/0_34000_40012_6_701_40012_006_Item_Back?fmt=png-alpha&hei=908",
+          "file": "hershey_reeses-creamy-peanut-butter-18-oz-jar_back.webp",
+          "alt": "Reeses Creamy Peanut Butter 18 Oz Jar package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSSUG",
+      "name": "Hersheys Sugar Free Chocolate Chips 8 Oz Bag",
+      "full_name": "Hersheys Sugar Free Chocolate Chips 8 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "HERSHEY&#39;S Zero Sugar Semi-Sweet Chocolate Chips are a great way to get semi-sweet taste without the sugar! Make desserts and treats everyone can enjoy.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_14134_0_701_14134_015_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-sugar-free-chocolate-chips-8-oz-bag_front.webp",
+          "alt": "Hersheys Sugar Free Chocolate Chips 8 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_14134_0_701_14134_015_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-sugar-free-chocolate-chips-8-oz-bag_back.webp",
+          "alt": "Hersheys Sugar Free Chocolate Chips 8 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-ALMONDJOYC",
+      "name": "Almond Joy Coconut And Almond Chocolate Snack Size Candy Bars 11 3 Oz Bag",
+      "full_name": "Almond Joy Coconut And Almond Chocolate Snack Size Candy Bars 11 3 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Share something indescribably delicious with a crowd! This bag contains 11.3 ounces of individually-wrapped ALMOND JOY Snack Size Candy Bars.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_02040_9_701_02040_022_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_almond-joy-coconut-and-almond-chocolate-snack-size-candy-bars-11-3-oz-bag_front.webp",
+          "alt": "Almond Joy Coconut And Almond Chocolate Snack Size Candy Bars 11 3 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_02040_9_701_02040_022_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_almond-joy-coconut-and-almond-chocolate-snack-size-candy-bars-11-3-oz-bag_back.webp",
+          "alt": "Almond Joy Coconut And Almond Chocolate Snack Size Candy Bars 11 3 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-DOTSHOMESTY",
+      "name": "Dots Homestyle Pretzels Original Seasoned Pretzel Twists 1 Oz Bag 10 Count Box",
+      "full_name": "Dots Homestyle Pretzels Original Seasoned Pretzel Twists 1 Oz Bag 10 Count Box Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "DOT&#39;s Original Seasoned Pretzels have big time buttery flavor with a satisfying crunch that make them perfect for lunchboxes, road trips or snacking at home. Get yours today!",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_50031_71949_1_779_71949_002_Item_Left?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_dots-homestyle-pretzels-original-seasoned-pretzel-twists-1-oz-bag-10-count-box_front.webp",
+          "alt": "Dots Homestyle Pretzels Original Seasoned Pretzel Twists 1 Oz Bag 10 Count Box packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_50031_71949_1_779_71949_002_Item_Left?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_dots-homestyle-pretzels-original-seasoned-pretzel-twists-1-oz-bag-10-count-box_back.webp",
+          "alt": "Dots Homestyle Pretzels Original Seasoned Pretzel Twists 1 Oz Bag 10 Count Box package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-SKINNYPOPPA",
+      "name": "Skinnypop Parmesan Garlic Flavored Popcorn 1 Oz Bag",
+      "full_name": "Skinnypop Parmesan Garlic Flavored Popcorn 1 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "SKINNYPOP Parmesan Garlic Popcorn, 1 oz bag, is deliciously popped and bursting with the flavors of real parmesan cheese and roasted garlic seasoning.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_16925_02378_5_781_02378_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_skinnypop-parmesan-garlic-flavored-popcorn-1-oz-bag_front.webp",
+          "alt": "Skinnypop Parmesan Garlic Flavored Popcorn 1 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_16925_02378_5_781_02378_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_skinnypop-parmesan-garlic-flavored-popcorn-1-oz-bag_back.webp",
+          "alt": "Skinnypop Parmesan Garlic Flavored Popcorn 1 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYHALL",
+      "name": "Hershey Halloween All Sweets Snack Size Assortment 84 17 Oz Bag 290 Pieces",
+      "full_name": "Hershey Halloween All Sweets Snack Size Assortment 84 17 Oz Bag 290 Pieces Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-halloween-all-sweets-snack-size-assortment-84-17-oz-bag-290-pieces_front.webp",
+          "alt": "Hershey Halloween All Sweets Snack Size Assortment 84 17 Oz Bag 290 Pieces packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-halloween-all-sweets-snack-size-assortment-84-17-oz-bag-290-pieces_back.webp",
+          "alt": "Hershey Halloween All Sweets Snack Size Assortment 84 17 Oz Bag 290 Pieces package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYHALL",
+      "name": "Hershey Halloween Chocolate Miniatures Assortment 101 04 Oz Bag 355 Pieces",
+      "full_name": "Hershey Halloween Chocolate Miniatures Assortment 101 04 Oz Bag 355 Pieces Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-halloween-chocolate-miniatures-assortment-101-04-oz-bag-355-pieces_front.webp",
+          "alt": "Hershey Halloween Chocolate Miniatures Assortment 101 04 Oz Bag 355 Pieces packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-halloween-chocolate-miniatures-assortment-101-04-oz-bag-355-pieces_back.webp",
+          "alt": "Hershey Halloween Chocolate Miniatures Assortment 101 04 Oz Bag 355 Pieces package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-GOODANDPLE",
+      "name": "Good And Plenty Licorice Candy 80 Oz Bag",
+      "full_name": "Good And Plenty Licorice Candy 80 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "This five-pound bag of GOOD &amp; PLENTY Licorice Candy is perfect for candy buffets, baby showers and anyone who loves old-fashioned candy. Get details.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d2.scene7.com/is/image/hersheysassets/10700_08820_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_good-and-plenty-licorice-candy-80-oz-bag_front.webp",
+          "alt": "Good And Plenty Licorice Candy 80 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d2.scene7.com/is/image/hersheysassets/10700_08820_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_good-and-plenty-licorice-candy-80-oz-bag_back.webp",
+          "alt": "Good And Plenty Licorice Candy 80 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSHUG",
+      "name": "Hersheys Hugs And Kisses Valentines Assortment 21 4 Oz Bag",
+      "full_name": "Hersheys Hugs And Kisses Valentines Assortment 21 4 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Send Xs and Os this Valentine’s Day with HERSHEY&#39;S HUGS &amp; KISSES! This combo pack makes the perfect sweet gift or pretties up your candy bowl. Try today.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_45527_0_701_45527_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-hugs-and-kisses-valentines-assortment-21-4-oz-bag_front.webp",
+          "alt": "Hersheys Hugs And Kisses Valentines Assortment 21 4 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_45527_0_701_45527_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-hugs-and-kisses-valentines-assortment-21-4-oz-bag_back.webp",
+          "alt": "Hersheys Hugs And Kisses Valentines Assortment 21 4 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-ROLOHOLIDAY",
+      "name": "Rolo Holiday Creamy Caramels In Rich Chocolate Candy 15 2 Oz Bag",
+      "full_name": "Rolo Holiday Creamy Caramels In Rich Chocolate Candy 15 2 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Roll into the holidays with this festive bag of ROLO® Holiday Creamy Caramels in Rich Chocolate Candy. Shop melt-in-your-mouth flavor today.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_38871_4_701_38871_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_rolo-holiday-creamy-caramels-in-rich-chocolate-candy-15-2-oz-bag_front.webp",
+          "alt": "Rolo Holiday Creamy Caramels In Rich Chocolate Candy 15 2 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_38871_4_701_38871_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_rolo-holiday-creamy-caramels-in-rich-chocolate-candy-15-2-oz-bag_back.webp",
+          "alt": "Rolo Holiday Creamy Caramels In Rich Chocolate Candy 15 2 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSEXT",
+      "name": "Hersheys Extra Creamy Milk Chocolate Hearts 9 2 Oz Bag",
+      "full_name": "Hersheys Extra Creamy Milk Chocolate Hearts 9 2 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Spread the love with HERSHEY&#39;S Extra Creamy Milk Chocolate Hearts. Wrapped in silver and pink foils, these chocolates are a sweet gesture for Valentine&#39;s Day.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_18479_8_701_18481_001_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-extra-creamy-milk-chocolate-hearts-9-2-oz-bag_front.webp",
+          "alt": "Hersheys Extra Creamy Milk Chocolate Hearts 9 2 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_18479_8_701_18481_001_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-extra-creamy-milk-chocolate-hearts-9-2-oz-bag_back.webp",
+          "alt": "Hersheys Extra Creamy Milk Chocolate Hearts 9 2 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-5THAVENUEC",
+      "name": "5Th Avenue Crunchy Peanut Butter In Chocolate King Size Candy Bar 3 4 Oz",
+      "full_name": "5Th Avenue Crunchy Peanut Butter In Chocolate King Size Candy Bar 3 4 Oz Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "People can’t get enough of this bar’s rich chocolate and crispy layers of peanut butter. Get the king size to share with friends.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "http://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_00288_7_701_28800_022_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_5th-avenue-crunchy-peanut-butter-in-chocolate-king-size-candy-bar-3-4-oz_front.webp",
+          "alt": "5Th Avenue Crunchy Peanut Butter In Chocolate King Size Candy Bar 3 4 Oz packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "http://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_00288_7_701_28800_022_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_5th-avenue-crunchy-peanut-butter-in-chocolate-king-size-candy-bar-3-4-oz_back.webp",
+          "alt": "5Th Avenue Crunchy Peanut Butter In Chocolate King Size Candy Bar 3 4 Oz package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-SKINNYPOPSW",
+      "name": "Skinnypop Sweet And Salty Kettle Corn Popcorn 5 3 Oz Bag",
+      "full_name": "Skinnypop Sweet And Salty Kettle Corn Popcorn 5 3 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "SKINNYPOP Sweet &amp; Salty Kettle Corn Popcorn, 5.3 oz bag is expertly popped with a balance of savory salt and sweet sugar. Get yours and enjoy the freedom to snack.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_50251_00420_9_786_00420_008_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_skinnypop-sweet-and-salty-kettle-corn-popcorn-5-3-oz-bag_front.webp",
+          "alt": "Skinnypop Sweet And Salty Kettle Corn Popcorn 5 3 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_50251_00420_9_786_00420_008_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_skinnypop-sweet-and-salty-kettle-corn-popcorn-5-3-oz-bag_back.webp",
+          "alt": "Skinnypop Sweet And Salty Kettle Corn Popcorn 5 3 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-ICEBREAKERS",
+      "name": "Ice Breakers Duo Raspberry Sugar Free Mints 1 3 Oz Puck",
+      "full_name": "Ice Breakers Duo Raspberry Sugar Free Mints 1 3 Oz Puck Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Combine the sweet fruity flavor of raspberry with icy cooling crystals and enjoy delicious and refreshing ICE BREAKERS DUO mints. See details here.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_00666_3_701_72336_030_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_ice-breakers-duo-raspberry-sugar-free-mints-1-3-oz-puck_front.webp",
+          "alt": "Ice Breakers Duo Raspberry Sugar Free Mints 1 3 Oz Puck packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_00666_3_701_72336_030_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_ice-breakers-duo-raspberry-sugar-free-mints-1-3-oz-puck_back.webp",
+          "alt": "Ice Breakers Duo Raspberry Sugar Free Mints 1 3 Oz Puck package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-TWIZZLERSTW",
+      "name": "Twizzlers Twists Strawberry Flavored Candy 24 Oz Bag",
+      "full_name": "Twizzlers Twists Strawberry Flavored Candy 24 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Original TWIZZLERS Strawberry Twists give your mouth something to smile about! Share this pack with family, friends and other licorice candy lovers.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d2.scene7.com/is/image/hersheysassets/0_34000_56362_3_701_56362_027_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_twizzlers-twists-strawberry-flavored-candy-24-oz-bag_front.webp",
+          "alt": "Twizzlers Twists Strawberry Flavored Candy 24 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d2.scene7.com/is/image/hersheysassets/0_34000_56362_3_701_56362_027_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_twizzlers-twists-strawberry-flavored-candy-24-oz-bag_back.webp",
+          "alt": "Twizzlers Twists Strawberry Flavored Candy 24 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYALL",
+      "name": "Hershey All Time Greats Miniatures Assortment 70 79 Oz Bag 220 Pieces",
+      "full_name": "Hershey All Time Greats Miniatures Assortment 70 79 Oz Bag 220 Pieces Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-all-time-greats-miniatures-assortment-70-79-oz-bag-220-pieces_front.webp",
+          "alt": "Hershey All Time Greats Miniatures Assortment 70 79 Oz Bag 220 Pieces packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-all-time-greats-miniatures-assortment-70-79-oz-bag-220-pieces_back.webp",
+          "alt": "Hershey All Time Greats Miniatures Assortment 70 79 Oz Bag 220 Pieces package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-REESESWHITE",
+      "name": "Reeses White Creme King Size Peanut Butter Cups 2 8 Oz",
+      "full_name": "Reeses White Creme King Size Peanut Butter Cups 2 8 Oz Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Want peanut butter cups with a sweeter side? Try REESE&#39;S White Creme Peanut Butter Cups King Size and get plenty of this smooth, sweet treat.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d2.scene7.com/is/image/hersheysassets/0_34000_48012_8_701_48011_011_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-white-creme-king-size-peanut-butter-cups-2-8-oz_front.webp",
+          "alt": "Reeses White Creme King Size Peanut Butter Cups 2 8 Oz packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d2.scene7.com/is/image/hersheysassets/0_34000_48012_8_701_48011_011_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-white-creme-king-size-peanut-butter-cups-2-8-oz_back.webp",
+          "alt": "Reeses White Creme King Size Peanut Butter Cups 2 8 Oz package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-ROLOCREAMY",
+      "name": "Rolo Creamy Caramels In Rich Chocolate Candy 7 6 Oz Bag",
+      "full_name": "Rolo Creamy Caramels In Rich Chocolate Candy 7 6 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Unwrapped ROLO® candies are perfect for snacking, baking and sharing with friends. See product details, nutrition information and more.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_47067_9_701_47067_004_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_rolo-creamy-caramels-in-rich-chocolate-candy-7-6-oz-bag_front.webp",
+          "alt": "Rolo Creamy Caramels In Rich Chocolate Candy 7 6 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_47067_9_701_47067_004_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_rolo-creamy-caramels-in-rich-chocolate-candy-7-6-oz-bag_back.webp",
+          "alt": "Rolo Creamy Caramels In Rich Chocolate Candy 7 6 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYVALE",
+      "name": "Hershey Valentines Xo Milk Chocolate Assortment 6 Oz Gift Box",
+      "full_name": "Hershey Valentines Xo Milk Chocolate Assortment 6 Oz Gift Box Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Make your valentine swoon with a ready-to-gift box that has both HERSHEY’S KISSES Candies and REESE’S Peanut Butter Cup Miniatures. Shop now.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_10093_4_701_10093_001_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hershey-valentines-xo-milk-chocolate-assortment-6-oz-gift-box_front.webp",
+          "alt": "Hershey Valentines Xo Milk Chocolate Assortment 6 Oz Gift Box packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_10093_4_701_10093_001_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hershey-valentines-xo-milk-chocolate-assortment-6-oz-gift-box_back.webp",
+          "alt": "Hershey Valentines Xo Milk Chocolate Assortment 6 Oz Gift Box package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSCOO",
+      "name": "Hersheys Cookies N Creme Red White And Blue Candy Bar 1 55 Oz",
+      "full_name": "Hersheys Cookies N Creme Red White And Blue Candy Bar 1 55 Oz Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hersheys-cookies-n-creme-red-white-and-blue-candy-bar-1-55-oz_front.webp",
+          "alt": "Hersheys Cookies N Creme Red White And Blue Candy Bar 1 55 Oz packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hersheys-cookies-n-creme-red-white-and-blue-candy-bar-1-55-oz_back.webp",
+          "alt": "Hersheys Cookies N Creme Red White And Blue Candy Bar 1 55 Oz package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSSPE",
+      "name": "Hersheys Special Dark Mildly Sweet Chocolate Candy Bars 8 7 Oz 6 Pack",
+      "full_name": "Hersheys Special Dark Mildly Sweet Chocolate Candy Bars 8 7 Oz 6 Pack Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Indulge in something especially dark, mildly sweet and totally delicious. This six pack contains plenty of full-sized bars to savor and share.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d2.scene7.com/is/image/hersheysassets/0_34000_24502_4_701_24501_033_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-special-dark-mildly-sweet-chocolate-candy-bars-8-7-oz-6-pack_front.webp",
+          "alt": "Hersheys Special Dark Mildly Sweet Chocolate Candy Bars 8 7 Oz 6 Pack packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d2.scene7.com/is/image/hersheysassets/0_34000_24502_4_701_24501_033_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-special-dark-mildly-sweet-chocolate-candy-bars-8-7-oz-6-pack_back.webp",
+          "alt": "Hersheys Special Dark Mildly Sweet Chocolate Candy Bars 8 7 Oz 6 Pack package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-YORKZEROSU",
+      "name": "York Zero Sugar Dark Chocolate Candy Peppermint Patties 3 Oz Bag",
+      "full_name": "York Zero Sugar Dark Chocolate Candy Peppermint Patties 3 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Want to hear something cool? YORK Zero Sugar Peppermint Patties have all the refreshing Hershey goodness and none of the sugar.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_04911_0_701_04911_027_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_york-zero-sugar-dark-chocolate-candy-peppermint-patties-3-oz-bag_front.webp",
+          "alt": "York Zero Sugar Dark Chocolate Candy Peppermint Patties 3 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_04911_0_701_04911_027_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_york-zero-sugar-dark-chocolate-candy-peppermint-patties-3-oz-bag_back.webp",
+          "alt": "York Zero Sugar Dark Chocolate Candy Peppermint Patties 3 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSHAR",
+      "name": "Hersheys Harry Potter Magical Creatures Cookies N Creme Snack Size Candy Bars 9 45 Oz Bag",
+      "full_name": "Hersheys Harry Potter Magical Creatures Cookies N Creme Snack Size Candy Bars 9 45 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "HERSHEY&#39;S Harry Potter™ Magical Creatures Cookies &#39;N&#39; Creme Snack Size Candy Bars are a magical mix of white creme and chocolate cookies. Grab your bag now.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_45802_8_701_45802_001_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-harry-potter-magical-creatures-cookies-n-creme-snack-size-candy-bars-9-45-oz-bag_front.webp",
+          "alt": "Hersheys Harry Potter Magical Creatures Cookies N Creme Snack Size Candy Bars 9 45 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_45802_8_701_45802_001_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-harry-potter-magical-creatures-cookies-n-creme-snack-size-candy-bars-9-45-oz-bag_back.webp",
+          "alt": "Hersheys Harry Potter Magical Creatures Cookies N Creme Snack Size Candy Bars 9 45 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYHALL",
+      "name": "Hershey Halloween Snack Size Assortment 15 89 Oz Bag 35 Pieces",
+      "full_name": "Hershey Halloween Snack Size Assortment 15 89 Oz Bag 35 Pieces Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-halloween-snack-size-assortment-15-89-oz-bag-35-pieces_front.webp",
+          "alt": "Hershey Halloween Snack Size Assortment 15 89 Oz Bag 35 Pieces packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-halloween-snack-size-assortment-15-89-oz-bag-35-pieces_back.webp",
+          "alt": "Hershey Halloween Snack Size Assortment 15 89 Oz Bag 35 Pieces package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-REESESHOLID",
+      "name": "Reeses Holiday Peanut Butter Shapes Assortment 31 94 Oz Bag",
+      "full_name": "Reeses Holiday Peanut Butter Shapes Assortment 31 94 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "It’s the most peanut-buttery time of the year — with REESE’S Holiday Peanut Butter Shapes Assortment, a merry mix of delicious trees, nutcrackers and bells.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_45950_6_701_45950_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-holiday-peanut-butter-shapes-assortment-31-94-oz-bag_front.webp",
+          "alt": "Reeses Holiday Peanut Butter Shapes Assortment 31 94 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_45950_6_701_45950_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-holiday-peanut-butter-shapes-assortment-31-94-oz-bag_back.webp",
+          "alt": "Reeses Holiday Peanut Butter Shapes Assortment 31 94 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-REESESFILLE",
+      "name": "Reeses Filled Pretzels With Peanut Butter Filling 5 Oz Bag",
+      "full_name": "Reeses Filled Pretzels With Peanut Butter Filling 5 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "REESE’S Filled Pretzels combine crunchy, lightly salted pretzels with an iconic REESE’S Peanut Butter Filling for the perfect sweet-and-salty snack.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_10031_48026_5_780_48026_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-filled-pretzels-with-peanut-butter-filling-5-oz-bag_front.webp",
+          "alt": "Reeses Filled Pretzels With Peanut Butter Filling 5 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_10031_48026_5_780_48026_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-filled-pretzels-with-peanut-butter-filling-5-oz-bag_back.webp",
+          "alt": "Reeses Filled Pretzels With Peanut Butter Filling 5 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-REESESMALLO",
+      "name": "Reeses Mallow Top Marshmallow Creme With Milk Chocolate King Size Peanut Butter Cups 57 6 Oz Box 24 Count",
+      "full_name": "Reeses Mallow Top Marshmallow Creme With Milk Chocolate King Size Peanut Butter Cups 57 6 Oz Box 24 Count Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_reeses-mallow-top-marshmallow-creme-with-milk-chocolate-king-size-peanut-butter-cups-57-6-oz-box-24-count_front.webp",
+          "alt": "Reeses Mallow Top Marshmallow Creme With Milk Chocolate King Size Peanut Butter Cups 57 6 Oz Box 24 Count packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_reeses-mallow-top-marshmallow-creme-with-milk-chocolate-king-size-peanut-butter-cups-57-6-oz-box-24-count_back.webp",
+          "alt": "Reeses Mallow Top Marshmallow Creme With Milk Chocolate King Size Peanut Butter Cups 57 6 Oz Box 24 Count package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-SKINNYPOPTR",
+      "name": "Skinnypop Truffle Olive Oil Popcorn 7 5 Oz Bag",
+      "full_name": "Skinnypop Truffle Olive Oil Popcorn 7 5 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Deliciously popped in olive oil, SKINNYPOP Truffle Olive Oil Popcorn adds the rich, umami flavor of truffle for a gourmet snacking experience in every bite.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_16925_02364_8_781_02364_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_skinnypop-truffle-olive-oil-popcorn-7-5-oz-bag_front.webp",
+          "alt": "Skinnypop Truffle Olive Oil Popcorn 7 5 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_16925_02364_8_781_02364_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_skinnypop-truffle-olive-oil-popcorn-7-5-oz-bag_back.webp",
+          "alt": "Skinnypop Truffle Olive Oil Popcorn 7 5 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSKIS",
+      "name": "Hersheys Kisses Valentines Milk Chocolate Candy 10 1 Oz Bag",
+      "full_name": "Hersheys Kisses Valentines Milk Chocolate Candy 10 1 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Great for candy dishes or classroom exchanges, get a bag of HERSHEY&#39;S KISSES Milk Chocolate Candies, wrapped in festive red, pink and silver foils. Order soon!",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_12497_8_701_12497_001_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-kisses-valentines-milk-chocolate-candy-10-1-oz-bag_front.webp",
+          "alt": "Hersheys Kisses Valentines Milk Chocolate Candy 10 1 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_12497_8_701_12497_001_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-kisses-valentines-milk-chocolate-candy-10-1-oz-bag_back.webp",
+          "alt": "Hersheys Kisses Valentines Milk Chocolate Candy 10 1 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-BARKTHINSDA",
+      "name": "Barkthins Dark Chocolate Pretzel And Sea Salt Snacking Chocolate 4 7 Oz Bag",
+      "full_name": "Barkthins Dark Chocolate Pretzel And Sea Salt Snacking Chocolate 4 7 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Indulgent dark chocolate meets a classic salty snack. It&#39;s snacking chocolate with a twist.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d2.scene7.com/is/image/hersheysassets/8_59686_00401_3_770_00401_002_Item_Front?fmt=png-alpha&hei=908",
+          "file": "hershey_barkthins-dark-chocolate-pretzel-and-sea-salt-snacking-chocolate-4-7-oz-bag_front.webp",
+          "alt": "Barkthins Dark Chocolate Pretzel And Sea Salt Snacking Chocolate 4 7 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d2.scene7.com/is/image/hersheysassets/8_59686_00401_3_770_00401_002_Item_Back?fmt=png-alpha&hei=908",
+          "file": "hershey_barkthins-dark-chocolate-pretzel-and-sea-salt-snacking-chocolate-4-7-oz-bag_back.webp",
+          "alt": "Barkthins Dark Chocolate Pretzel And Sea Salt Snacking Chocolate 4 7 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-REESESHALLO",
+      "name": "Reeses Halloween Lovers Snack Size Assortment 40 71 Oz Bag 75 Pieces",
+      "full_name": "Reeses Halloween Lovers Snack Size Assortment 40 71 Oz Bag 75 Pieces Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_reeses-halloween-lovers-snack-size-assortment-40-71-oz-bag-75-pieces_front.webp",
+          "alt": "Reeses Halloween Lovers Snack Size Assortment 40 71 Oz Bag 75 Pieces packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_reeses-halloween-lovers-snack-size-assortment-40-71-oz-bag-75-pieces_back.webp",
+          "alt": "Reeses Halloween Lovers Snack Size Assortment 40 71 Oz Bag 75 Pieces package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-REESESHALLO",
+      "name": "Reeses Halloween Milk Chocolate Snack Size Peanut Butter Cups 33 Oz Bag 60 Pieces",
+      "full_name": "Reeses Halloween Milk Chocolate Snack Size Peanut Butter Cups 33 Oz Bag 60 Pieces Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_reeses-halloween-milk-chocolate-snack-size-peanut-butter-cups-33-oz-bag-60-pieces_front.webp",
+          "alt": "Reeses Halloween Milk Chocolate Snack Size Peanut Butter Cups 33 Oz Bag 60 Pieces packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_reeses-halloween-milk-chocolate-snack-size-peanut-butter-cups-33-oz-bag-60-pieces_back.webp",
+          "alt": "Reeses Halloween Milk Chocolate Snack Size Peanut Butter Cups 33 Oz Bag 60 Pieces package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-REESESCHOCO",
+      "name": "Reeses Chocolate Peanut Butter Skeletons 8 1 Oz Bag",
+      "full_name": "Reeses Chocolate Peanut Butter Skeletons 8 1 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "Prepare for a Halloween that&#39;s full of skele-fun! These REESE&#39;S Chocolate Peanut Butter Skeletons are a scary good addition to your candy bowl.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_48416_4_701_48416_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-chocolate-peanut-butter-skeletons-8-1-oz-bag_front.webp",
+          "alt": "Reeses Chocolate Peanut Butter Skeletons 8 1 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_48416_4_701_48416_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-chocolate-peanut-butter-skeletons-8-1-oz-bag_back.webp",
+          "alt": "Reeses Chocolate Peanut Butter Skeletons 8 1 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSZER",
+      "name": "Hersheys Zero Sugar Cookies N Creme Candy 5 1 Oz Bag",
+      "full_name": "Hersheys Zero Sugar Cookies N Creme Candy 5 1 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "HERSHEY&#39;S Zero Sugar Cookies &#39;N&#39; Creme Snack Size Bars, 5.1 oz, have the smooth white creme and crunchy chocolate cookies you love — with none of the sugar.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_14245_3_701_14245_001_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-zero-sugar-cookies-n-creme-candy-5-1-oz-bag_front.webp",
+          "alt": "Hersheys Zero Sugar Cookies N Creme Candy 5 1 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_14245_3_701_14245_001_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-zero-sugar-cookies-n-creme-candy-5-1-oz-bag_back.webp",
+          "alt": "Hersheys Zero Sugar Cookies N Creme Candy 5 1 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-REESESMILK",
+      "name": "Reeses Milk Chocolate Peanut Butter Snack Size Pumpkins 10 2 Oz Bag",
+      "full_name": "Reeses Milk Chocolate Peanut Butter Snack Size Pumpkins 10 2 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "We found the best pumpkins in the patch! These REESE&#39;S Milk Chocolate Peanut Butter Snack Size Pumpkins are the classic combo you love in a fun, seasonal shape.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_47562_9_701_47562_004_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-milk-chocolate-peanut-butter-snack-size-pumpkins-10-2-oz-bag_front.webp",
+          "alt": "Reeses Milk Chocolate Peanut Butter Snack Size Pumpkins 10 2 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_47562_9_701_47562_004_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_reeses-milk-chocolate-peanut-butter-snack-size-pumpkins-10-2-oz-bag_back.webp",
+          "alt": "Reeses Milk Chocolate Peanut Butter Snack Size Pumpkins 10 2 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSMIL",
+      "name": "Hersheys Milk Chocolate Giant Candy Bar 7 56 Oz",
+      "full_name": "Hersheys Milk Chocolate Giant Candy Bar 7 56 Oz Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "To celebrate the release of the HERSHEY movie, we&#39;re wrapping our HERSHEY&#39;S Movie Milk Chocolate Giant Candy Bar bar in fun vintage-inspired packaging.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_19066_9_701_19066_004_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-milk-chocolate-giant-candy-bar-7-56-oz_front.webp",
+          "alt": "Hersheys Milk Chocolate Giant Candy Bar 7 56 Oz packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_19066_9_701_19066_004_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_hersheys-milk-chocolate-giant-candy-bar-7-56-oz_back.webp",
+          "alt": "Hersheys Milk Chocolate Giant Candy Bar 7 56 Oz package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYSWEE",
+      "name": "Hershey Sweet Wrapped Assortment 119 3 Oz Bag 335 Pieces",
+      "full_name": "Hershey Sweet Wrapped Assortment 119 3 Oz Bag 335 Pieces Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-sweet-wrapped-assortment-119-3-oz-bag-335-pieces_front.webp",
+          "alt": "Hershey Sweet Wrapped Assortment 119 3 Oz Bag 335 Pieces packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-sweet-wrapped-assortment-119-3-oz-bag-335-pieces_back.webp",
+          "alt": "Hershey Sweet Wrapped Assortment 119 3 Oz Bag 335 Pieces package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYHALL",
+      "name": "Hershey Halloween Snack Size Assortment 15 57 Oz Bag 30 Pieces",
+      "full_name": "Hershey Halloween Snack Size Assortment 15 57 Oz Bag 30 Pieces Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-halloween-snack-size-assortment-15-57-oz-bag-30-pieces_front.webp",
+          "alt": "Hershey Halloween Snack Size Assortment 15 57 Oz Bag 30 Pieces packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-halloween-snack-size-assortment-15-57-oz-bag-30-pieces_back.webp",
+          "alt": "Hershey Halloween Snack Size Assortment 15 57 Oz Bag 30 Pieces package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-TWIZZLERSTW",
+      "name": "Twizzlers Twists Valentines Exchange Strawberry Flavored Candy 9 6 Oz Bag",
+      "full_name": "Twizzlers Twists Valentines Exchange Strawberry Flavored Candy 9 6 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "TWIZZLERS Strawberry Twists Snack Size Friendship Exchange packs feature strawberry-flavored twists with their own “to/from” wrapper, ready for exchanging.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_10700_70383_5_702_70383_000_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_twizzlers-twists-valentines-exchange-strawberry-flavored-candy-9-6-oz-bag_front.webp",
+          "alt": "Twizzlers Twists Valentines Exchange Strawberry Flavored Candy 9 6 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_10700_70383_5_702_70383_000_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_twizzlers-twists-valentines-exchange-strawberry-flavored-candy-9-6-oz-bag_back.webp",
+          "alt": "Twizzlers Twists Valentines Exchange Strawberry Flavored Candy 9 6 Oz Bag package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-HERSHEYHALL",
+      "name": "Hershey Halloween Glow In The Dark Miniatures Assortment 25 8 Oz Bag 90 Pieces",
+      "full_name": "Hershey Halloween Glow In The Dark Miniatures Assortment 25 8 Oz Bag 90 Pieces Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "From ALMOND JOY Candy to ZAGNUT Bars, search and shop your favorite Hershey products and candy brands on Hersheyland.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-halloween-glow-in-the-dark-miniatures-assortment-25-8-oz-bag-90-pieces_front.webp",
+          "alt": "Hershey Halloween Glow In The Dark Miniatures Assortment 25 8 Oz Bag 90 Pieces packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/products/hersheyland-products-listing-page-hero.jpg",
+          "file": "hershey_hershey-halloween-glow-in-the-dark-miniatures-assortment-25-8-oz-bag-90-pieces_back.webp",
+          "alt": "Hershey Halloween Glow In The Dark Miniatures Assortment 25 8 Oz Bag 90 Pieces package back"
+        }
+      ]
+    },
+    {
+      "id": "HSY-SKINNYPOPSW",
+      "name": "Skinnypop Sweet And Salty Kettle Corn 5 3 Oz Bag",
+      "full_name": "Skinnypop Sweet And Salty Kettle Corn 5 3 Oz Bag Retail Pack",
+      "category": "Confectionery & Chocolate",
+      "group": "The Hershey Company Heritage Brands",
+      "style": "Pure Chocolate & Confectionery",
+      "price": 2.49,
+      "color": "Signature Brand Packaging Palette",
+      "material": "Farm fresh milk, cocoa butter, sugar, roasted peanuts, natural vanilla",
+      "dimensions": "Standard Retail Portion Pack / Sealed Barrier Foil",
+      "packaging": "High-barrier moisture seal metallized film with printed nutritional panel",
+      "brief": "SKINNYPOP Sweet &amp; Salty Kettle Corn Popcorn, 5.3 oz bag is expertly popped with a balance of savory salt and sweet sugar. Get yours and enjoy the freedom to snack.",
+      "frames": [
+        {
+          "label": "RETAIL PACKSHOT FRONT",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_50251_00420_9_786_00420_008_Item_Front?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_skinnypop-sweet-and-salty-kettle-corn-5-3-oz-bag_front.webp",
+          "alt": "Skinnypop Sweet And Salty Kettle Corn 5 3 Oz Bag packshot front"
+        },
+        {
+          "label": "NUTRITIONAL PANEL & BACK",
+          "url": "https://s7d1.scene7.com/is/image/hersheyprodcloud/8_50251_00420_9_786_00420_008_Item_Back?fmt=webp-alpha&hei=908&qlt=75",
+          "file": "hershey_skinnypop-sweet-and-salty-kettle-corn-5-3-oz-bag_back.webp",
+          "alt": "Skinnypop Sweet And Salty Kettle Corn 5 3 Oz Bag package back"
+        }
+      ]
+    }
+  ]
+}

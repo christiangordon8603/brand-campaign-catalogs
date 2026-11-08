@@ -1,0 +1,2165 @@
+{
+  "brand": "OGX",
+  "tagline": "Salon-Grade Botanical Hair Wellness & Nourishing Elixirs",
+  "total_products": 77,
+  "total_frames": 154,
+  "total_value_usd": 692.23,
+  "products": [
+    {
+      "id": "OGX-PROGROWTHPEPTI",
+      "name": "OGX Pro Growth Peptide Conditioner",
+      "full_name": "OGX Pro Growth Peptide Conditioner (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "OGX® ProGrowth + Peptide Conditioner thickens strands, reduces hair fall due to breakage, and maintains length",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_pro-growth-peptide-conditioner_front.webp",
+          "alt": "OGX Pro Growth Peptide Conditioner front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-PROGROWTHPEPTI",
+      "name": "OGX Pro Growth Peptide Scalp Serum",
+      "full_name": "OGX Pro Growth Peptide Scalp Serum (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Reinforce your roots and get thicker fuller hair with just one use of OGX® ProGrowth + Peptide Scalp Serum",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/7v1kKsfqkxldAsWwaqCoJN/c5c93651cfa926ab276e5d6028e58ab9/1_Pro_Growth___Peptide_Scalp_Serum_0.33oz.webp",
+          "file": "ogx_pro-growth-peptide-scalp-serum_front.webp",
+          "alt": "OGX Pro Growth Peptide Scalp Serum front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-PROGROWTHPEPTI",
+      "name": "OGX Pro Growth Peptide Shampoo",
+      "full_name": "OGX Pro Growth Peptide Shampoo (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "OGX® ProGrowth + Peptide Shampoo gently exfoliates scalp, unclogs follicles, and supports natural growth",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/5hCGZ57kmdxOqInDi67luF/b1f1424974dc4bd1c8cc38048a9b68fe/1_Pro_Growth___Peptide_Shampoo_13oz.webp",
+          "file": "ogx_pro-growth-peptide-shampoo_front.webp",
+          "alt": "OGX Pro Growth Peptide Shampoo front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-PROGROWTHPEPTI",
+      "name": "OGX Pro Growth Peptide Scalp Mist",
+      "full_name": "OGX Pro Growth Peptide Scalp Mist (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "OGX® ProGrowth + Peptide Serum Mist reduces hair fall due to breakage, strengthens and protects hair from styling, and heat protection up to 450 °F",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/1KPBA75pQPrcFBzWUtsrv7/285aecbc00cfb121efb011e7e1c3e878/1_Pro_Growth___Peptide_Serum_Mist_6.5oz.webp",
+          "file": "ogx_pro-growth-peptide-scalp-mist_front.webp",
+          "alt": "OGX Pro Growth Peptide Scalp Mist front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-VOLUMIZINGSPRAY",
+      "name": "OGX Volumizing Spray",
+      "full_name": "OGX Volumizing Spray (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Boost your hair&#x27;s volume with OGX® Volumizing Spray. This lightweight formula lifts and adds body, giving your locks a fuller, bouncy look all day long!",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/1UYKIjJZJnNrQGcOZx5CDB/9b737b28ec1beb967abc6294dfe5f85b/OGX_NA_US_052800681996_406819900_156204_Volumizing_Spray_7p9floz_00000.webp",
+          "file": "ogx_volumizing-spray_front.webp",
+          "alt": "OGX Volumizing Spray front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-RENEWINGARGANO",
+      "name": "OGX Renewing Argan Oil Of Morocco Extra Penetrating Oil 3 3Oz",
+      "full_name": "OGX Renewing Argan Oil Of Morocco Extra Penetrating Oil 3 3Oz (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Transform your hair with OGX® Renewing Argan Oil of Morocco Extra Penetrating Oil. This lightweight formula deeply nourishes, adds shine, and tames frizz!",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/3B76Sdr4luhOPdIh1Ltkb8/3b765993319340315921bb2209412714/AOM_extra_strength_oil_FOP.webp",
+          "file": "ogx_renewing-argan-oil-of-morocco-extra-penetrating-oil-3-3oz_front.webp",
+          "alt": "OGX Renewing Argan Oil Of Morocco Extra Penetrating Oil 3 3Oz front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-THICKFULLBIOTI",
+      "name": "OGX Thick Full Biotin And Collagen Hair Thickening Shampoo",
+      "full_name": "OGX Thick Full Biotin And Collagen Hair Thickening Shampoo (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Boost your hair&#x27;s volume with OGX® Thick &amp; Full Biotin and Collagen Shampoo. Enriched with biotin and collagen it helps create thicker fuller-looking hair",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/1CRRNTvbGVgnXGP6wspZSf/5d12fe2fc04a9724cd014a5606aa3e81/biotin-and-collagen-shampoo-13oz-FOP-cloudy-gradient.webp",
+          "file": "ogx_thick-full-biotin-and-collagen-hair-thickening-shampoo_front.webp",
+          "alt": "OGX Thick Full Biotin And Collagen Hair Thickening Shampoo front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-COCONUTMIRACLE",
+      "name": "OGX Coconut Miracle Penetrating Oil",
+      "full_name": "OGX Coconut Miracle Penetrating Oil (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Repair and soften thick hair with OGX® Extra Strength Damage Remedy + Coconut Miracle Oil Penetrating Hair Oil Treatment with coconut oil.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/shhHNU3sCh39i0B5n5zGM/ede4f5c862952d20bbc840d048f81665/Coconut_miracle_oil_penetrating_oil_FOP.webp",
+          "file": "ogx_coconut-miracle-penetrating-oil_front.webp",
+          "alt": "OGX Coconut Miracle Penetrating Oil front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ROSEMARYMINTSH",
+      "name": "OGX Rosemary Mint Shampoo 13Oz",
+      "full_name": "OGX Rosemary Mint Shampoo 13Oz (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Rosemary Mint shampoo 13oz. The powerful formula from OGX®, the #1 Hair Repair Brand, visibly repairs damage after the first use.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6DBvHJLMaElH3kzgHFigj0/ee4080e22ccaeffa275054ff14c360b3/Rosemary_mint_shampoo_packaging_update_front.webp",
+          "file": "ogx_rosemary-mint-shampoo-13oz_front.webp",
+          "alt": "OGX Rosemary Mint Shampoo 13Oz front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-NOURISHINGCOCON",
+      "name": "OGX Nourishing Coconut Milk Anti Breakage Hair Serum 4Oz",
+      "full_name": "OGX Nourishing Coconut Milk Anti Breakage Hair Serum 4Oz (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Revitalize your hair with OGX® Nourishing Coconut Milk Anti-Breakage Hair Serum. This serum strengthens and hydrates reducing breakage for healthier hair!\n",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/1MWUYpvLq8R9QLqJ7DcHmn/d46c043c3adcbfd034f02cf276059f33/coconut_milk_serum_FOP.webp",
+          "file": "ogx_nourishing-coconut-milk-anti-breakage-hair-serum-4oz_front.webp",
+          "alt": "OGX Nourishing Coconut Milk Anti Breakage Hair Serum 4Oz front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-OGXPINKSEASAL",
+      "name": "OGX Ogx Pink Sea Salt Rosewater Gentle Soothing Body Scrub",
+      "full_name": "OGX Ogx Pink Sea Salt Rosewater Gentle Soothing Body Scrub (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Indulge your skin with OGX® Pink Sea Salt &amp; Rosewater Body Scrub. This gentle exfoliator soothes and rejuvenates, leaving your skin refreshed and radiant.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/57tuCHn39Lz1TD0vOaBAyB/c0add5fa389c8504c6804cb55151a22b/5-fl-oz-en-us-OGX",
+          "file": "ogx_ogx-pink-sea-salt-rosewater-gentle-soothing-body-scrub_front.webp",
+          "alt": "OGX Ogx Pink Sea Salt Rosewater Gentle Soothing Body Scrub front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-BONDPROTEINREP",
+      "name": "OGX Bond Protein Repair Pre Shampoo",
+      "full_name": "OGX Bond Protein Repair Pre Shampoo (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Mends over-processed hair for shine upkeep and strength with OGX® Bond Protein Repair Pre-Shampoo",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/1yvqWZcjH7OLuUNSuRCYJt/71a78fa29234c08e3a723cd17c289436/OGX_US_52800681972_Bond_Protein_Repair_Pre_Shampoo_8p4oz_00000.webp",
+          "file": "ogx_bond-protein-repair-pre-shampoo_front.webp",
+          "alt": "OGX Bond Protein Repair Pre Shampoo front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-LOCKINGCOCONUT",
+      "name": "OGX Locking Coconut Curls Decadent Creamy Mousse",
+      "full_name": "OGX Locking Coconut Curls Decadent Creamy Mousse (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "The OGX Coconut Decadent Creamy Mousse is perfect for thick, curly hair.  ",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/3supo7XgLumBiw1IqodvzG/aa7ed288fe874f6f616b0fae4bcb576c/9-fl-oz-en-us",
+          "file": "ogx_locking-coconut-curls-decadent-creamy-mousse_front.webp",
+          "alt": "OGX Locking Coconut Curls Decadent Creamy Mousse front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-MIRRORSHINECOC",
+      "name": "OGX Mirror Shine Coconut Oil Prewash Gloss",
+      "full_name": "OGX Mirror Shine Coconut Oil Prewash Gloss (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Mirror Shine + Coconut Oil Pre Wash Gloss: shine lasts 48 hours, enhances detangling, mends up to 50% of split ends",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/25PPCLmJYtHMJGTyyKWK1/0c92c9c671bcd66d4ccedd2c01167b60/1_Mirror_shine_coconut_oil_FOP.webp",
+          "file": "ogx_mirror-shine-coconut-oil-prewash-gloss_front.webp",
+          "alt": "OGX Mirror Shine Coconut Oil Prewash Gloss front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-COCONUTCURLSFR",
+      "name": "OGX Coconut Curls Frizz Defying Curl Styling Milk",
+      "full_name": "OGX Coconut Curls Frizz Defying Curl Styling Milk (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Boost your curls with OGX Quenching + Coconut Curls Frizz-Defying Curl Styling Milk.\n",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/1hrciBjjFuwMYveJ8c8XbU/3a9daf1bfd04c44267976608cf4de671/Quenching-Coconut-Curls-Frizz-Defying-Curl-Styling-Milk-6-fl-oz-en-us",
+          "file": "ogx_coconut-curls-frizz-defying-curl-styling-milk_front.webp",
+          "alt": "OGX Coconut Curls Frizz Defying Curl Styling Milk front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-MOROCCANCURLING",
+      "name": "OGX Moroccan Curling Perfection Defining Cream",
+      "full_name": "OGX Moroccan Curling Perfection Defining Cream (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Smooth and define curls with OGX Argan Oil of Morocco Curling Perfection Curl-Defining Cream.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/2u8qlLKCU8nlzL0kCAELNw/4b7fbb588230988ed342b414337ddcc6/curling_perfection_FOP.webp",
+          "file": "ogx_moroccan-curling-perfection-defining-cream_front.webp",
+          "alt": "OGX Moroccan Curling Perfection Defining Cream front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-THICKFULLBIOTI",
+      "name": "OGX Thick Full Biotin Collagen Weightless Oil Mist",
+      "full_name": "OGX Thick Full Biotin Collagen Weightless Oil Mist (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Enhance your hair&#x27;s thickness with OGX® Thick &amp; Full Biotin &amp; Collagen Weightless Oil Mist. This lightweight formula boosts volume and adds shine!",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/1OzkurntRfxHDALtZ36siD/d03b5551f371bc5ad8ed03c83c30e4a2/B-T_weightless_oil_mist_FOP.webp",
+          "file": "ogx_thick-full-biotin-collagen-weightless-oil-mist_front.webp",
+          "alt": "OGX Thick Full Biotin Collagen Weightless Oil Mist front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-BONDPROTEINREP",
+      "name": "OGX Bond Protein Repair Sealing Serum",
+      "full_name": "OGX Bond Protein Repair Sealing Serum (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Multitask to revitalize damaged hair with OGX® Bond Protein Repair Sealing Serum",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/2iL4llzSP23IqAACvUxaS9/f7a4c3751252e3f983b00053ee7a22c5/OGX_US_52800681927_Bond_Protein_Repair_Sealing_Serum_1p7oz_OOB1.webp",
+          "file": "ogx_bond-protein-repair-sealing-serum_front.webp",
+          "alt": "OGX Bond Protein Repair Sealing Serum front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-BONDPROTEINMIN",
+      "name": "OGX Bond Protein Minute Treatment Mask",
+      "full_name": "OGX Bond Protein Minute Treatment Mask (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Rapid repair for shiny smooth hair that lasts between washes with OGX® Bond Protein Repair 1-Minute Treatment Mask",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/4QBSFGzIwv7sSTG74Sj5E4/b37d1e3e7dc5d9f2f0e0ce0e3b032d40/OGX_US_52800681934_Bond_Protein_Repair_Treatment_Mask_6p7oz_00000.webp",
+          "file": "ogx_bond-protein-minute-treatment-mask_front.webp",
+          "alt": "OGX Bond Protein Minute Treatment Mask front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-MIRRORSHINEARG",
+      "name": "OGX Mirror Shine Argan Oil Prewash Gloss",
+      "full_name": "OGX Mirror Shine Argan Oil Prewash Gloss (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Mirror Shine + Argan Oil Pre Wash Gloss: shine lasts 48 hours, delivers 4x smoother hair, blocks frizz, mends up to 40% of split ends",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/KAAkujv9MP50PSoMtQGrW/acbd1f25369fded8621183c443af1c06/1_Mirror_shine_argan_oil-FOP.webp",
+          "file": "ogx_mirror-shine-argan-oil-prewash-gloss_front.webp",
+          "alt": "OGX Mirror Shine Argan Oil Prewash Gloss front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-FLEXIBLEHOLDHA",
+      "name": "OGX Flexible Hold Hairspray",
+      "full_name": "OGX Flexible Hold Hairspray (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_flexible-hold-hairspray_front.webp",
+          "alt": "OGX Flexible Hold Hairspray front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ARGANOILOFMOR",
+      "name": "OGX Argan Oil Of Morocco Extra Hydrating Body Wash",
+      "full_name": "OGX Argan Oil Of Morocco Extra Hydrating Body Wash (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_argan-oil-of-morocco-extra-hydrating-body-wash_front.webp",
+          "alt": "OGX Argan Oil Of Morocco Extra Hydrating Body Wash front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ROSEMARYMINTEX",
+      "name": "OGX Rosemary Mint Extra Strength Shampoo 13Oz",
+      "full_name": "OGX Rosemary Mint Extra Strength Shampoo 13Oz (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_rosemary-mint-extra-strength-shampoo-13oz_front.webp",
+          "alt": "OGX Rosemary Mint Extra Strength Shampoo 13Oz front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-COCONUTMIRACLE",
+      "name": "OGX Coconut Miracle Oil Shampoo",
+      "full_name": "OGX Coconut Miracle Oil Shampoo (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_coconut-miracle-oil-shampoo_front.webp",
+          "alt": "OGX Coconut Miracle Oil Shampoo front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-SMOOTHINGCOCONU",
+      "name": "OGX Smoothing Coconut Coffee Scrub Wash",
+      "full_name": "OGX Smoothing Coconut Coffee Scrub Wash (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_smoothing-coconut-coffee-scrub-wash_front.webp",
+          "alt": "OGX Smoothing Coconut Coffee Scrub Wash front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ROSEMARYMINTCO",
+      "name": "OGX Rosemary Mint Conditioner 13Oz",
+      "full_name": "OGX Rosemary Mint Conditioner 13Oz (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_rosemary-mint-conditioner-13oz_front.webp",
+          "alt": "OGX Rosemary Mint Conditioner 13Oz front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-EVERSTRAIGHTBR",
+      "name": "OGX Ever Straight Brazilian Keratin Therapy Straightening Conditioner",
+      "full_name": "OGX Ever Straight Brazilian Keratin Therapy Straightening Conditioner (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_ever-straight-brazilian-keratin-therapy-straightening-conditioner_front.webp",
+          "alt": "OGX Ever Straight Brazilian Keratin Therapy Straightening Conditioner front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-STRONGHOLDHAIR",
+      "name": "OGX Strong Hold Hairspray",
+      "full_name": "OGX Strong Hold Hairspray (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_strong-hold-hairspray_front.webp",
+          "alt": "OGX Strong Hold Hairspray front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-PLUMPEMULSIONC",
+      "name": "OGX Plump Emulsion Collagen Conditioning Mist",
+      "full_name": "OGX Plump Emulsion Collagen Conditioning Mist (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_plump-emulsion-collagen-conditioning-mist_front.webp",
+          "alt": "OGX Plump Emulsion Collagen Conditioning Mist front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-BONDPROTEINREP",
+      "name": "OGX Bond Protein Repair Hair Care Set",
+      "full_name": "OGX Bond Protein Repair Hair Care Set (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_bond-protein-repair-hair-care-set_front.webp",
+          "alt": "OGX Bond Protein Repair Hair Care Set front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-BONDPROTEINREP",
+      "name": "OGX Bond Protein Repair Heat Protect Spray",
+      "full_name": "OGX Bond Protein Repair Heat Protect Spray (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_bond-protein-repair-heat-protect-spray_front.webp",
+          "alt": "OGX Bond Protein Repair Heat Protect Spray front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-MOISTURIZINGCOC",
+      "name": "OGX Moisturizing Coconut Oil Body Wash For Dry Skin",
+      "full_name": "OGX Moisturizing Coconut Oil Body Wash For Dry Skin (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_moisturizing-coconut-oil-body-wash-for-dry-skin_front.webp",
+          "alt": "OGX Moisturizing Coconut Oil Body Wash For Dry Skin front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-RENEWINGARGANO",
+      "name": "OGX Renewing Argan Oil Of Morocco Hair Restoring Strengthening Shampoo",
+      "full_name": "OGX Renewing Argan Oil Of Morocco Hair Restoring Strengthening Shampoo (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_renewing-argan-oil-of-morocco-hair-restoring-strengthening-shampoo_front.webp",
+          "alt": "OGX Renewing Argan Oil Of Morocco Hair Restoring Strengthening Shampoo front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ARGANOILMOROCC",
+      "name": "OGX Argan Oil Morocco Hair Care Set",
+      "full_name": "OGX Argan Oil Morocco Hair Care Set (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_argan-oil-morocco-hair-care-set_front.webp",
+          "alt": "OGX Argan Oil Morocco Hair Care Set front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-OGXHYDRATIONSE",
+      "name": "OGX Ogx Hydration Sea Kelp Hyaluronic Acid Black Rice Body Scrub",
+      "full_name": "OGX Ogx Hydration Sea Kelp Hyaluronic Acid Black Rice Body Scrub (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_ogx-hydration-sea-kelp-hyaluronic-acid-black-rice-body-scrub_front.webp",
+          "alt": "OGX Ogx Hydration Sea Kelp Hyaluronic Acid Black Rice Body Scrub front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-SMOOTHEMULSION",
+      "name": "OGX Smooth Emulsion Argan Oil Conditioning Mist",
+      "full_name": "OGX Smooth Emulsion Argan Oil Conditioning Mist (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_smooth-emulsion-argan-oil-conditioning-mist_front.webp",
+          "alt": "OGX Smooth Emulsion Argan Oil Conditioning Mist front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-COCONUTMIRACLE",
+      "name": "OGX Coconut Miracle Oil Ultra Moisture Body Lotion",
+      "full_name": "OGX Coconut Miracle Oil Ultra Moisture Body Lotion (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_coconut-miracle-oil-ultra-moisture-body-lotion_front.webp",
+          "alt": "OGX Coconut Miracle Oil Ultra Moisture Body Lotion front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ROSEMARYMINTEX",
+      "name": "OGX Rosemary Mint Extra Strength Conditioner 13Oz",
+      "full_name": "OGX Rosemary Mint Extra Strength Conditioner 13Oz (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_rosemary-mint-extra-strength-conditioner-13oz_front.webp",
+          "alt": "OGX Rosemary Mint Extra Strength Conditioner 13Oz front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-BONDPROTEINREP",
+      "name": "OGX Bond Protein Repair Lightweight Conditioner",
+      "full_name": "OGX Bond Protein Repair Lightweight Conditioner (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_bond-protein-repair-lightweight-conditioner_front.webp",
+          "alt": "OGX Bond Protein Repair Lightweight Conditioner front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-PROTECTINGSILK",
+      "name": "OGX Protecting Silk Blowout Quick Drying Thermal Spray",
+      "full_name": "OGX Protecting Silk Blowout Quick Drying Thermal Spray (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_protecting-silk-blowout-quick-drying-thermal-spray_front.webp",
+          "alt": "OGX Protecting Silk Blowout Quick Drying Thermal Spray front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-OGXBIOTINCOLLA",
+      "name": "OGX Ogx Biotin Collagen Extra Strength Volumizing Conditioner",
+      "full_name": "OGX Ogx Biotin Collagen Extra Strength Volumizing Conditioner (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_ogx-biotin-collagen-extra-strength-volumizing-conditioner_front.webp",
+          "alt": "OGX Ogx Biotin Collagen Extra Strength Volumizing Conditioner front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-COCONUTMILKHYD",
+      "name": "OGX Coconut Milk Hydration Set",
+      "full_name": "OGX Coconut Milk Hydration Set (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_coconut-milk-hydration-set_front.webp",
+          "alt": "OGX Coconut Milk Hydration Set front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-STRENGTHENINGAN",
+      "name": "OGX Strengthening And Smooth Extra Strength Keratin Oil Conditioner",
+      "full_name": "OGX Strengthening And Smooth Extra Strength Keratin Oil Conditioner (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_strengthening-and-smooth-extra-strength-keratin-oil-conditioner_front.webp",
+          "alt": "OGX Strengthening And Smooth Extra Strength Keratin Oil Conditioner front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-EVERSTRAIGHTBR",
+      "name": "OGX Ever Straight Brazilian Keratin Therapy Hair Straightening Shampoo",
+      "full_name": "OGX Ever Straight Brazilian Keratin Therapy Hair Straightening Shampoo (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_ever-straight-brazilian-keratin-therapy-hair-straightening-shampoo_front.webp",
+          "alt": "OGX Ever Straight Brazilian Keratin Therapy Hair Straightening Shampoo front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-LOCKINGCOCONUT",
+      "name": "OGX Locking Coconut Curls Air Dry Cream 6Oz",
+      "full_name": "OGX Locking Coconut Curls Air Dry Cream 6Oz (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_locking-coconut-curls-air-dry-cream-6oz_front.webp",
+          "alt": "OGX Locking Coconut Curls Air Dry Cream 6Oz front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-BIOTINCOLLAGEN",
+      "name": "OGX Biotin Collagen Conditioner",
+      "full_name": "OGX Biotin Collagen Conditioner (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_biotin-collagen-conditioner_front.webp",
+          "alt": "OGX Biotin Collagen Conditioner front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-NOURISHINGCOCON",
+      "name": "OGX Nourishing Coconut Oil Weightless Oil Hair Mist 4Oz",
+      "full_name": "OGX Nourishing Coconut Oil Weightless Oil Hair Mist 4Oz (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_nourishing-coconut-oil-weightless-oil-hair-mist-4oz_front.webp",
+          "alt": "OGX Nourishing Coconut Oil Weightless Oil Hair Mist 4Oz front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-BONDPROTEINREP",
+      "name": "OGX Bond Protein Repair Lightweight Shampoo",
+      "full_name": "OGX Bond Protein Repair Lightweight Shampoo (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_bond-protein-repair-lightweight-shampoo_front.webp",
+          "alt": "OGX Bond Protein Repair Lightweight Shampoo front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-RENEWINGARGANO",
+      "name": "OGX Renewing Argan Oil Of Morocco Penetrating Oil",
+      "full_name": "OGX Renewing Argan Oil Of Morocco Penetrating Oil (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_renewing-argan-oil-of-morocco-penetrating-oil_front.webp",
+          "alt": "OGX Renewing Argan Oil Of Morocco Penetrating Oil front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-BIOTINCOLLAGEN",
+      "name": "OGX Biotin Collagen Thick Full Set",
+      "full_name": "OGX Biotin Collagen Thick Full Set (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_biotin-collagen-thick-full-set_front.webp",
+          "alt": "OGX Biotin Collagen Thick Full Set front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-COCONUTMILKSHA",
+      "name": "OGX Coconut Milk Shampoo",
+      "full_name": "OGX Coconut Milk Shampoo (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_coconut-milk-shampoo_front.webp",
+          "alt": "OGX Coconut Milk Shampoo front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-STRENGTHENINGAN",
+      "name": "OGX Strengthening And Smooth Extra Strength Keratin Oil Shampoo",
+      "full_name": "OGX Strengthening And Smooth Extra Strength Keratin Oil Shampoo (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_strengthening-and-smooth-extra-strength-keratin-oil-shampoo_front.webp",
+          "alt": "OGX Strengthening And Smooth Extra Strength Keratin Oil Shampoo front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-TOUCHABLEHOLDG",
+      "name": "OGX Touchable Hold Gel",
+      "full_name": "OGX Touchable Hold Gel (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_touchable-hold-gel_front.webp",
+          "alt": "OGX Touchable Hold Gel front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-COCONUTMILKCON",
+      "name": "OGX Coconut Milk Conditioner",
+      "full_name": "OGX Coconut Milk Conditioner (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_coconut-milk-conditioner_front.webp",
+          "alt": "OGX Coconut Milk Conditioner front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-IMPECCABLONDEP",
+      "name": "OGX Impecca Blonde Purple Toning Shampoo 13Oz",
+      "full_name": "OGX Impecca Blonde Purple Toning Shampoo 13Oz (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_impecca-blonde-purple-toning-shampoo-13oz_front.webp",
+          "alt": "OGX Impecca Blonde Purple Toning Shampoo 13Oz front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-COCONUTCURLSSH",
+      "name": "OGX Coconut Curls Shampoo",
+      "full_name": "OGX Coconut Curls Shampoo (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_coconut-curls-shampoo_front.webp",
+          "alt": "OGX Coconut Curls Shampoo front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-OGXBIOTINCOLLA",
+      "name": "OGX Ogx Biotin Collagen Extra Strength Volumizing Shampoo",
+      "full_name": "OGX Ogx Biotin Collagen Extra Strength Volumizing Shampoo (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_ogx-biotin-collagen-extra-strength-volumizing-shampoo_front.webp",
+          "alt": "OGX Ogx Biotin Collagen Extra Strength Volumizing Shampoo front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ARGANOILOFMOR",
+      "name": "OGX Argan Oil Of Morocco Extra Hydrating Body Lotion",
+      "full_name": "OGX Argan Oil Of Morocco Extra Hydrating Body Lotion (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_argan-oil-of-morocco-extra-hydrating-body-lotion_front.webp",
+          "alt": "OGX Argan Oil Of Morocco Extra Hydrating Body Lotion front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ABBEYYUNGFAVOR",
+      "name": "OGX Abbey Yung Favorites Hair Repair Protection Set",
+      "full_name": "OGX Abbey Yung Favorites Hair Repair Protection Set (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_abbey-yung-favorites-hair-repair-protection-set_front.webp",
+          "alt": "OGX Abbey Yung Favorites Hair Repair Protection Set front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-COCONUTCURLSCO",
+      "name": "OGX Coconut Curls Conditioner",
+      "full_name": "OGX Coconut Curls Conditioner (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_coconut-curls-conditioner_front.webp",
+          "alt": "OGX Coconut Curls Conditioner front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ROSEMARYMINTEX",
+      "name": "OGX Rosemary Mint Extra Strength Scalp Treatment 4Oz",
+      "full_name": "OGX Rosemary Mint Extra Strength Scalp Treatment 4Oz (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_rosemary-mint-extra-strength-scalp-treatment-4oz_front.webp",
+          "alt": "OGX Rosemary Mint Extra Strength Scalp Treatment 4Oz front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-EXTRASTRENGTHD",
+      "name": "OGX Extra Strength Damage Remedy Coconut Oil Conditioner 13Oz",
+      "full_name": "OGX Extra Strength Damage Remedy Coconut Oil Conditioner 13Oz (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_extra-strength-damage-remedy-coconut-oil-conditioner-13oz_front.webp",
+          "alt": "OGX Extra Strength Damage Remedy Coconut Oil Conditioner 13Oz front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ARGANOILOFMOR",
+      "name": "OGX Argan Oil Of Morocco Conditioner",
+      "full_name": "OGX Argan Oil Of Morocco Conditioner (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_argan-oil-of-morocco-conditioner_front.webp",
+          "alt": "OGX Argan Oil Of Morocco Conditioner front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-RENEWINGARGANO",
+      "name": "OGX Renewing Argan Oil Of Morocco Weightless Healing Dry Oil",
+      "full_name": "OGX Renewing Argan Oil Of Morocco Weightless Healing Dry Oil (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_renewing-argan-oil-of-morocco-weightless-healing-dry-oil_front.webp",
+          "alt": "OGX Renewing Argan Oil Of Morocco Weightless Healing Dry Oil front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-BONDPROTEINREP",
+      "name": "OGX Bond Protein Repair Oil Mist",
+      "full_name": "OGX Bond Protein Repair Oil Mist (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_bond-protein-repair-oil-mist_front.webp",
+          "alt": "OGX Bond Protein Repair Oil Mist front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-OGXSMOOTHINGCO",
+      "name": "OGX Ogx Smoothing Coconut Coffee Body Cream 19 5Oz",
+      "full_name": "OGX Ogx Smoothing Coconut Coffee Body Cream 19 5Oz (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_ogx-smoothing-coconut-coffee-body-cream-19-5oz_front.webp",
+          "alt": "OGX Ogx Smoothing Coconut Coffee Body Cream 19 5Oz front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-SHAMPOOCONDITIO",
+      "name": "OGX Shampoo Conditioner",
+      "full_name": "OGX Shampoo Conditioner (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_shampoo-conditioner_front.webp",
+          "alt": "OGX Shampoo Conditioner front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-STYLE",
+      "name": "OGX Style",
+      "full_name": "OGX Style (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_style_front.webp",
+          "alt": "OGX Style front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-TREATMENT",
+      "name": "OGX Treatment",
+      "full_name": "OGX Treatment (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_treatment_front.webp",
+          "alt": "OGX Treatment front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-BESTSELLERS",
+      "name": "OGX Best Sellers",
+      "full_name": "OGX Best Sellers (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_best-sellers_front.webp",
+          "alt": "OGX Best Sellers front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-NEWANDIMPROVED",
+      "name": "OGX New And Improved Formulas",
+      "full_name": "OGX New And Improved Formulas (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_new-and-improved-formulas_front.webp",
+          "alt": "OGX New And Improved Formulas front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-OILS",
+      "name": "OGX Oils",
+      "full_name": "OGX Oils (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_oils_front.webp",
+          "alt": "OGX Oils front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-KERATINOILCOND",
+      "name": "OGX Keratin Oil Conditioner",
+      "full_name": "OGX Keratin Oil Conditioner (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_keratin-oil-conditioner_front.webp",
+          "alt": "OGX Keratin Oil Conditioner front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ARGANOILOFMOR",
+      "name": "OGX Argan Oil Of Morocco Extra Strength Shampoo",
+      "full_name": "OGX Argan Oil Of Morocco Extra Strength Shampoo (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_argan-oil-of-morocco-extra-strength-shampoo_front.webp",
+          "alt": "OGX Argan Oil Of Morocco Extra Strength Shampoo front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ARGANOILOFMOR",
+      "name": "OGX Argan Oil Of Morocco Extra Strength Conditioner",
+      "full_name": "OGX Argan Oil Of Morocco Extra Strength Conditioner (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_argan-oil-of-morocco-extra-strength-conditioner_front.webp",
+          "alt": "OGX Argan Oil Of Morocco Extra Strength Conditioner front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-ANTIBREAKAGEKE",
+      "name": "OGX Anti Breakage Keratin Oil Shampoo For Split Ends",
+      "full_name": "OGX Anti Breakage Keratin Oil Shampoo For Split Ends (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_anti-breakage-keratin-oil-shampoo-for-split-ends_front.webp",
+          "alt": "OGX Anti Breakage Keratin Oil Shampoo For Split Ends front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    },
+    {
+      "id": "OGX-GIFTSETS",
+      "name": "OGX Gift Sets",
+      "full_name": "OGX Gift Sets (13 fl oz / 385 mL)",
+      "category": "Hair Care & Botanicals",
+      "group": "OGX Botanical Salon Formula",
+      "style": "Sulfate-Free Surfactants",
+      "price": 8.99,
+      "color": "Translucent Amber Bottle / Golden Dispenser Cap",
+      "material": "Moroccan Argan Oil / Hydrolyzed Keratin / Biotin & Collagen Infusion",
+      "dimensions": "Height 15.2 cm x Diameter 6.8 cm (13 fl oz / 385 ml)",
+      "packaging": "Ergonomic round bottle with flip-top dispensing cap and tactile metallic foil label",
+      "brief": "Salon-quality botanical formulation designed to nourish, hydrate, and revitalize hair health.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT (FOP)",
+          "url": "https://images.ctfassets.net/w62iilzqucuv/6Tt2UlOPfjFy2USlsUi0hd/c961db0d15ae9a97adeca13bbe94b909/1_Pro_Growth___Peptide_Conditioner_13oz.webp",
+          "file": "ogx_gift-sets_front.webp",
+          "alt": "OGX Gift Sets front of pack"
+        },
+        {
+          "label": "BRAND LOGOMARK EMBLEM",
+          "url": "https://www.ogxbeauty.com/wp-content/themes/ogx/assets/images/logo.png",
+          "file": "ogx_logo_mark.png",
+          "alt": "OGX Beauty logo seal"
+        }
+      ]
+    }
+  ]
+}

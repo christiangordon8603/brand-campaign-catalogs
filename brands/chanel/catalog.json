@@ -1,0 +1,779 @@
+{
+  "brand": "Chanel",
+  "tagline": "French Haute Couture, Rue Cambon Icons & Fine Horlogerie",
+  "total_products": 35,
+  "total_frames": 35,
+  "total_value_usd": 307470.0,
+  "products": [
+    {
+      "id": "CHA-113620",
+      "name": "Chanel Coco Noir Eau De Parfum Spray",
+      "full_name": "Chanel Coco Noir Eau De Parfum Spray (Reference: 113620)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 175.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (113620). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Coco Noir Eau De Parfum Spray packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-G47388X0100094305",
+      "name": "Chanel Pumps Lambskin",
+      "full_name": "Chanel Pumps Lambskin (Reference: G47388X0100094305)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (G47388X0100094305). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Pumps Lambskin packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-P83585V7601894305",
+      "name": "Chanel Overshirt Tweed",
+      "full_name": "Chanel Overshirt Tweed (Reference: P83585V7601894305)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (P83585V7601894305). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Overshirt Tweed packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-J12809",
+      "name": "Chanel Coco Crush Bracelet",
+      "full_name": "Chanel Coco Crush Bracelet (Reference: J12809)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (J12809). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Coco Crush Bracelet packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-P82540K11966UA930",
+      "name": "Chanel Jacket Silk",
+      "full_name": "Chanel Jacket Silk (Reference: P82540K11966UA930)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (P82540K11966UA930). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Jacket Silk packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-P83384V7407894305",
+      "name": "Chanel Caban Cashmere",
+      "full_name": "Chanel Caban Cashmere (Reference: P83384V7407894305)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (P83384V7407894305). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Caban Cashmere packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-P83772K12160UD839",
+      "name": "Chanel Pullover Silk Mixed Fibers",
+      "full_name": "Chanel Pullover Silk Mixed Fibers (Reference: P83772K12160UD839)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (P83772K12160UD839). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Pullover Silk Mixed Fibers packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-172742",
+      "name": "Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Compact Foundation",
+      "full_name": "Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Compact Foundation (Reference: 172742)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (172742). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Compact Foundation packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-171872",
+      "name": "Chanel 31 Le Rouge Matte Lipstick",
+      "full_name": "Chanel 31 Le Rouge Matte Lipstick (Reference: 171872)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 55.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (171872). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel 31 Le Rouge Matte Lipstick packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-168718",
+      "name": "Chanel Joues Contraste Powder Blush",
+      "full_name": "Chanel Joues Contraste Powder Blush (Reference: 168718)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (168718). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Joues Contraste Powder Blush packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-A71814X01060L241400PUNI",
+      "name": "Chanel Shield Sunglasses Silver",
+      "full_name": "Chanel Shield Sunglasses Silver (Reference: A71814X01060L241400PUNI)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (A71814X01060L241400PUNI). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Shield Sunglasses Silver packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-153164",
+      "name": "Chanel Rouge Coco Longwear Satin Lipstick Hydrating And Smoothing Lip Care",
+      "full_name": "Chanel Rouge Coco Longwear Satin Lipstick Hydrating And Smoothing Lip Care (Reference: 153164)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 55.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (153164). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Rouge Coco Longwear Satin Lipstick Hydrating And Smoothing Lip Care packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-158880",
+      "name": "Chanel Les Beiges Water Fresh Tint",
+      "full_name": "Chanel Les Beiges Water Fresh Tint (Reference: 158880)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (158880). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Les Beiges Water Fresh Tint packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-122340",
+      "name": "Chanel Misia Eau De Parfum Floral Powdery Ambery",
+      "full_name": "Chanel Misia Eau De Parfum Floral Powdery Ambery (Reference: 122340)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 175.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (122340). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Misia Eau De Parfum Floral Powdery Ambery packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-179111",
+      "name": "Chanel Le Vernis Longwear Nail Colour",
+      "full_name": "Chanel Le Vernis Longwear Nail Colour (Reference: 179111)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (179111). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Le Vernis Longwear Nail Colour packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-ABI051B25689UC987",
+      "name": "Chanel Stud Earrings Metal Resin",
+      "full_name": "Chanel Stud Earrings Metal Resin (Reference: ABI051B25689UC987)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 4500.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (ABI051B25689UC987). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Stud Earrings Metal Resin packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-27S-PODIUM-020",
+      "name": "Chanel Look 20",
+      "full_name": "Chanel Look 20 (Reference: 27S-PODIUM-020)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (27S-PODIUM-020). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Look 20 packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-26K-PODIUM-007",
+      "name": "Chanel Look 7",
+      "full_name": "Chanel Look 7 (Reference: 26K-PODIUM-007)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (26K-PODIUM-007). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Look 7 packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-190087",
+      "name": "Chanel Noir Allure Mascara",
+      "full_name": "Chanel Noir Allure Mascara (Reference: 190087)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (190087). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Noir Allure Mascara packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-178028",
+      "name": "Chanel Ultra Le Teint Le Correcteur Ultrawear All Day Comfort Flawless Finish Concealer",
+      "full_name": "Chanel Ultra Le Teint Le Correcteur Ultrawear All Day Comfort Flawless Finish Concealer (Reference: 178028)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (178028). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Ultra Le Teint Le Correcteur Ultrawear All Day Comfort Flawless Finish Concealer packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-AS6573B26505UE721",
+      "name": "Chanel Mini Flap Bag Linen Silicone",
+      "full_name": "Chanel Mini Flap Bag Linen Silicone (Reference: AS6573B26505UE721)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (AS6573B26505UE721). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Mini Flap Bag Linen Silicone packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-AP0213Y01864C3906",
+      "name": "Chanel Classic Card Holder Grained Calfskin Gold Tone Metal",
+      "full_name": "Chanel Classic Card Holder Grained Calfskin Gold Tone Metal (Reference: AP0213Y01864C3906)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (AP0213Y01864C3906). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Classic Card Holder Grained Calfskin Gold Tone Metal packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-140030",
+      "name": "Chanel N1 De Chanel Serum In Mist Protects Soothes Enhances Radiance",
+      "full_name": "Chanel N1 De Chanel Serum In Mist Protects Soothes Enhances Radiance (Reference: 140030)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (140030). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel N1 De Chanel Serum In Mist Protects Soothes Enhances Radiance packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-J13584",
+      "name": "Chanel Talismans Medal",
+      "full_name": "Chanel Talismans Medal (Reference: J13584)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (J13584). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Talismans Medal packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-A71776X08223L152350SUNI",
+      "name": "Chanel Oval Sunglasses Gold",
+      "full_name": "Chanel Oval Sunglasses Gold (Reference: A71776X08223L152350SUNI)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (A71776X08223L152350SUNI). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Oval Sunglasses Gold packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-171514",
+      "name": "Chanel 31 Le Rouge Satin Lipstick",
+      "full_name": "Chanel 31 Le Rouge Satin Lipstick (Reference: 171514)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 55.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (171514). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel 31 Le Rouge Satin Lipstick packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-P82683V74769UA480",
+      "name": "Chanel Midi Skirt Tweed",
+      "full_name": "Chanel Midi Skirt Tweed (Reference: P82683V74769UA480)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (P82683V74769UA480). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Midi Skirt Tweed packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-P82541K11966UA930",
+      "name": "Chanel Midi Skirt Silk",
+      "full_name": "Chanel Midi Skirt Silk (Reference: P82541K11966UA930)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (P82541K11966UA930). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Midi Skirt Silk packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-133640",
+      "name": "Chanel Sublimage Lextrait Baume Regard Ultimate Eye Balm Regenerates And Repairs",
+      "full_name": "Chanel Sublimage Lextrait Baume Regard Ultimate Eye Balm Regenerates And Repairs (Reference: 133640)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 55.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (133640). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Sublimage Lextrait Baume Regard Ultimate Eye Balm Regenerates And Repairs packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-P82850C7511194305",
+      "name": "Chanel Collar Muff Lambskin",
+      "full_name": "Chanel Collar Muff Lambskin (Reference: P82850C7511194305)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (P82850C7511194305). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Collar Muff Lambskin packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-AAC406B26613UF048",
+      "name": "Chanel Leather Belt Calfskin Gold Tone Metal",
+      "full_name": "Chanel Leather Belt Calfskin Gold Tone Metal (Reference: AAC406B26613UF048)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (AAC406B26613UF048). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Leather Belt Calfskin Gold Tone Metal packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-H9837",
+      "name": "Chanel J12 Diamond Bezel Watch Caliber 12 1 38 Mm",
+      "full_name": "Chanel J12 Diamond Bezel Watch Caliber 12 1 38 Mm (Reference: H9837)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (H9837). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel J12 Diamond Bezel Watch Caliber 12 1 38 Mm packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-146376",
+      "name": "Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Foundation",
+      "full_name": "Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Foundation (Reference: 146376)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (146376). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Ultra Le Teint Ultrawear All Day Comfort Flawless Finish Foundation packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-145778",
+      "name": "Chanel N1 De Chanel Revitalizing Foundation Illuminates Moisturizes Protects",
+      "full_name": "Chanel N1 De Chanel Revitalizing Foundation Illuminates Moisturizes Protects (Reference: 145778)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (145778). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel N1 De Chanel Revitalizing Foundation Illuminates Moisturizes Protects packshot"
+        }
+      ]
+    },
+    {
+      "id": "CHA-132210",
+      "name": "Chanel Poudre Universelle Libre Natural Finish Loose Powder",
+      "full_name": "Chanel Poudre Universelle Libre Natural Finish Loose Powder (Reference: 132210)",
+      "category": "Haute Couture & Parfumerie",
+      "group": "Chanel Rue Cambon Masterpieces",
+      "style": "French Quilted Haute Horlogerie & Couture",
+      "price": 10800.0,
+      "color": "Noir Intense / Beige Clair / Or Métallique",
+      "material": "Diamond-Quilted Lambskin / Tweed Bouclé / Strass & Gold-Tone Metal",
+      "dimensions": "Handcrafted in the Parisian Haute Couture Ateliers",
+      "packaging": "High-finish white and black Chanel presentation box with signature Camellia flower",
+      "brief": "Official Chanel creation (132210). Scraped directly from chanel.com official catalog index.",
+      "frames": [
+        {
+          "label": "CLASSIC 11.12 NOIR SHOT",
+          "url": "https://www.chanel.com/images/t_fashion/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1240/classic-11-12-handbag-black-grained-calfskin-gold-tone-metal-grained-calfskin-gold-tone-metal-packshot-default-a01112y01864c3906-8833918009374.jpg",
+          "file": "chanel_classic_black.jpg",
+          "alt": "Chanel Poudre Universelle Libre Natural Finish Loose Powder packshot"
+        }
+      ]
+    }
+  ]
+}

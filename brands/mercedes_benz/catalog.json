@@ -1,0 +1,1199 @@
+{
+  "brand": "Mercedes-Benz",
+  "tagline": "Precision German Automotive Engineering, Maybach & AMG",
+  "total_products": 35,
+  "total_frames": 105,
+  "total_value_usd": 3768500.0,
+  "products": [
+    {
+      "id": "MB-EQB300W4",
+      "name": "2025 EQB 300 4MATIC SUV",
+      "full_name": "2025 EQB 300 4MATIC SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz EQB-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 53050.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (eqb300w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_eqb300w4_exterior.png",
+          "alt": "2025 EQB 300 4MATIC SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GLE350W",
+      "name": "GLE Class GLE350W SUV",
+      "full_name": "GLE Class GLE350W SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GLE-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (gle350w). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_gle350w_exterior.png",
+          "alt": "GLE Class GLE350W SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GLB35W4",
+      "name": "2026 AMG GLB35 SUV",
+      "full_name": "2026 AMG GLB35 SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GLB-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 43800.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (glb35w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_glb35w4_exterior.png",
+          "alt": "2026 AMG GLB35 SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GLS63W4",
+      "name": "2027 AMG GLS 63 SUV",
+      "full_name": "2027 AMG GLS 63 SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GLS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 93950.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (gls63w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_gls63w4_exterior.png",
+          "alt": "2027 AMG GLS 63 SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-EQS450V",
+      "name": "2027 EQS 450+ Sedan",
+      "full_name": "2027 EQS 450+ Sedan (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz EQS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 101450.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (eqs450v). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_eqs450v_exterior.png",
+          "alt": "2027 EQS 450+ Sedan exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GLS580W4",
+      "name": "2027 GLS 580 4MATIC SUV",
+      "full_name": "2027 GLS 580 4MATIC SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GLS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 120950.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (gls580w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_gls580w4_exterior.png",
+          "alt": "2027 GLS 580 4MATIC SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-S680Z4",
+      "name": "2027 Mercedes-Maybach S 680 4MATIC",
+      "full_name": "2027 Mercedes-Maybach S 680 4MATIC (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz S-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 247450.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (s680z4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_s680z4_exterior.png",
+          "alt": "2027 Mercedes-Maybach S 680 4MATIC exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-C300A",
+      "name": "C-CLASS Class C300A CABRIOLET",
+      "full_name": "C-CLASS Class C300A CABRIOLET (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz C-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (c300a). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_c300a_exterior.png",
+          "alt": "C-CLASS Class C300A CABRIOLET exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-E350W4",
+      "name": "2027 E 350 4MATIC Sedan",
+      "full_name": "2027 E 350 4MATIC Sedan (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz E-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 67700.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (e350w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_e350w4_exterior.png",
+          "alt": "2027 E 350 4MATIC Sedan exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-EQB350W4",
+      "name": "2025 EQB 350 4MATIC SUV",
+      "full_name": "2025 EQB 350 4MATIC SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz EQB-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 53050.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (eqb350w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_eqb350w4_exterior.png",
+          "alt": "2025 EQB 350 4MATIC SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-E53W4",
+      "name": "E-CLASS Class E53W4 SEDAN",
+      "full_name": "E-CLASS Class E53W4 SEDAN (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz E-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (e53w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_e53w4_exterior.png",
+          "alt": "E-CLASS Class E53W4 SEDAN exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GTBS",
+      "name": "GT Class GTBS COUPE",
+      "full_name": "GT Class GTBS COUPE (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GT-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (gtbs). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_gtbs_exterior.png",
+          "alt": "GT Class GTBS COUPE exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GLE450W4",
+      "name": "2027 GLE 450 4MATIC SUV",
+      "full_name": "2027 GLE 450 4MATIC SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GLE-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 74800.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (gle450w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_gle450w4_exterior.png",
+          "alt": "2027 GLE 450 4MATIC SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-C300A4",
+      "name": "C-CLASS Class C300A4 CABRIOLET",
+      "full_name": "C-CLASS Class C300A4 CABRIOLET (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz C-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (c300a4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_c300a4_exterior.png",
+          "alt": "C-CLASS Class C300A4 CABRIOLET exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-E450A",
+      "name": "E-CLASS Class E450A CABRIOLET",
+      "full_name": "E-CLASS Class E450A CABRIOLET (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz E-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (e450a). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_e450a_exterior.png",
+          "alt": "E-CLASS Class E450A CABRIOLET exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-G63W4",
+      "name": "2027 AMG G 63 SUV",
+      "full_name": "2027 AMG G 63 SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz G-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 198750.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (g63w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_g63w4_exterior.png",
+          "alt": "2027 AMG G 63 SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-S500V4",
+      "name": "2027 S 500 4MATIC Sedan",
+      "full_name": "2027 S 500 4MATIC Sedan (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz S-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 112550.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (s500v4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_s500v4_exterior.png",
+          "alt": "2027 S 500 4MATIC Sedan exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-E53C4",
+      "name": "E-CLASS Class E53C4 COUPE",
+      "full_name": "E-CLASS Class E53C4 COUPE (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz E-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (e53c4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_e53c4_exterior.png",
+          "alt": "E-CLASS Class E53C4 COUPE exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-SL55R4",
+      "name": "2027 AMG SL 55 Roadster",
+      "full_name": "2027 AMG SL 55 Roadster (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz SL-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 147750.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (sl55r4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_sl55r4_exterior.png",
+          "alt": "2027 AMG SL 55 Roadster exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-C300C4",
+      "name": "C-CLASS Class C300C4 COUPE",
+      "full_name": "C-CLASS Class C300C4 COUPE (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz C-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (c300c4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_c300c4_exterior.png",
+          "alt": "C-CLASS Class C300C4 COUPE exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GLS450W4",
+      "name": "2027 GLS 450 4MATIC SUV",
+      "full_name": "2027 GLS 450 4MATIC SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GLS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 93950.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (gls450w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_gls450w4_exterior.png",
+          "alt": "2027 GLS 450 4MATIC SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GLS600Z4",
+      "name": "2026 Mercedes-Maybach GLS 600 SUV",
+      "full_name": "2026 Mercedes-Maybach GLS 600 SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GLS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 185000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (gls600z4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_gls600z4_exterior.png",
+          "alt": "2026 Mercedes-Maybach GLS 600 SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GT43C4",
+      "name": "2026 AMG GT  43 4-Door Coupe | Mercedes-Benz",
+      "full_name": "2026 AMG GT  43 4-Door Coupe | Mercedes-Benz (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GT-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 102100.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (gt43c4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_gt43c4_exterior.png",
+          "alt": "2026 AMG GT  43 4-Door Coupe | Mercedes-Benz exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GLA250W4",
+      "name": "2027 GLA 250 4MATIC SUV",
+      "full_name": "2027 GLA 250 4MATIC SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GLA-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (gla250w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_gla250w4_exterior.png",
+          "alt": "2027 GLA 250 4MATIC SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-E450C",
+      "name": "E-CLASS Class E450C COUPE",
+      "full_name": "E-CLASS Class E450C COUPE (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz E-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (e450c). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_e450c_exterior.png",
+          "alt": "E-CLASS Class E450C COUPE exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GLA35W4",
+      "name": "2027 AMG GLA 35 SUV",
+      "full_name": "2027 AMG GLA 35 SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GLA-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (gla35w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_gla35w4_exterior.png",
+          "alt": "2027 AMG GLA 35 SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-C43A4",
+      "name": "C-CLASS Class C43A4 CABRIOLET",
+      "full_name": "C-CLASS Class C43A4 CABRIOLET (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz C-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (c43a4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_c43a4_exterior.png",
+          "alt": "C-CLASS Class C43A4 CABRIOLET exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-E350W",
+      "name": "2027 E 350 Sedan",
+      "full_name": "2027 E 350 Sedan (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz E-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 65200.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (e350w). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_e350w_exterior.png",
+          "alt": "2027 E 350 Sedan exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-C300W4",
+      "name": "2026 C 300 4MATIC Sedan",
+      "full_name": "2026 C 300 4MATIC Sedan (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz C-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 51650.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (c300w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_c300w4_exterior.png",
+          "alt": "2026 C 300 4MATIC Sedan exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GLC300W",
+      "name": "2027 GLC 300 SUV",
+      "full_name": "2027 GLC 300 SUV (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GLC-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 52400.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (glc300w). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_glc300w_exterior.png",
+          "alt": "2027 GLC 300 SUV exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-S580Z4",
+      "name": "2027 Mercedes-Maybach S 580 4MATIC",
+      "full_name": "2027 Mercedes-Maybach S 580 4MATIC (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz S-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 210200.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (s580z4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_s580z4_exterior.png",
+          "alt": "2027 Mercedes-Maybach S 580 4MATIC exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-CLA45C4",
+      "name": "CLA Class CLA45C4 COUPE",
+      "full_name": "CLA Class CLA45C4 COUPE (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz CLA-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (cla45c4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_cla45c4_exterior.png",
+          "alt": "CLA Class CLA45C4 COUPE exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-GLC43W4",
+      "name": "502 Bad Gateway",
+      "full_name": "502 Bad Gateway (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz GLC-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (glc43w4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_glc43w4_exterior.png",
+          "alt": "502 Bad Gateway exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-CLA250C4",
+      "name": "2026 CLA 250 4MATIC Coupe",
+      "full_name": "2026 CLA 250 4MATIC Coupe (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz CLA-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 42750.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (cla250c4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/footer/social-logo.jpg",
+          "file": "mb_cla250c4_exterior.png",
+          "alt": "2026 CLA 250 4MATIC Coupe exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    },
+    {
+      "id": "MB-E53A4",
+      "name": "502 Bad Gateway",
+      "full_name": "502 Bad Gateway (Official US Model)",
+      "category": "Automotive Engineering & Luxury Mobility",
+      "group": "Mercedes-Benz E-CLASS-Class",
+      "style": "German Precision Automotive Engineering",
+      "price": 110000.0,
+      "color": "Obsidian Black Metallic / Manufaktur Kalahari Gold / Diamond White",
+      "material": "Handcrafted AMG V8/V12 Biturbo / Exclusive Nappa Leather / Burmester® 4D Sound",
+      "dimensions": "Full Vehicle Engineering Specifications / MBUX Hyperscreen / All-Wheel Drive",
+      "packaging": "Official Mercedes-Benz Handover Delivery Suite with personalized vehicle digital key fob",
+      "brief": "Official Mercedes-Benz vehicle model (e53a4). Scraped directly from mbusa.com.",
+      "frames": [
+        {
+          "label": "STUDIO EXTERIOR THREE-QUARTER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_e53a4_exterior.png",
+          "alt": "502 Bad Gateway exterior studio"
+        },
+        {
+          "label": "MAYBACH S 680 FLAGSHIP",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/mercedes-maybach/s-class/sedan/byo/renders/maybach-s680-exterior.png",
+          "file": "mb_maybach_s680.png",
+          "alt": "Maybach S 680 flagship render"
+        },
+        {
+          "label": "G 63 AMG RENDER",
+          "url": "https://www.mbusa.com/content/dam/mb-nafta/us/vehicles/g-class/suv/byo/renders/g63-exterior.jpg",
+          "file": "mb_g63_render.jpg",
+          "alt": "G 63 AMG render"
+        }
+      ]
+    }
+  ]
+}

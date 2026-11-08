@@ -1,0 +1,141 @@
+{
+  "brand": "Tesla",
+  "tagline": "Autonomous Electric Propulsion, Cybertruck & Robotics",
+  "total_products": 6,
+  "total_frames": 6,
+  "total_value_usd": 467940.0,
+  "products": [
+    {
+      "id": "TSLA-CYBERBEAST",
+      "name": "Tesla Cybertruck Cyberbeast",
+      "full_name": "Tesla Cybertruck Tri-Motor AWD Cyberbeast",
+      "category": "All-Electric Utility Vehicle",
+      "price": 99990.0,
+      "color": "Ultra-Hard 30X Cold-Rolled Stainless Steel Exoskeleton",
+      "material": "30X cold-rolled stainless-steel alloy, Armor Glass shatter-resistant composite",
+      "dimensions": "Length: 223.7 in (5,682 mm) x Width: 86.6 in (2,200 mm) x Height: 70.5 in",
+      "packaging": "Tesla Factory Direct Delivery Suite with RFID Keycard and Mobile App Digital Key",
+      "brief": "Tri-Motor All-Wheel Drive. 845 horsepower, 0-60 mph in 2.6 seconds, 11,000 lbs towing capacity.",
+      "frames": [
+        {
+          "label": "HERO LOCATION THREE-QUARTER",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg",
+          "file": "cybertruck_hero.jpg",
+          "alt": "Cybertruck hero packshot"
+        }
+      ],
+      "group": "Tesla S-3-X-Y & Cybertruck Fleet",
+      "style": "Autonomous Electric Propulsion & Structural Battery"
+    },
+    {
+      "id": "TSLA-CYBER-AWD",
+      "name": "Tesla Cybertruck All-Wheel Drive",
+      "full_name": "Tesla Cybertruck Dual Motor All-Wheel Drive",
+      "category": "All-Electric Utility Vehicle",
+      "price": 79990.0,
+      "color": "Brushed Stainless Steel",
+      "material": "Stainless Steel Exoskeleton, High-Strength Acoustic Glass",
+      "dimensions": "Length: 223.7 in x Width: 86.6 in x Bed Length: 6 ft",
+      "packaging": "Tesla Factory Direct Delivery Suite",
+      "brief": "Dual Motor AWD. 600 horsepower, 0-60 mph in 4.1 seconds, 340 miles estimated range.",
+      "frames": [
+        {
+          "label": "HERO PACKSHOT",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg",
+          "file": "cybertruck_hero.jpg",
+          "alt": "Cybertruck AWD packshot"
+        }
+      ],
+      "group": "Tesla S-3-X-Y & Cybertruck Fleet",
+      "style": "Autonomous Electric Propulsion & Structural Battery"
+    },
+    {
+      "id": "TSLA-MODELS-PLAID",
+      "name": "Tesla Model S Plaid",
+      "full_name": "Tesla Model S Tri-Motor All-Wheel Drive Plaid",
+      "category": "Luxury Performance Sedan",
+      "price": 89990.0,
+      "color": "Solid Black / Ultra Red / Stealth Grey / Pearl White",
+      "material": "Carbon-sleeved rotors, high-tensile steel, full glass panoramic roof",
+      "dimensions": "Length: 197.7 in (4,970 mm) x Width: 78.2 in (1,964 mm) x Height: 56.5 in",
+      "packaging": "Factory Delivery Experience Suite",
+      "brief": "1,020 horsepower, 0-60 mph in 1.99 seconds, 200 mph top speed, 359 miles EPA range.",
+      "frames": [
+        {
+          "label": "INTERIOR COCKPIT ARCHITECTURE",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-S-Interior-Hero-Desktop.jpg",
+          "file": "models_interior.jpg",
+          "alt": "Model S interior cockpit"
+        }
+      ],
+      "group": "Tesla S-3-X-Y & Cybertruck Fleet",
+      "style": "Autonomous Electric Propulsion & Structural Battery"
+    },
+    {
+      "id": "TSLA-MODELX-PLAID",
+      "name": "Tesla Model X Plaid",
+      "full_name": "Tesla Model X Tri-Motor All-Wheel Drive Plaid",
+      "category": "Luxury Performance SUV",
+      "price": 94990.0,
+      "color": "Ultra Red / Stealth Grey / Deep Blue Metallic",
+      "material": "Falcon Wing double-hinged doors, medical-grade HEPA filtration system",
+      "dimensions": "Length: 199.1 in (5,057 mm) x Width: 78.7 in (1,999 mm) x Height: 66.1 in",
+      "packaging": "Factory Delivery Experience Suite",
+      "brief": "1,020 horsepower SUV. 0-60 mph in 2.5 seconds, Falcon Wing doors, 335 miles range.",
+      "frames": [
+        {
+          "label": "INTERIOR COCKPIT ARCHITECTURE",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-S-Interior-Hero-Desktop.jpg",
+          "file": "models_interior.jpg",
+          "alt": "Model X interior cockpit"
+        }
+      ],
+      "group": "Tesla S-3-X-Y & Cybertruck Fleet",
+      "style": "Autonomous Electric Propulsion & Structural Battery"
+    },
+    {
+      "id": "TSLA-MODEL3-PERF",
+      "name": "Tesla Model 3 Performance",
+      "full_name": "Upgraded Tesla Model 3 All-Wheel Drive Performance",
+      "category": "Electric Sport Sedan",
+      "price": 54990.0,
+      "color": "Ultra Red / Deep Blue Metallic / Solid Black",
+      "material": "Forged 20-inch Warp Wheels, Adaptive Damping suspension, carbon fiber spoiler",
+      "dimensions": "Length: 185.8 in (4,720 mm) x Width: 72.8 in (1,850 mm) x Height: 56.7 in",
+      "packaging": "Factory Delivery Suite",
+      "brief": "510 horsepower, 0-60 mph in 2.9 seconds, next-generation adaptive damping suspension.",
+      "frames": [
+        {
+          "label": "HERO LOCATION THREE-QUARTER",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg",
+          "file": "cybertruck_hero.jpg",
+          "alt": "Model 3 Performance"
+        }
+      ],
+      "group": "Tesla S-3-X-Y & Cybertruck Fleet",
+      "style": "Autonomous Electric Propulsion & Structural Battery"
+    },
+    {
+      "id": "TSLA-MODELY-LR",
+      "name": "Tesla Model Y Long Range",
+      "full_name": "Tesla Model Y Dual Motor All-Wheel Drive Long Range",
+      "category": "Midsize Electric SUV",
+      "price": 47990.0,
+      "color": "Quicksilver / Stealth Grey / Pearl White Multi-Coat",
+      "material": "High-strength acoustic glass, 76 cubic feet of cargo storage",
+      "dimensions": "Length: 187.0 in (4,751 mm) x Width: 75.6 in (1,921 mm) x Height: 63.9 in",
+      "packaging": "Factory Delivery Suite",
+      "brief": "The world's best-selling car. 310 miles EPA range, dual motor AWD, 5-star safety rating.",
+      "frames": [
+        {
+          "label": "HERO LOCATION THREE-QUARTER",
+          "url": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg",
+          "file": "cybertruck_hero.jpg",
+          "alt": "Model Y Long Range"
+        }
+      ],
+      "group": "Tesla S-3-X-Y & Cybertruck Fleet",
+      "style": "Autonomous Electric Propulsion & Structural Battery"
+    }
+  ]
+}

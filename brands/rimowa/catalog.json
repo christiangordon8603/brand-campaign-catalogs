@@ -1,0 +1,1109 @@
+{
+  "brand": "Rimowa",
+  "tagline": "German Engineered Aviation Aluminium & Luxury Luggage",
+  "total_products": 50,
+  "total_frames": 50,
+  "total_value_usd": 72625.0,
+  "products": [
+    {
+      "id": "92352004020955516",
+      "name": "Rimowa Cabin S",
+      "full_name": "Rimowa Cabin S - Re-Crafted Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Re-Crafted Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (92352004020955516). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-second-hand/default/dwedf56d3a/images/secondhand/92352004020955516/medium/1.png",
+          "file": "rimowa_92352004020955516_1.png",
+          "alt": "Rimowa Cabin S frame 1"
+        }
+      ]
+    },
+    {
+      "id": "88363",
+      "name": "Rimowa Check-In M",
+      "full_name": "Rimowa Check-In M - Hybrid Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Hybrid Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1525.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (88363). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa701131c/images/medium/88373604_1.png",
+          "file": "rimowa_88363_1.png",
+          "alt": "Rimowa Check-In M frame 1"
+        }
+      ]
+    },
+    {
+      "id": "88356",
+      "name": "Rimowa Cabin Plus",
+      "full_name": "Rimowa Cabin Plus - Hybrid Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Hybrid Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (88356). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa701131c/images/medium/88373604_1.png",
+          "file": "rimowa_88356_1.png",
+          "alt": "Rimowa Cabin Plus frame 1"
+        }
+      ]
+    },
+    {
+      "id": "97390002",
+      "name": "Rimowa One Bottle Case",
+      "full_name": "Rimowa One Bottle Case - Classic Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Classic Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (97390002). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw78f4b08a/images/medium/97390002_1.png",
+          "file": "rimowa_97390002_1.png",
+          "alt": "Rimowa One Bottle Case frame 1"
+        }
+      ]
+    },
+    {
+      "id": "90090041",
+      "name": "Rimowa Poker",
+      "full_name": "Rimowa Poker - Attache Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Attache Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (90090041). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw47465aff/images/medium/90090041_2.png",
+          "file": "rimowa_90090041_1.png",
+          "alt": "Rimowa Poker frame 1"
+        }
+      ]
+    },
+    {
+      "id": "92540004",
+      "name": "Rimowa Compact",
+      "full_name": "Rimowa Compact - Silver Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Silver Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (92540004). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcc8e4a3a/images/medium/92540004_1.png",
+          "file": "rimowa_92540004_1.png",
+          "alt": "Rimowa Compact frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50800007",
+      "name": "Rimowa The Sticker Book from A – Z",
+      "full_name": "Rimowa The Sticker Book from A – Z - Stickers-Set Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Stickers-Set Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50800007). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9db78efa/images/medium/50800007_1.png",
+          "file": "rimowa_50800007_1.png",
+          "alt": "Rimowa The Sticker Book from A – Z frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900160",
+      "name": "Rimowa Lips",
+      "full_name": "Rimowa Lips - Stickers-Units Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Stickers-Units Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900160). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw26339502/images/medium/50900160.png",
+          "file": "rimowa_50900160_1.png",
+          "alt": "Rimowa Lips frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900002",
+      "name": "Rimowa Las Vegas",
+      "full_name": "Rimowa Las Vegas - All-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa All-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900002). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw83354158/images/medium/50900002_1.png",
+          "file": "rimowa_50900002_1.png",
+          "alt": "Rimowa Las Vegas frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900003",
+      "name": "Rimowa Miami",
+      "full_name": "Rimowa Miami - All-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa All-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900003). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw55e5319e/images/medium/50900003_1.png",
+          "file": "rimowa_50900003_1.png",
+          "alt": "Rimowa Miami frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900340",
+      "name": "Rimowa Seoul",
+      "full_name": "Rimowa Seoul - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900340). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2468e7bc/images/medium/50900340.png",
+          "file": "rimowa_50900340_1.png",
+          "alt": "Rimowa Seoul frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900350",
+      "name": "Rimowa Los Angeles",
+      "full_name": "Rimowa Los Angeles - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900350). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2635449f/images/medium/50900350.png",
+          "file": "rimowa_50900350_1.png",
+          "alt": "Rimowa Los Angeles frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900320",
+      "name": "Rimowa Hong Kong",
+      "full_name": "Rimowa Hong Kong - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900320). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd379ca74/images/medium/50900320.png",
+          "file": "rimowa_50900320_1.png",
+          "alt": "Rimowa Hong Kong frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900300",
+      "name": "Rimowa Cologne",
+      "full_name": "Rimowa Cologne - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900300). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfe0e0b6d/images/medium/50900300.png",
+          "file": "rimowa_50900300_1.png",
+          "alt": "Rimowa Cologne frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900031",
+      "name": "Rimowa Hawaii",
+      "full_name": "Rimowa Hawaii - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900031). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw6affe5da/images/medium/50900031_1.png",
+          "file": "rimowa_50900031_1.png",
+          "alt": "Rimowa Hawaii frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50300003",
+      "name": "Rimowa RIMOWA: An Archive, Since 1898",
+      "full_name": "Rimowa RIMOWA: An Archive, Since 1898 - All-Products Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa All-Products Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50300003). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2e5c5c89/images/medium/50300003_1.png",
+          "file": "rimowa_50300003_1.png",
+          "alt": "Rimowa RIMOWA: An Archive, Since 1898 frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900020",
+      "name": "Rimowa Madrid",
+      "full_name": "Rimowa Madrid - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900020). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb1108664/images/medium/50900020.png",
+          "file": "rimowa_50900020_1.png",
+          "alt": "Rimowa Madrid frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900280",
+      "name": "Rimowa Dream Without Action",
+      "full_name": "Rimowa Dream Without Action - Single-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Single-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900280). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwac1b43f0/images/medium/50900280.png",
+          "file": "rimowa_50900280_1.png",
+          "alt": "Rimowa Dream Without Action frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900310",
+      "name": "Rimowa Munich",
+      "full_name": "Rimowa Munich - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900310). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw42502f51/images/medium/50900310.png",
+          "file": "rimowa_50900310_1.png",
+          "alt": "Rimowa Munich frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900100",
+      "name": "Rimowa Palmtree",
+      "full_name": "Rimowa Palmtree - Stickers-Units Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Stickers-Units Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900100). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwf05ceaf1/images/medium/50900100.png",
+          "file": "rimowa_50900100_1.png",
+          "alt": "Rimowa Palmtree frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900060",
+      "name": "Rimowa Milan",
+      "full_name": "Rimowa Milan - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900060). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8757f98a/images/medium/50900060.png",
+          "file": "rimowa_50900060_1.png",
+          "alt": "Rimowa Milan frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900023",
+      "name": "Rimowa Dallas",
+      "full_name": "Rimowa Dallas - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900023). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw7ed4337a/images/medium/50900023_1.png",
+          "file": "rimowa_50900023_1.png",
+          "alt": "Rimowa Dallas frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900050",
+      "name": "Rimowa Tokyo",
+      "full_name": "Rimowa Tokyo - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900050). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1bbadd25/images/medium/50900050.png",
+          "file": "rimowa_50900050_1.png",
+          "alt": "Rimowa Tokyo frame 1"
+        }
+      ]
+    },
+    {
+      "id": "52200002",
+      "name": "Rimowa Trifold Garment Bag",
+      "full_name": "Rimowa Trifold Garment Bag - Travel-Accessories Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Travel-Accessories Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1275.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (52200002). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcf2c9562/images/medium/52200002_1.png",
+          "file": "rimowa_52200002_1.png",
+          "alt": "Rimowa Trifold Garment Bag frame 1"
+        }
+      ]
+    },
+    {
+      "id": "88373",
+      "name": "Rimowa Check-In L",
+      "full_name": "Rimowa Check-In L - Hybrid Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Hybrid Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1650.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (88373). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa701131c/images/medium/88373604_1.png",
+          "file": "rimowa_88373_1.png",
+          "alt": "Rimowa Check-In L frame 1"
+        }
+      ]
+    },
+    {
+      "id": "88353",
+      "name": "Rimowa Cabin",
+      "full_name": "Rimowa Cabin - Hybrid Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Hybrid Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (88353). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa701131c/images/medium/88373604_1.png",
+          "file": "rimowa_88353_1.png",
+          "alt": "Rimowa Cabin frame 1"
+        }
+      ]
+    },
+    {
+      "id": "52400002",
+      "name": "Rimowa Foldable Gym Bag",
+      "full_name": "Rimowa Foldable Gym Bag - Foldable-Bags Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Foldable-Bags Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1275.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (52400002). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw74f44cf0/images/medium/52400002_1.png",
+          "file": "rimowa_52400002_1.png",
+          "alt": "Rimowa Foldable Gym Bag frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900004",
+      "name": "Rimowa Venice",
+      "full_name": "Rimowa Venice - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900004). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwe66c2fe5/images/medium/50900004_1.png",
+          "file": "rimowa_50900004_1.png",
+          "alt": "Rimowa Venice frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900013",
+      "name": "Rimowa Barcelona",
+      "full_name": "Rimowa Barcelona - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900013). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb2a1fa39/images/medium/50900013_1.png",
+          "file": "rimowa_50900013_1.png",
+          "alt": "Rimowa Barcelona frame 1"
+        }
+      ]
+    },
+    {
+      "id": "51500005",
+      "name": "Rimowa Wheels Set",
+      "full_name": "Rimowa Wheels Set - En Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa En Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (51500005). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwf991611f/images/medium/51500005_1.png",
+          "file": "rimowa_51500005_1.png",
+          "alt": "Rimowa Wheels Set frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900014",
+      "name": "Rimowa Amsterdam",
+      "full_name": "Rimowa Amsterdam - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900014). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw52699fb2/images/medium/5090001_1.png",
+          "file": "rimowa_50900014_1.png",
+          "alt": "Rimowa Amsterdam frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900026",
+      "name": "Rimowa Toronto",
+      "full_name": "Rimowa Toronto - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900026). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw21cec15a/images/medium/50900026_1.png",
+          "file": "rimowa_50900026_1.png",
+          "alt": "Rimowa Toronto frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900034",
+      "name": "Rimowa Orange County",
+      "full_name": "Rimowa Orange County - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900034). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw26180fbc/images/medium/50900034_1.png",
+          "file": "rimowa_50900034_1.png",
+          "alt": "Rimowa Orange County frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900027",
+      "name": "Rimowa Vancouver",
+      "full_name": "Rimowa Vancouver - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900027). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw7118f59f/images/medium/50900027_1.png",
+          "file": "rimowa_50900027_1.png",
+          "alt": "Rimowa Vancouver frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900029",
+      "name": "Rimowa Beverly Hills",
+      "full_name": "Rimowa Beverly Hills - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900029). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw843857ed/images/medium/50900029_1.png",
+          "file": "rimowa_50900029_1.png",
+          "alt": "Rimowa Beverly Hills frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900021",
+      "name": "Rimowa San Diego",
+      "full_name": "Rimowa San Diego - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900021). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw974b9633/images/medium/50900021_1.png",
+          "file": "rimowa_50900021_1.png",
+          "alt": "Rimowa San Diego frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900018",
+      "name": "Rimowa Rome",
+      "full_name": "Rimowa Rome - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900018). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2631e273/images/medium/50900018_1.png",
+          "file": "rimowa_50900018_1.png",
+          "alt": "Rimowa Rome frame 1"
+        }
+      ]
+    },
+    {
+      "id": "83275",
+      "name": "Rimowa Trunk",
+      "full_name": "Rimowa Trunk - Polycarbonate Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Polycarbonate Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 2175.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (83275). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwade8dba2/images/medium/83275654_1.png",
+          "file": "rimowa_83275_1.png",
+          "alt": "Rimowa Trunk frame 1"
+        }
+      ]
+    },
+    {
+      "id": "83280",
+      "name": "Rimowa Trunk Plus",
+      "full_name": "Rimowa Trunk Plus - Polycarbonate Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Polycarbonate Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 2175.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (83280). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwade8dba2/images/medium/83275654_1.png",
+          "file": "rimowa_83280_1.png",
+          "alt": "Rimowa Trunk Plus frame 1"
+        }
+      ]
+    },
+    {
+      "id": "52000001",
+      "name": "Rimowa Packing Cubes",
+      "full_name": "Rimowa Packing Cubes - Packing-Cubes Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Packing-Cubes Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (52000001). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc76529f6/images/medium/52000001_1.png",
+          "file": "rimowa_52000001_1.png",
+          "alt": "Rimowa Packing Cubes frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900016",
+      "name": "Rimowa Rio de Janeiro",
+      "full_name": "Rimowa Rio de Janeiro - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900016). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwe8ae61c5/images/medium/50900016_1.png",
+          "file": "rimowa_50900016_1.png",
+          "alt": "Rimowa Rio de Janeiro frame 1"
+        }
+      ]
+    },
+    {
+      "id": "89011660",
+      "name": "Rimowa Cross-Body Bag",
+      "full_name": "Rimowa Cross-Body Bag - Personal-Crossbody-Bag Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Personal-Crossbody-Bag Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1275.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (89011660). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5800527e/images/medium/89011660_1.png",
+          "file": "rimowa_89011660_1.png",
+          "alt": "Rimowa Cross-Body Bag frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900044",
+      "name": "Rimowa Soho NYC",
+      "full_name": "Rimowa Soho NYC - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900044). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw00f82ca9/images/medium/50900044_1.png",
+          "file": "rimowa_50900044_1.png",
+          "alt": "Rimowa Soho NYC frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900022",
+      "name": "Rimowa Boston",
+      "full_name": "Rimowa Boston - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900022). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwdb48f386/images/medium/50900022_1.png",
+          "file": "rimowa_50900022_1.png",
+          "alt": "Rimowa Boston frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900037",
+      "name": "Rimowa São Paulo",
+      "full_name": "Rimowa São Paulo - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900037). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw7e71d561/images/medium/50900037_1.png",
+          "file": "rimowa_50900037_1.png",
+          "alt": "Rimowa São Paulo frame 1"
+        }
+      ]
+    },
+    {
+      "id": "52100002",
+      "name": "Rimowa Travel Pouch",
+      "full_name": "Rimowa Travel Pouch - Black Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Black Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (52100002). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw3ec0f0b4/images/medium/52100002_1.png",
+          "file": "rimowa_52100002_1.png",
+          "alt": "Rimowa Travel Pouch frame 1"
+        }
+      ]
+    },
+    {
+      "id": "50900028",
+      "name": "Rimowa San Francisco",
+      "full_name": "Rimowa San Francisco - City-Stickers Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa City-Stickers Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (50900028). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4a7aed03/images/medium/50900028_1.png",
+          "file": "rimowa_50900028_1.png",
+          "alt": "Rimowa San Francisco frame 1"
+        }
+      ]
+    },
+    {
+      "id": "92590060",
+      "name": "Rimowa Cabin Twist",
+      "full_name": "Rimowa Cabin Twist - Silver Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Silver Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (92590060). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw269751cf/images/medium/92590060_1.png",
+          "file": "rimowa_92590060_1.png",
+          "alt": "Rimowa Cabin Twist frame 1"
+        }
+      ]
+    },
+    {
+      "id": "05060",
+      "name": "Rimowa Leather Case for iPhone 11 Pro",
+      "full_name": "Rimowa Leather Case for iPhone 11 Pro - Leather-Iphone-Case Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Leather-Iphone-Case Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (05060). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9f91a28e/images/medium/50500023_1.png",
+          "file": "rimowa_05060_1.png",
+          "alt": "Rimowa Leather Case for iPhone 11 Pro frame 1"
+        }
+      ]
+    },
+    {
+      "id": "05061",
+      "name": "Rimowa Leather Case for iPhone 11 Pro Max",
+      "full_name": "Rimowa Leather Case for iPhone 11 Pro Max - Leather-Iphone-Case Collection",
+      "category": "Engineered Travel & Luggage",
+      "group": "Rimowa Leather-Iphone-Case Series",
+      "style": "Aviation-Grade Aluminium Grooves",
+      "price": 1425.0,
+      "color": "Silver Aluminium / Matte Black / Titanium",
+      "material": "High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers",
+      "dimensions": "Engineered to IATA cabin specifications / Multiwheel® ball-bearing system",
+      "packaging": "Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set",
+      "brief": "Official Rimowa German engineered luggage piece (05061). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT",
+          "url": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1d7bf7b5/images/medium/50500024_1.png",
+          "file": "rimowa_05061_1.png",
+          "alt": "Rimowa Leather Case for iPhone 11 Pro Max frame 1"
+        }
+      ]
+    }
+  ]
+}

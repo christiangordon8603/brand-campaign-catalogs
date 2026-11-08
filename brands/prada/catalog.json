@@ -1,0 +1,1777 @@
+{
+  "brand": "Prada",
+  "tagline": "Modernist Intellect, Industrial Re-Nylon & Milanese Saffiano Luxury",
+  "total_products": 52,
+  "total_frames": 156,
+  "total_value_usd": 177550.0,
+  "products": [
+    {
+      "id": "PRD-0001",
+      "name": "Prada Bonnie small Re-Nylon and leather handbag",
+      "full_name": "Prada Bonnie small Re-Nylon and leather handbag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 2450.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0001. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA486/2ZVEF0632/1BA486_2ZVE_F0632_V_DOM_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0001_front.jpg",
+          "alt": "Prada Bonnie small Re-Nylon and leather handbag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA486/2ZVEF0632/1BA486_2ZVE_F0632_V_DOM_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0001_model.jpg",
+          "alt": "Prada Bonnie small Re-Nylon and leather handbag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA486/2ZVEF0632/1BA486_2ZVE_F0632_V_DOM_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0001_detail.jpg",
+          "alt": "Prada Bonnie small Re-Nylon and leather handbag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0002",
+      "name": "Printed calf hair mini-bag",
+      "full_name": "Printed calf hair mini-bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0002. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC305/2ZVGF0G3Z/1BC305_2ZVG_F0G3Z_V_OOM_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0002_front.jpg",
+          "alt": "Printed calf hair mini-bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC305/2ZVGF0G3Z/1BC305_2ZVG_F0G3Z_V_OOM_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0002_model.jpg",
+          "alt": "Printed calf hair mini-bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC305/2ZVGF0G3Z/1BC305_2ZVG_F0G3Z_V_OOM_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0002_detail.jpg",
+          "alt": "Printed calf hair mini-bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0003",
+      "name": "Prada Route leather mini tote bag",
+      "full_name": "Prada Route leather mini tote bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0003. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG699/2G6FF0002/1BG699_2G6F_F0002_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0003_front.jpg",
+          "alt": "Prada Route leather mini tote bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG699/2G6FF0002/1BG699_2G6F_F0002_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0003_model.jpg",
+          "alt": "Prada Route leather mini tote bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG699/2G6FF0002/1BG699_2G6F_F0002_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0003_detail.jpg",
+          "alt": "Prada Route leather mini tote bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "1BH235_959_F0118_V_SVO_SLR",
+      "name": "Small satin and sequin shoulder bag",
+      "full_name": "Small satin and sequin shoulder bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1BH235_959_F0118_V_SVO_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BH/1BH235/959F0118/1BH235_959_F0118_V_SVO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1BH235_959_F_front.jpg",
+          "alt": "Small satin and sequin shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BH/1BH235/959F0118/1BH235_959_F0118_V_SVO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1BH235_959_F_model.jpg",
+          "alt": "Small satin and sequin shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BH/1BH235/959F0118/1BH235_959_F0118_V_SVO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1BH235_959_F_detail.jpg",
+          "alt": "Small satin and sequin shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0005",
+      "name": "Small satin and crystal shoulder bag",
+      "full_name": "Small satin and crystal shoulder bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0005. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BH/1BH235/2ZVWF0T7O/1BH235_2ZVW_F0T7O_V_SVO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0005_front.jpg",
+          "alt": "Small satin and crystal shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BH/1BH235/2ZVWF0T7O/1BH235_2ZVW_F0T7O_V_SVO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0005_model.jpg",
+          "alt": "Small satin and crystal shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BH/1BH235/2ZVWF0T7O/1BH235_2ZVW_F0T7O_V_SVO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0005_detail.jpg",
+          "alt": "Small satin and crystal shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0006",
+      "name": "Small printed calf hair shoulder bag",
+      "full_name": "Small printed calf hair shoulder bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0006. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BH/1BH235/2C7BF0151/1BH235_2C7B_F0151_V_SVO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0006_front.jpg",
+          "alt": "Small printed calf hair shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BH/1BH235/2C7BF0151/1BH235_2C7B_F0151_V_SVO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0006_model.jpg",
+          "alt": "Small printed calf hair shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BH/1BH235/2C7BF0151/1BH235_2C7B_F0151_V_SVO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0006_detail.jpg",
+          "alt": "Small printed calf hair shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "1N204D_NZV_F0CHZ_SLR",
+      "name": "Prada Re-Edition 2005 Saffiano leather mini-bag",
+      "full_name": "Prada Re-Edition 2005 Saffiano leather mini-bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 2450.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1N204D_NZV_F0CHZ_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1N2/1N204D/NZVF0CHZ/1N204D_NZV_F0CHZ_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1N204D_NZV_F_front.jpg",
+          "alt": "Prada Re-Edition 2005 Saffiano leather mini-bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1N2/1N204D/NZVF0CHZ/1N204D_NZV_F0CHZ_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1N204D_NZV_F_model.jpg",
+          "alt": "Prada Re-Edition 2005 Saffiano leather mini-bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1N2/1N204D/NZVF0CHZ/1N204D_NZV_F0CHZ_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1N204D_NZV_F_detail.jpg",
+          "alt": "Prada Re-Edition 2005 Saffiano leather mini-bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0008",
+      "name": "Prada Poche large Re-Nylon shopping bag",
+      "full_name": "Prada Poche large Re-Nylon shopping bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 2450.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0008. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG676/RV44F0002/1BG676_RV44_F0002_V_OOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0008_front.jpg",
+          "alt": "Prada Poche large Re-Nylon shopping bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG676/RV44F0002/1BG676_RV44_F0002_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0008_model.jpg",
+          "alt": "Prada Poche large Re-Nylon shopping bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG676/RV44F0002/1BG676_RV44_F0002_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0008_detail.jpg",
+          "alt": "Prada Poche large Re-Nylon shopping bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0009",
+      "name": "Prada Bonnie small printed calf hair and leather handbag",
+      "full_name": "Prada Bonnie small printed calf hair and leather handbag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0009. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA486/2ZVGF0G3Z/1BA486_2ZVG_F0G3Z_V_MXM_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0009_front.jpg",
+          "alt": "Prada Bonnie small printed calf hair and leather handbag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA486/2ZVGF0G3Z/1BA486_2ZVG_F0G3Z_V_MXM_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0009_model.jpg",
+          "alt": "Prada Bonnie small printed calf hair and leather handbag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA486/2ZVGF0G3Z/1BA486_2ZVG_F0G3Z_V_MXM_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0009_detail.jpg",
+          "alt": "Prada Bonnie small printed calf hair and leather handbag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0010",
+      "name": "Prada Chérie leather mini-bag",
+      "full_name": "Prada Chérie leather mini-bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0010. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC306/2DKVF0002/1BC306_2DKV_F0002_V_DOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0010_front.jpg",
+          "alt": "Prada Chérie leather mini-bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC306/2DKVF0002/1BC306_2DKV_F0002_V_DOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0010_model.jpg",
+          "alt": "Prada Chérie leather mini-bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC306/2DKVF0002/1BC306_2DKV_F0002_V_DOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0010_detail.jpg",
+          "alt": "Prada Chérie leather mini-bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0011",
+      "name": "Prada Cleo printed calf hair shoulder bag",
+      "full_name": "Prada Cleo printed calf hair shoulder bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0011. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC312/2ZVGF0G3Z/1BC312_2ZVG_F0G3Z_V_OOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0011_front.jpg",
+          "alt": "Prada Cleo printed calf hair shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC312/2ZVGF0G3Z/1BC312_2ZVG_F0G3Z_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0011_model.jpg",
+          "alt": "Prada Cleo printed calf hair shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC312/2ZVGF0G3Z/1BC312_2ZVG_F0G3Z_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0011_detail.jpg",
+          "alt": "Prada Cleo printed calf hair shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0012",
+      "name": "Printed calf hair leather mini-bag",
+      "full_name": "Printed calf hair leather mini-bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0012. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC305/2C7BF0151/1BC305_2C7B_F0151_V_OOM_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0012_front.jpg",
+          "alt": "Printed calf hair leather mini-bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC305/2C7BF0151/1BC305_2C7B_F0151_V_OOM_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0012_model.jpg",
+          "alt": "Printed calf hair leather mini-bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC305/2C7BF0151/1BC305_2C7B_F0151_V_OOM_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0012_detail.jpg",
+          "alt": "Printed calf hair leather mini-bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0013",
+      "name": "Leather mini-bag",
+      "full_name": "Leather mini-bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0013. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BH/1BH234/2DKVF0002/1BH234_2DKV_F0002_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0013_front.jpg",
+          "alt": "Leather mini-bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BH/1BH234/2DKVF0002/1BH234_2DKV_F0002_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0013_model.jpg",
+          "alt": "Leather mini-bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BH/1BH234/2DKVF0002/1BH234_2DKV_F0002_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0013_detail.jpg",
+          "alt": "Leather mini-bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "1BA496_ASK_F0002_V_TOM_MDL",
+      "name": "Prada Carry mini leather handbag",
+      "full_name": "Prada Carry mini leather handbag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1BA496_ASK_F0002_V_TOM_MDL. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA496/ASKF0002/1BA496_ASK_F0002_V_TOM_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1BA496_ASK_F_front.jpg",
+          "alt": "Prada Carry mini leather handbag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA496/ASKF0002/1BA496_ASK_F0002_V_TOM_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1BA496_ASK_F_model.jpg",
+          "alt": "Prada Carry mini leather handbag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA496/ASKF0002/1BA496_ASK_F0002_V_TOM_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1BA496_ASK_F_detail.jpg",
+          "alt": "Prada Carry mini leather handbag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0015",
+      "name": "Carry leather mini handbag",
+      "full_name": "Carry leather mini handbag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0015. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA496/2C6AF0XUG/1BA496_2C6A_F0XUG_V_TOM_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0015_front.jpg",
+          "alt": "Carry leather mini handbag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA496/2C6AF0XUG/1BA496_2C6A_F0XUG_V_TOM_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0015_model.jpg",
+          "alt": "Carry leather mini handbag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BA/1BA496/2C6AF0XUG/1BA496_2C6A_F0XUG_V_TOM_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0015_detail.jpg",
+          "alt": "Carry leather mini handbag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0016",
+      "name": "Prada Aimée medium leather shoulder bag",
+      "full_name": "Prada Aimée medium leather shoulder bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0016. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC229/2ZRNF0002/1BC229_2ZRN_F0002_V_LEY_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0016_front.jpg",
+          "alt": "Prada Aimée medium leather shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC229/2ZRNF0002/1BC229_2ZRN_F0002_V_LEY_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0016_model.jpg",
+          "alt": "Prada Aimée medium leather shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC229/2ZRNF0002/1BC229_2ZRN_F0002_V_LEY_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0016_detail.jpg",
+          "alt": "Prada Aimée medium leather shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0017",
+      "name": "Prada Aimée large leather shoulder bag",
+      "full_name": "Prada Aimée large leather shoulder bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0017. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC228/2CYSF0002/1BC228_2CYS_F0002_V_LVM_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0017_front.jpg",
+          "alt": "Prada Aimée large leather shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC228/2CYSF0002/1BC228_2CYS_F0002_V_LVM_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0017_model.jpg",
+          "alt": "Prada Aimée large leather shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC228/2CYSF0002/1BC228_2CYS_F0002_V_LVM_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0017_detail.jpg",
+          "alt": "Prada Aimée large leather shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0018",
+      "name": "Prada Aimée medium suede shoulder bag",
+      "full_name": "Prada Aimée medium suede shoulder bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0018. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC229/2C4SF0324/1BC229_2C4S_F0324_V_LVM_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0018_front.jpg",
+          "alt": "Prada Aimée medium suede shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC229/2C4SF0324/1BC229_2C4S_F0324_V_LVM_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0018_model.jpg",
+          "alt": "Prada Aimée medium suede shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC229/2C4SF0324/1BC229_2C4S_F0324_V_LVM_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0018_detail.jpg",
+          "alt": "Prada Aimée medium suede shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0019",
+      "name": "Prada Aimèe large leather shoulder bag",
+      "full_name": "Prada Aimèe large leather shoulder bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0019. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC308/2CYRF0002/1BC308_2CYR_F0002_V_OOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0019_front.jpg",
+          "alt": "Prada Aimèe large leather shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC308/2CYRF0002/1BC308_2CYR_F0002_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0019_model.jpg",
+          "alt": "Prada Aimèe large leather shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC308/2CYRF0002/1BC308_2CYR_F0002_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0019_detail.jpg",
+          "alt": "Prada Aimèe large leather shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0020",
+      "name": "Prada Aimèe medium leather shoulder bag",
+      "full_name": "Prada Aimèe medium leather shoulder bag (Women's Handbags)",
+      "category": "Women's Handbags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0020. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC309/2CYRF01D6/1BC309_2CYR_F01D6_V_OOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0020_front.jpg",
+          "alt": "Prada Aimèe medium leather shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC309/2CYRF01D6/1BC309_2CYR_F01D6_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0020_model.jpg",
+          "alt": "Prada Aimèe medium leather shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC309/2CYRF01D6/1BC309_2CYR_F01D6_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0020_detail.jpg",
+          "alt": "Prada Aimèe medium leather shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "1I725O_069_F0304_F_085_SLR",
+      "name": "Patent leather slingback pumps",
+      "full_name": "Patent leather slingback pumps (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1I725O_069_F0304_F_085_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1I7/1I725O/069F0304/1I725O_069_F0304_F_085_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1I725O_069_F_front.jpg",
+          "alt": "Patent leather slingback pumps front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1I7/1I725O/069F0304/1I725O_069_F0304_F_085_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1I725O_069_F_model.jpg",
+          "alt": "Patent leather slingback pumps model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1I7/1I725O/069F0304/1I725O_069_F0304_F_085_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1I725O_069_F_detail.jpg",
+          "alt": "Patent leather slingback pumps detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0022",
+      "name": "Printed calf hair leather slingback pumps",
+      "full_name": "Printed calf hair leather slingback pumps (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0022. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1I7/1I725O/3J04F0G3Z/1I725O_3J04_F0G3Z_F_D085_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0022_front.jpg",
+          "alt": "Printed calf hair leather slingback pumps front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1I7/1I725O/3J04F0G3Z/1I725O_3J04_F0G3Z_F_D085_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0022_model.jpg",
+          "alt": "Printed calf hair leather slingback pumps model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1I7/1I725O/3J04F0G3Z/1I725O_3J04_F0G3Z_F_D085_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0022_detail.jpg",
+          "alt": "Printed calf hair leather slingback pumps detail view"
+        }
+      ]
+    },
+    {
+      "id": "1T580O_H27_F0002_F_040_SLR",
+      "name": "Patent naplak leather booties",
+      "full_name": "Patent naplak leather booties (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1T580O_H27_F0002_F_040_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T5/1T580O/H27F0002/1T580O_H27_F0002_F_040_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1T580O_H27_F_front.jpg",
+          "alt": "Patent naplak leather booties front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T5/1T580O/H27F0002/1T580O_H27_F0002_F_040_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T580O_H27_F_model.jpg",
+          "alt": "Patent naplak leather booties model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T5/1T580O/H27F0002/1T580O_H27_F0002_F_040_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T580O_H27_F_detail.jpg",
+          "alt": "Patent naplak leather booties detail view"
+        }
+      ]
+    },
+    {
+      "id": "1T580O_054_F0003_F_040_SLR",
+      "name": "Suede ankle boots",
+      "full_name": "Suede ankle boots (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1T580O_054_F0003_F_040_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T5/1T580O/054F0003/1T580O_054_F0003_F_040_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1T580O_054_F_front.jpg",
+          "alt": "Suede ankle boots front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T5/1T580O/054F0003/1T580O_054_F0003_F_040_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T580O_054_F_model.jpg",
+          "alt": "Suede ankle boots model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T5/1T580O/054F0003/1T580O_054_F0003_F_040_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T580O_054_F_detail.jpg",
+          "alt": "Suede ankle boots detail view"
+        }
+      ]
+    },
+    {
+      "id": "1T173O_038_F0002_F_035_SLR",
+      "name": "Nappa leather booties",
+      "full_name": "Nappa leather booties (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1T173O_038_F0002_F_035_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T1/1T173O/038F0002/1T173O_038_F0002_F_035_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1T173O_038_F_front.jpg",
+          "alt": "Nappa leather booties front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T1/1T173O/038F0002/1T173O_038_F0002_F_035_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T173O_038_F_model.jpg",
+          "alt": "Nappa leather booties model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T1/1T173O/038F0002/1T173O_038_F0002_F_035_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T173O_038_F_detail.jpg",
+          "alt": "Nappa leather booties detail view"
+        }
+      ]
+    },
+    {
+      "id": "1T173O_008_F0003_F_035_SLR",
+      "name": "Suede booties",
+      "full_name": "Suede booties (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1T173O_008_F0003_F_035_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T1/1T173O/008F0003/1T173O_008_F0003_F_035_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1T173O_008_F_front.jpg",
+          "alt": "Suede booties front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T1/1T173O/008F0003/1T173O_008_F0003_F_035_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T173O_008_F_model.jpg",
+          "alt": "Suede booties model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T1/1T173O/008F0003/1T173O_008_F0003_F_035_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T173O_008_F_detail.jpg",
+          "alt": "Suede booties detail view"
+        }
+      ]
+    },
+    {
+      "id": "1T708O_070_F0003_F_065_SLR",
+      "name": "Leather booties",
+      "full_name": "Leather booties (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1T708O_070_F0003_F_065_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T7/1T708O/070F0003/1T708O_070_F0003_F_065_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1T708O_070_F_front.jpg",
+          "alt": "Leather booties front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T7/1T708O/070F0003/1T708O_070_F0003_F_065_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T708O_070_F_model.jpg",
+          "alt": "Leather booties model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T7/1T708O/070F0003/1T708O_070_F0003_F_065_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T708O_070_F_detail.jpg",
+          "alt": "Leather booties detail view"
+        }
+      ]
+    },
+    {
+      "id": "1T620O_UZE_F0002_F_085_SLR",
+      "name": "Stride leather ankle boots with zipper",
+      "full_name": "Stride leather ankle boots with zipper (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1T620O_UZE_F0002_F_085_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T6/1T620O/UZEF0002/1T620O_UZE_F0002_F_085_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1T620O_UZE_F_front.jpg",
+          "alt": "Stride leather ankle boots with zipper front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T6/1T620O/UZEF0002/1T620O_UZE_F0002_F_085_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T620O_UZE_F_model.jpg",
+          "alt": "Stride leather ankle boots with zipper model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T6/1T620O/UZEF0002/1T620O_UZE_F0002_F_085_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T620O_UZE_F_detail.jpg",
+          "alt": "Stride leather ankle boots with zipper detail view"
+        }
+      ]
+    },
+    {
+      "id": "1T546O_L68_F0002_F_085_SLR",
+      "name": "Stride stretch nappa leather booties",
+      "full_name": "Stride stretch nappa leather booties (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1T546O_L68_F0002_F_085_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T5/1T546O/L68F0002/1T546O_L68_F0002_F_085_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1T546O_L68_F_front.jpg",
+          "alt": "Stride stretch nappa leather booties front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T5/1T546O/L68F0002/1T546O_L68_F0002_F_085_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T546O_L68_F_model.jpg",
+          "alt": "Stride stretch nappa leather booties model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1T5/1T546O/L68F0002/1T546O_L68_F0002_F_085_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1T546O_L68_F_detail.jpg",
+          "alt": "Stride stretch nappa leather booties detail view"
+        }
+      ]
+    },
+    {
+      "id": "1W157O_L66_F0003_F_055_SLR",
+      "name": "Stretch suede boots",
+      "full_name": "Stretch suede boots (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1W157O_L66_F0003_F_055_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1W1/1W157O/L66F0003/1W157O_L66_F0003_F_055_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1W157O_L66_F_front.jpg",
+          "alt": "Stretch suede boots front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1W1/1W157O/L66F0003/1W157O_L66_F0003_F_055_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1W157O_L66_F_model.jpg",
+          "alt": "Stretch suede boots model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1W1/1W157O/L66F0003/1W157O_L66_F0003_F_055_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1W157O_L66_F_detail.jpg",
+          "alt": "Stretch suede boots detail view"
+        }
+      ]
+    },
+    {
+      "id": "1W157O_L68_F0002_F_055_SLR",
+      "name": "Stretch nappa leather boots",
+      "full_name": "Stretch nappa leather boots (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1W157O_L68_F0002_F_055_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1W1/1W157O/L68F0002/1W157O_L68_F0002_F_055_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1W157O_L68_F_front.jpg",
+          "alt": "Stretch nappa leather boots front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1W1/1W157O/L68F0002/1W157O_L68_F0002_F_055_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1W157O_L68_F_model.jpg",
+          "alt": "Stretch nappa leather boots model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1W1/1W157O/L68F0002/1W157O_L68_F0002_F_055_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1W157O_L68_F_detail.jpg",
+          "alt": "Stretch nappa leather boots detail view"
+        }
+      ]
+    },
+    {
+      "id": "1D739O_013_F0K74_F_080_SLR",
+      "name": "Leather heeled loafers",
+      "full_name": "Leather heeled loafers (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 1200.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1D739O_013_F0K74_F_080_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1D7/1D739O/013F0K74/1D739O_013_F0K74_F_080_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1D739O_013_F_front.jpg",
+          "alt": "Leather heeled loafers front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1D7/1D739O/013F0K74/1D739O_013_F0K74_F_080_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1D739O_013_F_model.jpg",
+          "alt": "Leather heeled loafers model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1D7/1D739O/013F0K74/1D739O_013_F0K74_F_080_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1D739O_013_F_detail.jpg",
+          "alt": "Leather heeled loafers detail view"
+        }
+      ]
+    },
+    {
+      "id": "1D748O_013_F0K74_F_035_SLR",
+      "name": "Leather loafers",
+      "full_name": "Leather loafers (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 1200.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1D748O_013_F0K74_F_035_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1D7/1D748O/013F0K74/1D748O_013_F0K74_F_035_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1D748O_013_F_front.jpg",
+          "alt": "Leather loafers front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1D7/1D748O/013F0K74/1D748O_013_F0K74_F_035_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1D748O_013_F_model.jpg",
+          "alt": "Leather loafers model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1D7/1D748O/013F0K74/1D748O_013_F0K74_F_035_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1D748O_013_F_detail.jpg",
+          "alt": "Leather loafers detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0034",
+      "name": "Printed leather ballerinas",
+      "full_name": "Printed leather ballerinas (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0034. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1F7/1F793N/3J04F0G3Z/1F793N_3J04_F0G3Z_F_DA05_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0034_front.jpg",
+          "alt": "Printed leather ballerinas front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1F7/1F793N/3J04F0G3Z/1F793N_3J04_F0G3Z_F_DA05_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0034_model.jpg",
+          "alt": "Printed leather ballerinas model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1F7/1F793N/3J04F0G3Z/1F793N_3J04_F0G3Z_F_DA05_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0034_detail.jpg",
+          "alt": "Printed leather ballerinas detail view"
+        }
+      ]
+    },
+    {
+      "id": "1F731O_099_F0002_F_005_SLR",
+      "name": "Mesh fabric ballerinas",
+      "full_name": "Mesh fabric ballerinas (Women's Shoes)",
+      "category": "Women's Shoes",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU 1F731O_099_F0002_F_005_SLR. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1F7/1F731O/099F0002/1F731O_099_F0002_F_005_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_1F731O_099_F_front.jpg",
+          "alt": "Mesh fabric ballerinas front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1F7/1F731O/099F0002/1F731O_099_F0002_F_005_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1F731O_099_F_model.jpg",
+          "alt": "Mesh fabric ballerinas model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/1/1F7/1F731O/099F0002/1F731O_099_F0002_F_005_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_1F731O_099_F_detail.jpg",
+          "alt": "Mesh fabric ballerinas detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0036",
+      "name": "Prada Route leather tote bag",
+      "full_name": "Prada Route leather tote bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0036. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VG/2VG139/2G6FF0002/2VG139_2G6F_F0002_V_OOM_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0036_front.jpg",
+          "alt": "Prada Route leather tote bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VG/2VG139/2G6FF0002/2VG139_2G6F_F0002_V_OOM_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0036_model.jpg",
+          "alt": "Prada Route leather tote bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VG/2VG139/2G6FF0002/2VG139_2G6F_F0002_V_OOM_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0036_detail.jpg",
+          "alt": "Prada Route leather tote bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0037",
+      "name": "Prada Route leather shoulder bag",
+      "full_name": "Prada Route leather shoulder bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0037. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH219/2G6FF0002/2VH219_2G6F_F0002_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0037_front.jpg",
+          "alt": "Prada Route leather shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH219/2G6FF0002/2VH219_2G6F_F0002_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0037_model.jpg",
+          "alt": "Prada Route leather shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH219/2G6FF0002/2VH219_2G6F_F0002_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0037_detail.jpg",
+          "alt": "Prada Route leather shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0038",
+      "name": "Re-Nylon and leather backpack",
+      "full_name": "Re-Nylon and leather backpack (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 2450.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0038. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ110/2ZSIF0002/2VZ110_2ZSI_F0002_V_MMI_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0038_front.jpg",
+          "alt": "Re-Nylon and leather backpack front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ110/2ZSIF0002/2VZ110_2ZSI_F0002_V_MMI_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0038_model.jpg",
+          "alt": "Re-Nylon and leather backpack model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ110/2ZSIF0002/2VZ110_2ZSI_F0002_V_MMI_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0038_detail.jpg",
+          "alt": "Re-Nylon and leather backpack detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0039",
+      "name": "Re-Nylon and leather shoulder bag",
+      "full_name": "Re-Nylon and leather shoulder bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 2450.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0039. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH230/2ZSIF0002/2VH230_2ZSI_F0002_V_OOI_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0039_front.jpg",
+          "alt": "Re-Nylon and leather shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH230/2ZSIF0002/2VH230_2ZSI_F0002_V_OOI_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0039_model.jpg",
+          "alt": "Re-Nylon and leather shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH230/2ZSIF0002/2VH230_2ZSI_F0002_V_OOI_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0039_detail.jpg",
+          "alt": "Re-Nylon and leather shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0040",
+      "name": "Prada Buckle antiqued nappa leather bag",
+      "full_name": "Prada Buckle antiqued nappa leather bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0040. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VG/2VG126/2ZQ4F0002/2VG126_2ZQ4_F0002_V_OJO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0040_front.jpg",
+          "alt": "Prada Buckle antiqued nappa leather bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VG/2VG126/2ZQ4F0002/2VG126_2ZQ4_F0002_V_OJO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0040_model.jpg",
+          "alt": "Prada Buckle antiqued nappa leather bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VG/2VG126/2ZQ4F0002/2VG126_2ZQ4_F0002_V_OJO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0040_detail.jpg",
+          "alt": "Prada Buckle antiqued nappa leather bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0041",
+      "name": "Nappa leather work bag",
+      "full_name": "Nappa leather work bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0041. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VE/2VE031/2ZQ4F0002/2VE031_2ZQ4_F0002_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0041_front.jpg",
+          "alt": "Nappa leather work bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VE/2VE031/2ZQ4F0002/2VE031_2ZQ4_F0002_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0041_model.jpg",
+          "alt": "Nappa leather work bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VE/2VE031/2ZQ4F0002/2VE031_2ZQ4_F0002_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0041_detail.jpg",
+          "alt": "Nappa leather work bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0042",
+      "name": "Nappa leather shoulder bag",
+      "full_name": "Nappa leather shoulder bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0042. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH223/2ZQ4F0002/2VH223_2ZQ4_F0002_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0042_front.jpg",
+          "alt": "Nappa leather shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH223/2ZQ4F0002/2VH223_2ZQ4_F0002_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0042_model.jpg",
+          "alt": "Nappa leather shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH223/2ZQ4F0002/2VH223_2ZQ4_F0002_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0042_detail.jpg",
+          "alt": "Nappa leather shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0043",
+      "name": "Leather shoulder bag",
+      "full_name": "Leather shoulder bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0043. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH205/2ZQ6F0324/2VH205_2ZQ6_F0324_V_NOM_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0043_front.jpg",
+          "alt": "Leather shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH205/2ZQ6F0324/2VH205_2ZQ6_F0324_V_NOM_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0043_model.jpg",
+          "alt": "Leather shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH205/2ZQ6F0324/2VH205_2ZQ6_F0324_V_NOM_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0043_detail.jpg",
+          "alt": "Leather shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0044",
+      "name": "Prada Brique antiqued leather bag",
+      "full_name": "Prada Brique antiqued leather bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0044. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ106/2ZQ6F0324/2VZ106_2ZQ6_F0324_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0044_front.jpg",
+          "alt": "Prada Brique antiqued leather bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ106/2ZQ6F0324/2VZ106_2ZQ6_F0324_V_NOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0044_model.jpg",
+          "alt": "Prada Brique antiqued leather bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ106/2ZQ6F0324/2VZ106_2ZQ6_F0324_V_NOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0044_detail.jpg",
+          "alt": "Prada Brique antiqued leather bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0045",
+      "name": "Leather tote bag",
+      "full_name": "Leather tote bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0045. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VG/2VG039/2ZQ6F0324/2VG039_2ZQ6_F0324_V_YOM_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0045_front.jpg",
+          "alt": "Leather tote bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VG/2VG039/2ZQ6F0324/2VG039_2ZQ6_F0324_V_YOM_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0045_model.jpg",
+          "alt": "Leather tote bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VG/2VG039/2ZQ6F0324/2VG039_2ZQ6_F0324_V_YOM_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0045_detail.jpg",
+          "alt": "Leather tote bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0046",
+      "name": "Leather work bag",
+      "full_name": "Leather work bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 3800.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0046. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VE/2VE032/2ZQ6F0324/2VE032_2ZQ6_F0324_V_OOM_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0046_front.jpg",
+          "alt": "Leather work bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VE/2VE032/2ZQ6F0324/2VE032_2ZQ6_F0324_V_OOM_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0046_model.jpg",
+          "alt": "Leather work bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VE/2VE032/2ZQ6F0324/2VE032_2ZQ6_F0324_V_OOM_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0046_detail.jpg",
+          "alt": "Leather work bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0047",
+      "name": "Re-Nylon and Saffiano shoulder bag",
+      "full_name": "Re-Nylon and Saffiano shoulder bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 2450.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0047. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH048/2DMHF0170/2VH048_2DMH_F0170_V_XOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0047_front.jpg",
+          "alt": "Re-Nylon and Saffiano shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH048/2DMHF0170/2VH048_2DMH_F0170_V_XOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0047_model.jpg",
+          "alt": "Re-Nylon and Saffiano shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH048/2DMHF0170/2VH048_2DMH_F0170_V_XOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0047_detail.jpg",
+          "alt": "Re-Nylon and Saffiano shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0048",
+      "name": "Re-Nylon and Saffiano leather backpack",
+      "full_name": "Re-Nylon and Saffiano leather backpack (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 2450.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0048. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ048/2DMGF0170/2VZ048_2DMG_F0170_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0048_front.jpg",
+          "alt": "Re-Nylon and Saffiano leather backpack front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ048/2DMGF0170/2VZ048_2DMG_F0170_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0048_model.jpg",
+          "alt": "Re-Nylon and Saffiano leather backpack model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ048/2DMGF0170/2VZ048_2DMG_F0170_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0048_detail.jpg",
+          "alt": "Re-Nylon and Saffiano leather backpack detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0049",
+      "name": "Medium Re-Nylon and Saffiano leather shoulder bag",
+      "full_name": "Medium Re-Nylon and Saffiano leather shoulder bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 2450.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0049. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH192/2DMGF0002/2VH192_2DMG_F0002_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0049_front.jpg",
+          "alt": "Medium Re-Nylon and Saffiano leather shoulder bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH192/2DMGF0002/2VH192_2DMG_F0002_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0049_model.jpg",
+          "alt": "Medium Re-Nylon and Saffiano leather shoulder bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH192/2DMGF0002/2VH192_2DMG_F0002_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0049_detail.jpg",
+          "alt": "Medium Re-Nylon and Saffiano leather shoulder bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0050",
+      "name": "Re-Nylon backpack",
+      "full_name": "Re-Nylon backpack (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 2450.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0050. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ110/2C26F0170/2VZ110_2C26_F0170_V_MMO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0050_front.jpg",
+          "alt": "Re-Nylon backpack front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ110/2C26F0170/2VZ110_2C26_F0170_V_MMO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0050_model.jpg",
+          "alt": "Re-Nylon backpack model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ110/2C26F0170/2VZ110_2C26_F0170_V_MMO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0050_detail.jpg",
+          "alt": "Re-Nylon backpack detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0051",
+      "name": "Prada Explore Re-Nylon and leather bag",
+      "full_name": "Prada Explore Re-Nylon and leather bag (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 2450.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0051. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH206/2DW3F05VI/2VH206_2DW3_F05VI_V_OOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0051_front.jpg",
+          "alt": "Prada Explore Re-Nylon and leather bag front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH206/2DW3F05VI/2VH206_2DW3_F05VI_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0051_model.jpg",
+          "alt": "Prada Explore Re-Nylon and leather bag model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VH/2VH206/2DW3F05VI/2VH206_2DW3_F05VI_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0051_detail.jpg",
+          "alt": "Prada Explore Re-Nylon and leather bag detail view"
+        }
+      ]
+    },
+    {
+      "id": "PRD-0052",
+      "name": "Prada Explore Re-Nylon and leather backpack",
+      "full_name": "Prada Explore Re-Nylon and leather backpack (Men's Bags)",
+      "category": "Men's Bags",
+      "group": "Prada Heritage & Modernist Collections",
+      "style": "Milanese Architectural Luxury",
+      "price": 2450.0,
+      "color": "Nero (Black) / Saffiano Leather / Re-Nylon",
+      "material": "Crosshatch Saffiano Calf Leather / ECONYL® Regenerated Nylon / Polished Enamel Triangle",
+      "dimensions": "Italian Handcrafted Atelier Construction",
+      "packaging": "Prada rigid embossed box with magnetic flap and custom satin dust bag",
+      "brief": "Official Prada piece scraped from prada.com. Master SKU PRD-0052. Enamelled metal triangle logo.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ118/2DW3F05VI/2VZ118_2DW3_F05VI_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebedundefined.jpg",
+          "file": "prada_PRD-0052_front.jpg",
+          "alt": "Prada Explore Re-Nylon and leather backpack front view"
+        },
+        {
+          "label": "EDITORIAL IN-SITU MODEL",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ118/2DW3F05VI/2VZ118_2DW3_F05VI_V_OOO_MDL.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0052_model.jpg",
+          "alt": "Prada Explore Re-Nylon and leather backpack model view"
+        },
+        {
+          "label": "DETAIL CLOSEUP & LOGO",
+          "url": "https://www.prada.com/content/dam/pradabkg_products/2/2VZ/2VZ118/2DW3F05VI/2VZ118_2DW3_F05VI_V_OOO_SLD.jpg//_jcr_content/renditions/cq5dam.web.hebebed.1000.1000.jpg",
+          "file": "prada_PRD-0052_detail.jpg",
+          "alt": "Prada Explore Re-Nylon and leather backpack detail view"
+        }
+      ]
+    }
+  ]
+}

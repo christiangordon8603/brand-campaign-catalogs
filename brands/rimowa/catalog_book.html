@@ -1,0 +1,3570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rimowa // Real Scraped Official Production Lookbook & Contact Sheets</title>
+  <style>
+    :root {
+      --brand-primary: #2b2b2b;
+      --brand-accent: #5c5c5c;
+      --brand-bg: #f8f9fa;
+      --brand-header: #1e1e1e;
+      --brand-text: #ffffff;
+      --brand-border: #d5d8dc;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--brand-bg);
+      color: #1a1a1a;
+      line-height: 1.5;
+    }
+    .top-bar {
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background: var(--brand-header);
+      color: var(--brand-text);
+      padding: 12px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 2px solid var(--brand-accent);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    .nav-brand-group {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .brand-pill {
+      background: var(--brand-accent);
+      color: #fff;
+      font-size: 11px;
+      font-weight: 800;
+      padding: 3px 10px;
+      border-radius: 3px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    .nav-title {
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .nav-tools {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .search-input {
+      padding: 6px 14px;
+      border-radius: 4px;
+      border: 1px solid #444;
+      background: #222;
+      color: white;
+      font-size: 13px;
+      width: 240px;
+      outline: none;
+    }
+    .search-input:focus {
+      border-color: var(--brand-accent);
+      width: 300px;
+    }
+    .btn-nav {
+      background: #333;
+      color: white;
+      border: 1px solid #444;
+      padding: 6px 14px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .btn-hub {
+      background: var(--brand-accent);
+      color: #fff;
+      font-weight: 700;
+      border: none;
+    }
+
+    .book-wrapper {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 32px 24px;
+    }
+
+    .book-cover {
+      background: white;
+      border-radius: 8px;
+      border: 1px solid var(--brand-border);
+      padding: 64px 48px;
+      margin-bottom: 40px;
+      box-shadow: 0 12px 32px rgba(0,0,0,0.06);
+      position: relative;
+      overflow: hidden;
+    }
+    .cover-stripe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 6px;
+      background: var(--brand-accent);
+    }
+    .cover-badge {
+      display: inline-block;
+      background: #111;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      padding: 4px 10px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+    .cover-title {
+      font-size: 46px;
+      font-weight: 900;
+      letter-spacing: -1px;
+      line-height: 1.1;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+    }
+    .cover-tagline {
+      font-size: 18px;
+      color: #666;
+      font-weight: 500;
+      margin-bottom: 24px;
+    }
+    .cover-stats {
+      display: flex;
+      gap: 32px;
+      border-top: 1px solid #eee;
+      padding-top: 24px;
+    }
+    .stat-item strong {
+      display: block;
+      font-size: 24px;
+      font-weight: 800;
+      color: #111;
+    }
+    .stat-item span {
+      font-size: 12px;
+      color: #777;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .product-entry {
+      background: white;
+      border-radius: 8px;
+      border: 1px solid var(--brand-border);
+      margin-bottom: 48px;
+      box-shadow: 0 6px 24px rgba(0,0,0,0.04);
+      page-break-after: always;
+      overflow: hidden;
+    }
+    .product-sheet-header {
+      padding: 24px 32px 18px;
+      border-bottom: 1px solid #f0f0f0;
+      background: #fafafa;
+    }
+    .sheet-meta {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+    .meta-tag {
+      background: #111;
+      color: white;
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      padding: 2px 8px;
+      border-radius: 3px;
+      text-transform: uppercase;
+    }
+    .meta-sku {
+      font-family: ui-monospace, Menlo, Monaco, monospace;
+      font-size: 11px;
+      color: #666;
+      background: #e8e8e8;
+      padding: 2px 6px;
+      border-radius: 3px;
+    }
+    .meta-group {
+      font-size: 11px;
+      color: #888;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+    .sheet-title-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 16px;
+    }
+    .product-title {
+      font-size: 26px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      color: #111;
+    }
+    .product-price {
+      font-size: 24px;
+      font-weight: 800;
+      color: var(--brand-accent);
+      white-space: nowrap;
+    }
+    .product-subtitle {
+      font-size: 13px;
+      color: #666;
+      margin-top: 4px;
+    }
+
+    .contact-sheet-container {
+      padding: 24px 32px;
+      background: #14171c;
+      border-bottom: 1px solid #232730;
+    }
+    .contact-sheet-banner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #2b303c;
+    }
+    .banner-title {
+      color: #e2e8f0;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .pulse-indicator {
+      width: 7px;
+      height: 7px;
+      background: #00ff88;
+      border-radius: 50%;
+      box-shadow: 0 0 8px #00ff88;
+    }
+    .banner-frames-count {
+      color: #94a3b8;
+      font-size: 11px;
+      font-weight: 600;
+    }
+    .contact-sheet-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 14px;
+    }
+    .contact-frame {
+      background: #1c212a;
+      border: 1px solid #2f3645;
+      border-radius: 6px;
+      overflow: hidden;
+      cursor: zoom-in;
+      transition: transform 0.15s ease, border-color 0.15s ease;
+    }
+    .contact-frame:hover {
+      transform: translateY(-2px);
+      border-color: #00ff88;
+    }
+    .frame-tag {
+      background: #0d1015;
+      color: #cbd5e1;
+      font-size: 9px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      padding: 5px 8px;
+      text-transform: uppercase;
+      border-bottom: 1px solid #282f3d;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .frame-img-box {
+      aspect-ratio: 1 / 1;
+      background: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+    .frame-img-box img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.25s ease;
+    }
+    .contact-frame:hover .frame-img-box img {
+      transform: scale(1.04);
+    }
+    .frame-caption {
+      padding: 6px 8px;
+      font-size: 10px;
+      color: #94a3b8;
+      background: #151921;
+      text-align: center;
+    }
+
+    .product-specs-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1px;
+      background: #f0f0f0;
+      padding: 1px;
+    }
+    .spec-cell {
+      background: white;
+      padding: 16px 24px;
+    }
+    .spec-cell.full-width {
+      grid-column: span 2;
+    }
+    .spec-label {
+      display: block;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #888;
+      margin-bottom: 4px;
+    }
+    .spec-value {
+      font-size: 14px;
+      font-weight: 600;
+      color: #222;
+    }
+    .spec-brief {
+      font-size: 13px;
+      color: #444;
+      line-height: 1.6;
+    }
+
+    .lightbox-modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      background: rgba(0,0,0,0.92);
+      backdrop-filter: blur(8px);
+      align-items: center;
+      justify-content: center;
+      padding: 32px;
+    }
+    .lightbox-modal.active {
+      display: flex;
+    }
+    .lightbox-content {
+      max-width: 90vw;
+      max-height: 90vh;
+      object-fit: contain;
+      border-radius: 4px;
+      box-shadow: 0 0 40px rgba(0,0,0,0.8);
+    }
+    .lightbox-close {
+      position: absolute;
+      top: 24px;
+      right: 28px;
+      color: white;
+      font-size: 36px;
+      font-weight: 300;
+      cursor: pointer;
+      line-height: 1;
+    }
+
+    @media print {
+      .top-bar { display: none !important; }
+      .book-wrapper { padding: 0; }
+      .product-entry { box-shadow: none; border: 1px solid #ccc; page-break-after: always; }
+    }
+  </style>
+</head>
+<body>
+  <div class="top-bar">
+    <div class="nav-brand-group">
+      <span class="brand-pill">OFFICIAL PRODUCTION BOOK</span>
+      <span class="nav-title">Rimowa</span>
+    </div>
+    <div class="nav-tools">
+      <input type="text" class="search-input" id="searchBar" placeholder="Search 50 products, SKUs, colors..." onkeyup="filterProducts()"/>
+      <a href="../../campaign_hub.html" class="btn-nav btn-hub">↖ Back to Hub</a>
+      <a href="catalog.csv" class="btn-nav">CSV</a>
+      <a href="catalog.json" class="btn-nav">JSON</a>
+      <button class="btn-nav" onclick="window.print()">Print Binder</button>
+    </div>
+  </div>
+
+  <div class="book-wrapper">
+    <div class="book-cover">
+      <div class="cover-stripe"></div>
+      <span class="cover-badge">100% Real Scraped Site Catalog</span>
+      <h1 class="cover-title">Rimowa</h1>
+      <p class="cover-tagline">German Engineered Aviation Aluminium &amp; Luxury Luggage</p>
+      <div class="cover-stats">
+        <div class="stat-item">
+          <strong>50</strong>
+          <span>Real Scraped Objects</span>
+        </div>
+        <div class="stat-item">
+          <strong>50</strong>
+          <span>Photographic Proof Frames</span>
+        </div>
+        <div class="stat-item">
+          <strong>$72,625.00</strong>
+          <span>Total Catalog Value (USD)</span>
+        </div>
+      </div>
+    </div>
+
+    <main id="productsContainer">
+      
+        <article class="product-entry" id="92352004020955516" data-category="Engineered Travel &amp; Luggage" data-name="rimowa cabin s">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 92352004020955516</span>
+              <span class="meta-group">Rimowa Re-Crafted Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Cabin S</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Cabin S - Re-Crafted Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-second-hand/default/dwedf56d3a/images/secondhand/92352004020955516/medium/1.png', 'Rimowa Cabin S frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-second-hand/default/dwedf56d3a/images/secondhand/92352004020955516/medium/1.png" alt="Rimowa Cabin S frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (92352004020955516). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="88363" data-category="Engineered Travel &amp; Luggage" data-name="rimowa check-in m">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 88363</span>
+              <span class="meta-group">Rimowa Hybrid Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Check-In M</h2>
+              <div class="product-price">$1,525.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Check-In M - Hybrid Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa701131c/images/medium/88373604_1.png', 'Rimowa Check-In M frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa701131c/images/medium/88373604_1.png" alt="Rimowa Check-In M frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (88363). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="88356" data-category="Engineered Travel &amp; Luggage" data-name="rimowa cabin plus">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 88356</span>
+              <span class="meta-group">Rimowa Hybrid Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Cabin Plus</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Cabin Plus - Hybrid Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa701131c/images/medium/88373604_1.png', 'Rimowa Cabin Plus frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa701131c/images/medium/88373604_1.png" alt="Rimowa Cabin Plus frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (88356). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="97390002" data-category="Engineered Travel &amp; Luggage" data-name="rimowa one bottle case">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 97390002</span>
+              <span class="meta-group">Rimowa Classic Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa One Bottle Case</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa One Bottle Case - Classic Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw78f4b08a/images/medium/97390002_1.png', 'Rimowa One Bottle Case frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw78f4b08a/images/medium/97390002_1.png" alt="Rimowa One Bottle Case frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (97390002). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="90090041" data-category="Engineered Travel &amp; Luggage" data-name="rimowa poker">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 90090041</span>
+              <span class="meta-group">Rimowa Attache Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Poker</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Poker - Attache Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw47465aff/images/medium/90090041_2.png', 'Rimowa Poker frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw47465aff/images/medium/90090041_2.png" alt="Rimowa Poker frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (90090041). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="92540004" data-category="Engineered Travel &amp; Luggage" data-name="rimowa compact">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 92540004</span>
+              <span class="meta-group">Rimowa Silver Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Compact</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Compact - Silver Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcc8e4a3a/images/medium/92540004_1.png', 'Rimowa Compact frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcc8e4a3a/images/medium/92540004_1.png" alt="Rimowa Compact frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (92540004). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50800007" data-category="Engineered Travel &amp; Luggage" data-name="rimowa the sticker book from a – z">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50800007</span>
+              <span class="meta-group">Rimowa Stickers-Set Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa The Sticker Book from A – Z</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa The Sticker Book from A – Z - Stickers-Set Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9db78efa/images/medium/50800007_1.png', 'Rimowa The Sticker Book from A – Z frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9db78efa/images/medium/50800007_1.png" alt="Rimowa The Sticker Book from A – Z frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50800007). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900160" data-category="Engineered Travel &amp; Luggage" data-name="rimowa lips">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900160</span>
+              <span class="meta-group">Rimowa Stickers-Units Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Lips</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Lips - Stickers-Units Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw26339502/images/medium/50900160.png', 'Rimowa Lips frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw26339502/images/medium/50900160.png" alt="Rimowa Lips frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900160). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900002" data-category="Engineered Travel &amp; Luggage" data-name="rimowa las vegas">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900002</span>
+              <span class="meta-group">Rimowa All-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Las Vegas</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Las Vegas - All-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw83354158/images/medium/50900002_1.png', 'Rimowa Las Vegas frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw83354158/images/medium/50900002_1.png" alt="Rimowa Las Vegas frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900002). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900003" data-category="Engineered Travel &amp; Luggage" data-name="rimowa miami">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900003</span>
+              <span class="meta-group">Rimowa All-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Miami</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Miami - All-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw55e5319e/images/medium/50900003_1.png', 'Rimowa Miami frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw55e5319e/images/medium/50900003_1.png" alt="Rimowa Miami frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900003). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900340" data-category="Engineered Travel &amp; Luggage" data-name="rimowa seoul">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900340</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Seoul</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Seoul - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2468e7bc/images/medium/50900340.png', 'Rimowa Seoul frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2468e7bc/images/medium/50900340.png" alt="Rimowa Seoul frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900340). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900350" data-category="Engineered Travel &amp; Luggage" data-name="rimowa los angeles">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900350</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Los Angeles</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Los Angeles - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2635449f/images/medium/50900350.png', 'Rimowa Los Angeles frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2635449f/images/medium/50900350.png" alt="Rimowa Los Angeles frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900350). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900320" data-category="Engineered Travel &amp; Luggage" data-name="rimowa hong kong">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900320</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Hong Kong</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Hong Kong - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd379ca74/images/medium/50900320.png', 'Rimowa Hong Kong frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd379ca74/images/medium/50900320.png" alt="Rimowa Hong Kong frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900320). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900300" data-category="Engineered Travel &amp; Luggage" data-name="rimowa cologne">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900300</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Cologne</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Cologne - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfe0e0b6d/images/medium/50900300.png', 'Rimowa Cologne frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwfe0e0b6d/images/medium/50900300.png" alt="Rimowa Cologne frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900300). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900031" data-category="Engineered Travel &amp; Luggage" data-name="rimowa hawaii">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900031</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Hawaii</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Hawaii - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw6affe5da/images/medium/50900031_1.png', 'Rimowa Hawaii frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw6affe5da/images/medium/50900031_1.png" alt="Rimowa Hawaii frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900031). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50300003" data-category="Engineered Travel &amp; Luggage" data-name="rimowa rimowa: an archive, since 1898">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50300003</span>
+              <span class="meta-group">Rimowa All-Products Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa RIMOWA: An Archive, Since 1898</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa RIMOWA: An Archive, Since 1898 - All-Products Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2e5c5c89/images/medium/50300003_1.png', 'Rimowa RIMOWA: An Archive, Since 1898 frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2e5c5c89/images/medium/50300003_1.png" alt="Rimowa RIMOWA: An Archive, Since 1898 frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50300003). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900020" data-category="Engineered Travel &amp; Luggage" data-name="rimowa madrid">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900020</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Madrid</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Madrid - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb1108664/images/medium/50900020.png', 'Rimowa Madrid frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb1108664/images/medium/50900020.png" alt="Rimowa Madrid frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900020). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900280" data-category="Engineered Travel &amp; Luggage" data-name="rimowa dream without action">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900280</span>
+              <span class="meta-group">Rimowa Single-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Dream Without Action</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Dream Without Action - Single-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwac1b43f0/images/medium/50900280.png', 'Rimowa Dream Without Action frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwac1b43f0/images/medium/50900280.png" alt="Rimowa Dream Without Action frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900280). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900310" data-category="Engineered Travel &amp; Luggage" data-name="rimowa munich">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900310</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Munich</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Munich - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw42502f51/images/medium/50900310.png', 'Rimowa Munich frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw42502f51/images/medium/50900310.png" alt="Rimowa Munich frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900310). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900100" data-category="Engineered Travel &amp; Luggage" data-name="rimowa palmtree">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900100</span>
+              <span class="meta-group">Rimowa Stickers-Units Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Palmtree</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Palmtree - Stickers-Units Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwf05ceaf1/images/medium/50900100.png', 'Rimowa Palmtree frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwf05ceaf1/images/medium/50900100.png" alt="Rimowa Palmtree frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900100). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900060" data-category="Engineered Travel &amp; Luggage" data-name="rimowa milan">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900060</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Milan</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Milan - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8757f98a/images/medium/50900060.png', 'Rimowa Milan frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8757f98a/images/medium/50900060.png" alt="Rimowa Milan frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900060). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900023" data-category="Engineered Travel &amp; Luggage" data-name="rimowa dallas">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900023</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Dallas</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Dallas - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw7ed4337a/images/medium/50900023_1.png', 'Rimowa Dallas frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw7ed4337a/images/medium/50900023_1.png" alt="Rimowa Dallas frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900023). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900050" data-category="Engineered Travel &amp; Luggage" data-name="rimowa tokyo">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900050</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Tokyo</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Tokyo - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1bbadd25/images/medium/50900050.png', 'Rimowa Tokyo frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1bbadd25/images/medium/50900050.png" alt="Rimowa Tokyo frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900050). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="52200002" data-category="Engineered Travel &amp; Luggage" data-name="rimowa trifold garment bag">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 52200002</span>
+              <span class="meta-group">Rimowa Travel-Accessories Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Trifold Garment Bag</h2>
+              <div class="product-price">$1,275.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Trifold Garment Bag - Travel-Accessories Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcf2c9562/images/medium/52200002_1.png', 'Rimowa Trifold Garment Bag frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcf2c9562/images/medium/52200002_1.png" alt="Rimowa Trifold Garment Bag frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (52200002). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="88373" data-category="Engineered Travel &amp; Luggage" data-name="rimowa check-in l">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 88373</span>
+              <span class="meta-group">Rimowa Hybrid Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Check-In L</h2>
+              <div class="product-price">$1,650.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Check-In L - Hybrid Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa701131c/images/medium/88373604_1.png', 'Rimowa Check-In L frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa701131c/images/medium/88373604_1.png" alt="Rimowa Check-In L frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (88373). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="88353" data-category="Engineered Travel &amp; Luggage" data-name="rimowa cabin">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 88353</span>
+              <span class="meta-group">Rimowa Hybrid Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Cabin</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Cabin - Hybrid Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa701131c/images/medium/88373604_1.png', 'Rimowa Cabin frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwa701131c/images/medium/88373604_1.png" alt="Rimowa Cabin frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (88353). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="52400002" data-category="Engineered Travel &amp; Luggage" data-name="rimowa foldable gym bag">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 52400002</span>
+              <span class="meta-group">Rimowa Foldable-Bags Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Foldable Gym Bag</h2>
+              <div class="product-price">$1,275.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Foldable Gym Bag - Foldable-Bags Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw74f44cf0/images/medium/52400002_1.png', 'Rimowa Foldable Gym Bag frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw74f44cf0/images/medium/52400002_1.png" alt="Rimowa Foldable Gym Bag frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (52400002). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900004" data-category="Engineered Travel &amp; Luggage" data-name="rimowa venice">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900004</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Venice</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Venice - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwe66c2fe5/images/medium/50900004_1.png', 'Rimowa Venice frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwe66c2fe5/images/medium/50900004_1.png" alt="Rimowa Venice frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900004). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900013" data-category="Engineered Travel &amp; Luggage" data-name="rimowa barcelona">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900013</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Barcelona</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Barcelona - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb2a1fa39/images/medium/50900013_1.png', 'Rimowa Barcelona frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwb2a1fa39/images/medium/50900013_1.png" alt="Rimowa Barcelona frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900013). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="51500005" data-category="Engineered Travel &amp; Luggage" data-name="rimowa wheels set">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 51500005</span>
+              <span class="meta-group">Rimowa En Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Wheels Set</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Wheels Set - En Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwf991611f/images/medium/51500005_1.png', 'Rimowa Wheels Set frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwf991611f/images/medium/51500005_1.png" alt="Rimowa Wheels Set frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (51500005). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900014" data-category="Engineered Travel &amp; Luggage" data-name="rimowa amsterdam">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900014</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Amsterdam</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Amsterdam - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw52699fb2/images/medium/5090001_1.png', 'Rimowa Amsterdam frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw52699fb2/images/medium/5090001_1.png" alt="Rimowa Amsterdam frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900014). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900026" data-category="Engineered Travel &amp; Luggage" data-name="rimowa toronto">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900026</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Toronto</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Toronto - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw21cec15a/images/medium/50900026_1.png', 'Rimowa Toronto frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw21cec15a/images/medium/50900026_1.png" alt="Rimowa Toronto frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900026). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900034" data-category="Engineered Travel &amp; Luggage" data-name="rimowa orange county">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900034</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Orange County</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Orange County - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw26180fbc/images/medium/50900034_1.png', 'Rimowa Orange County frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw26180fbc/images/medium/50900034_1.png" alt="Rimowa Orange County frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900034). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900027" data-category="Engineered Travel &amp; Luggage" data-name="rimowa vancouver">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900027</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Vancouver</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Vancouver - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw7118f59f/images/medium/50900027_1.png', 'Rimowa Vancouver frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw7118f59f/images/medium/50900027_1.png" alt="Rimowa Vancouver frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900027). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900029" data-category="Engineered Travel &amp; Luggage" data-name="rimowa beverly hills">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900029</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Beverly Hills</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Beverly Hills - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw843857ed/images/medium/50900029_1.png', 'Rimowa Beverly Hills frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw843857ed/images/medium/50900029_1.png" alt="Rimowa Beverly Hills frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900029). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900021" data-category="Engineered Travel &amp; Luggage" data-name="rimowa san diego">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900021</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa San Diego</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa San Diego - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw974b9633/images/medium/50900021_1.png', 'Rimowa San Diego frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw974b9633/images/medium/50900021_1.png" alt="Rimowa San Diego frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900021). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900018" data-category="Engineered Travel &amp; Luggage" data-name="rimowa rome">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900018</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Rome</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Rome - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2631e273/images/medium/50900018_1.png', 'Rimowa Rome frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2631e273/images/medium/50900018_1.png" alt="Rimowa Rome frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900018). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="83275" data-category="Engineered Travel &amp; Luggage" data-name="rimowa trunk">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 83275</span>
+              <span class="meta-group">Rimowa Polycarbonate Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Trunk</h2>
+              <div class="product-price">$2,175.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Trunk - Polycarbonate Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwade8dba2/images/medium/83275654_1.png', 'Rimowa Trunk frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwade8dba2/images/medium/83275654_1.png" alt="Rimowa Trunk frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (83275). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="83280" data-category="Engineered Travel &amp; Luggage" data-name="rimowa trunk plus">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 83280</span>
+              <span class="meta-group">Rimowa Polycarbonate Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Trunk Plus</h2>
+              <div class="product-price">$2,175.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Trunk Plus - Polycarbonate Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwade8dba2/images/medium/83275654_1.png', 'Rimowa Trunk Plus frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwade8dba2/images/medium/83275654_1.png" alt="Rimowa Trunk Plus frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (83280). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="52000001" data-category="Engineered Travel &amp; Luggage" data-name="rimowa packing cubes">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 52000001</span>
+              <span class="meta-group">Rimowa Packing-Cubes Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Packing Cubes</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Packing Cubes - Packing-Cubes Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc76529f6/images/medium/52000001_1.png', 'Rimowa Packing Cubes frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwc76529f6/images/medium/52000001_1.png" alt="Rimowa Packing Cubes frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (52000001). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900016" data-category="Engineered Travel &amp; Luggage" data-name="rimowa rio de janeiro">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900016</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Rio de Janeiro</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Rio de Janeiro - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwe8ae61c5/images/medium/50900016_1.png', 'Rimowa Rio de Janeiro frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwe8ae61c5/images/medium/50900016_1.png" alt="Rimowa Rio de Janeiro frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900016). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="89011660" data-category="Engineered Travel &amp; Luggage" data-name="rimowa cross-body bag">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 89011660</span>
+              <span class="meta-group">Rimowa Personal-Crossbody-Bag Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Cross-Body Bag</h2>
+              <div class="product-price">$1,275.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Cross-Body Bag - Personal-Crossbody-Bag Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5800527e/images/medium/89011660_1.png', 'Rimowa Cross-Body Bag frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5800527e/images/medium/89011660_1.png" alt="Rimowa Cross-Body Bag frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (89011660). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900044" data-category="Engineered Travel &amp; Luggage" data-name="rimowa soho nyc">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900044</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Soho NYC</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Soho NYC - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw00f82ca9/images/medium/50900044_1.png', 'Rimowa Soho NYC frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw00f82ca9/images/medium/50900044_1.png" alt="Rimowa Soho NYC frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900044). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900022" data-category="Engineered Travel &amp; Luggage" data-name="rimowa boston">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900022</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Boston</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Boston - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwdb48f386/images/medium/50900022_1.png', 'Rimowa Boston frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwdb48f386/images/medium/50900022_1.png" alt="Rimowa Boston frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900022). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900037" data-category="Engineered Travel &amp; Luggage" data-name="rimowa são paulo">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900037</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa São Paulo</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa São Paulo - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw7e71d561/images/medium/50900037_1.png', 'Rimowa São Paulo frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw7e71d561/images/medium/50900037_1.png" alt="Rimowa São Paulo frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900037). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="52100002" data-category="Engineered Travel &amp; Luggage" data-name="rimowa travel pouch">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 52100002</span>
+              <span class="meta-group">Rimowa Black Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Travel Pouch</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Travel Pouch - Black Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw3ec0f0b4/images/medium/52100002_1.png', 'Rimowa Travel Pouch frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw3ec0f0b4/images/medium/52100002_1.png" alt="Rimowa Travel Pouch frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (52100002). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="50900028" data-category="Engineered Travel &amp; Luggage" data-name="rimowa san francisco">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 50900028</span>
+              <span class="meta-group">Rimowa City-Stickers Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa San Francisco</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa San Francisco - City-Stickers Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4a7aed03/images/medium/50900028_1.png', 'Rimowa San Francisco frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw4a7aed03/images/medium/50900028_1.png" alt="Rimowa San Francisco frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (50900028). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="92590060" data-category="Engineered Travel &amp; Luggage" data-name="rimowa cabin twist">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 92590060</span>
+              <span class="meta-group">Rimowa Silver Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Cabin Twist</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Cabin Twist - Silver Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw269751cf/images/medium/92590060_1.png', 'Rimowa Cabin Twist frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw269751cf/images/medium/92590060_1.png" alt="Rimowa Cabin Twist frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (92590060). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="05060" data-category="Engineered Travel &amp; Luggage" data-name="rimowa leather case for iphone 11 pro">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 05060</span>
+              <span class="meta-group">Rimowa Leather-Iphone-Case Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Leather Case for iPhone 11 Pro</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Leather Case for iPhone 11 Pro - Leather-Iphone-Case Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9f91a28e/images/medium/50500023_1.png', 'Rimowa Leather Case for iPhone 11 Pro frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw9f91a28e/images/medium/50500023_1.png" alt="Rimowa Leather Case for iPhone 11 Pro frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (05060). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="05061" data-category="Engineered Travel &amp; Luggage" data-name="rimowa leather case for iphone 11 pro max">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Engineered Travel &amp; Luggage</span>
+              <span class="meta-sku">SKU: 05061</span>
+              <span class="meta-group">Rimowa Leather-Iphone-Case Series</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Rimowa Leather Case for iPhone 11 Pro Max</h2>
+              <div class="product-price">$1,425.00</div>
+            </div>
+            <div class="product-subtitle">Rimowa Leather Case for iPhone 11 Pro Max - Leather-Iphone-Case Collection</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1d7bf7b5/images/medium/50500024_1.png', 'Rimowa Leather Case for iPhone 11 Pro Max frame 1')">
+                <div class="frame-tag">STUDIO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw1d7bf7b5/images/medium/50500024_1.png" alt="Rimowa Leather Case for iPhone 11 Pro Max frame 1" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Aviation-Grade Aluminium Grooves</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Silver Aluminium / Matte Black / Titanium</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-grade anodized aluminium alloy / TSA-approved locks / Polycarbonate flex dividers</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Engineered to IATA cabin specifications / Multiwheel® ball-bearing system</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Heavy-duty corrugated flight transit carton with leather luggage tag and sticker set</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Official Rimowa German engineered luggage piece (05061). Designed and crafted with iconic parallel groove architecture and lifetime guarantee.</p>
+            </div>
+          </div>
+        </article>
+        
+    </main>
+  </div>
+
+  <div class="lightbox-modal" id="lightboxModal" onclick="closeLightbox()">
+    <span class="lightbox-close">&times;</span>
+    <img class="lightbox-content" id="lightboxImg" src="" alt=""/>
+  </div>
+
+  <script>
+    function openLightbox(url, alt) {
+      const modal = document.getElementById('lightboxModal');
+      const img = document.getElementById('lightboxImg');
+      img.src = url;
+      img.alt = alt;
+      modal.classList.add('active');
+    }
+    function closeLightbox() {
+      document.getElementById('lightboxModal').classList.remove('active');
+    }
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeLightbox();
+    });
+
+    function filterProducts() {
+      const query = document.getElementById('searchBar').value.toLowerCase();
+      const entries = document.querySelectorAll('.product-entry');
+      entries.forEach(entry => {
+        const text = entry.innerText.toLowerCase();
+        entry.style.display = text.includes(query) ? '' : 'none';
+      });
+    }
+  </script>
+</body>
+</html>

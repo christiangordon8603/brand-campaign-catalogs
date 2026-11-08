@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tesla // Real Scraped Official Production Lookbook & Contact Sheets</title>
+  <style>
+    :root {
+      --brand-primary: #e82127;
+      --brand-accent: #b8161b;
+      --brand-bg: #f9f9f9;
+      --brand-header: #111111;
+      --brand-text: #ffffff;
+      --brand-border: #e3e3e3;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--brand-bg);
+      color: #1a1a1a;
+      line-height: 1.5;
+    }
+    .top-bar {
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background: var(--brand-header);
+      color: var(--brand-text);
+      padding: 12px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 2px solid var(--brand-accent);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    .nav-brand-group {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .brand-pill {
+      background: var(--brand-accent);
+      color: #fff;
+      font-size: 11px;
+      font-weight: 800;
+      padding: 3px 10px;
+      border-radius: 3px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    .nav-title {
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .nav-tools {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .search-input {
+      padding: 6px 14px;
+      border-radius: 4px;
+      border: 1px solid #444;
+      background: #222;
+      color: white;
+      font-size: 13px;
+      width: 240px;
+      outline: none;
+    }
+    .search-input:focus {
+      border-color: var(--brand-accent);
+      width: 300px;
+    }
+    .btn-nav {
+      background: #333;
+      color: white;
+      border: 1px solid #444;
+      padding: 6px 14px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .btn-hub {
+      background: var(--brand-accent);
+      color: #fff;
+      font-weight: 700;
+      border: none;
+    }
+
+    .book-wrapper {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 32px 24px;
+    }
+
+    .book-cover {
+      background: white;
+      border-radius: 8px;
+      border: 1px solid var(--brand-border);
+      padding: 64px 48px;
+      margin-bottom: 40px;
+      box-shadow: 0 12px 32px rgba(0,0,0,0.06);
+      position: relative;
+      overflow: hidden;
+    }
+    .cover-stripe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 6px;
+      background: var(--brand-accent);
+    }
+    .cover-badge {
+      display: inline-block;
+      background: #111;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      padding: 4px 10px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+    .cover-title {
+      font-size: 46px;
+      font-weight: 900;
+      letter-spacing: -1px;
+      line-height: 1.1;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+    }
+    .cover-tagline {
+      font-size: 18px;
+      color: #666;
+      font-weight: 500;
+      margin-bottom: 24px;
+    }
+    .cover-stats {
+      display: flex;
+      gap: 32px;
+      border-top: 1px solid #eee;
+      padding-top: 24px;
+    }
+    .stat-item strong {
+      display: block;
+      font-size: 24px;
+      font-weight: 800;
+      color: #111;
+    }
+    .stat-item span {
+      font-size: 12px;
+      color: #777;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .product-entry {
+      background: white;
+      border-radius: 8px;
+      border: 1px solid var(--brand-border);
+      margin-bottom: 48px;
+      box-shadow: 0 6px 24px rgba(0,0,0,0.04);
+      page-break-after: always;
+      overflow: hidden;
+    }
+    .product-sheet-header {
+      padding: 24px 32px 18px;
+      border-bottom: 1px solid #f0f0f0;
+      background: #fafafa;
+    }
+    .sheet-meta {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+    .meta-tag {
+      background: #111;
+      color: white;
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      padding: 2px 8px;
+      border-radius: 3px;
+      text-transform: uppercase;
+    }
+    .meta-sku {
+      font-family: ui-monospace, Menlo, Monaco, monospace;
+      font-size: 11px;
+      color: #666;
+      background: #e8e8e8;
+      padding: 2px 6px;
+      border-radius: 3px;
+    }
+    .meta-group {
+      font-size: 11px;
+      color: #888;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+    .sheet-title-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 16px;
+    }
+    .product-title {
+      font-size: 26px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      color: #111;
+    }
+    .product-price {
+      font-size: 24px;
+      font-weight: 800;
+      color: var(--brand-accent);
+      white-space: nowrap;
+    }
+    .product-subtitle {
+      font-size: 13px;
+      color: #666;
+      margin-top: 4px;
+    }
+
+    .contact-sheet-container {
+      padding: 24px 32px;
+      background: #14171c;
+      border-bottom: 1px solid #232730;
+    }
+    .contact-sheet-banner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #2b303c;
+    }
+    .banner-title {
+      color: #e2e8f0;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .pulse-indicator {
+      width: 7px;
+      height: 7px;
+      background: #00ff88;
+      border-radius: 50%;
+      box-shadow: 0 0 8px #00ff88;
+    }
+    .banner-frames-count {
+      color: #94a3b8;
+      font-size: 11px;
+      font-weight: 600;
+    }
+    .contact-sheet-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 14px;
+    }
+    .contact-frame {
+      background: #1c212a;
+      border: 1px solid #2f3645;
+      border-radius: 6px;
+      overflow: hidden;
+      cursor: zoom-in;
+      transition: transform 0.15s ease, border-color 0.15s ease;
+    }
+    .contact-frame:hover {
+      transform: translateY(-2px);
+      border-color: #00ff88;
+    }
+    .frame-tag {
+      background: #0d1015;
+      color: #cbd5e1;
+      font-size: 9px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      padding: 5px 8px;
+      text-transform: uppercase;
+      border-bottom: 1px solid #282f3d;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .frame-img-box {
+      aspect-ratio: 1 / 1;
+      background: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+    .frame-img-box img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.25s ease;
+    }
+    .contact-frame:hover .frame-img-box img {
+      transform: scale(1.04);
+    }
+    .frame-caption {
+      padding: 6px 8px;
+      font-size: 10px;
+      color: #94a3b8;
+      background: #151921;
+      text-align: center;
+    }
+
+    .product-specs-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1px;
+      background: #f0f0f0;
+      padding: 1px;
+    }
+    .spec-cell {
+      background: white;
+      padding: 16px 24px;
+    }
+    .spec-cell.full-width {
+      grid-column: span 2;
+    }
+    .spec-label {
+      display: block;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #888;
+      margin-bottom: 4px;
+    }
+    .spec-value {
+      font-size: 14px;
+      font-weight: 600;
+      color: #222;
+    }
+    .spec-brief {
+      font-size: 13px;
+      color: #444;
+      line-height: 1.6;
+    }
+
+    .lightbox-modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      background: rgba(0,0,0,0.92);
+      backdrop-filter: blur(8px);
+      align-items: center;
+      justify-content: center;
+      padding: 32px;
+    }
+    .lightbox-modal.active {
+      display: flex;
+    }
+    .lightbox-content {
+      max-width: 90vw;
+      max-height: 90vh;
+      object-fit: contain;
+      border-radius: 4px;
+      box-shadow: 0 0 40px rgba(0,0,0,0.8);
+    }
+    .lightbox-close {
+      position: absolute;
+      top: 24px;
+      right: 28px;
+      color: white;
+      font-size: 36px;
+      font-weight: 300;
+      cursor: pointer;
+      line-height: 1;
+    }
+
+    @media print {
+      .top-bar { display: none !important; }
+      .book-wrapper { padding: 0; }
+      .product-entry { box-shadow: none; border: 1px solid #ccc; page-break-after: always; }
+    }
+  </style>
+</head>
+<body>
+  <div class="top-bar">
+    <div class="nav-brand-group">
+      <span class="brand-pill">OFFICIAL PRODUCTION BOOK</span>
+      <span class="nav-title">Tesla</span>
+    </div>
+    <div class="nav-tools">
+      <input type="text" class="search-input" id="searchBar" placeholder="Search 6 products, SKUs, colors..." onkeyup="filterProducts()"/>
+      <a href="../../campaign_hub.html" class="btn-nav btn-hub">↖ Back to Hub</a>
+      <a href="catalog.csv" class="btn-nav">CSV</a>
+      <a href="catalog.json" class="btn-nav">JSON</a>
+      <button class="btn-nav" onclick="window.print()">Print Binder</button>
+    </div>
+  </div>
+
+  <div class="book-wrapper">
+    <div class="book-cover">
+      <div class="cover-stripe"></div>
+      <span class="cover-badge">100% Real Scraped Site Catalog</span>
+      <h1 class="cover-title">Tesla</h1>
+      <p class="cover-tagline">Autonomous Electric Propulsion, Cybertruck &amp; Robotics</p>
+      <div class="cover-stats">
+        <div class="stat-item">
+          <strong>6</strong>
+          <span>Real Scraped Objects</span>
+        </div>
+        <div class="stat-item">
+          <strong>6</strong>
+          <span>Photographic Proof Frames</span>
+        </div>
+        <div class="stat-item">
+          <strong>$467,940.00</strong>
+          <span>Total Catalog Value (USD)</span>
+        </div>
+      </div>
+    </div>
+
+    <main id="productsContainer">
+      
+        <article class="product-entry" id="TSLA-CYBERBEAST" data-category="All-Electric Utility Vehicle" data-name="tesla cybertruck cyberbeast">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">All-Electric Utility Vehicle</span>
+              <span class="meta-sku">SKU: TSLA-CYBERBEAST</span>
+              <span class="meta-group">Tesla S-3-X-Y &amp; Cybertruck Fleet</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Tesla Cybertruck Cyberbeast</h2>
+              <div class="product-price">$99,990.00</div>
+            </div>
+            <div class="product-subtitle">Tesla Cybertruck Tri-Motor AWD Cyberbeast</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg', 'Cybertruck hero packshot')">
+                <div class="frame-tag">HERO LOCATION THREE-QUARTER</div>
+                <div class="frame-img-box">
+                  <img src="https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg" alt="Cybertruck hero packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Autonomous Electric Propulsion &amp; Structural Battery</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Ultra-Hard 30X Cold-Rolled Stainless Steel Exoskeleton</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">30X cold-rolled stainless-steel alloy, Armor Glass shatter-resistant composite</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Length: 223.7 in (5,682 mm) x Width: 86.6 in (2,200 mm) x Height: 70.5 in</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Tesla Factory Direct Delivery Suite with RFID Keycard and Mobile App Digital Key</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Tri-Motor All-Wheel Drive. 845 horsepower, 0-60 mph in 2.6 seconds, 11,000 lbs towing capacity.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="TSLA-CYBER-AWD" data-category="All-Electric Utility Vehicle" data-name="tesla cybertruck all-wheel drive">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">All-Electric Utility Vehicle</span>
+              <span class="meta-sku">SKU: TSLA-CYBER-AWD</span>
+              <span class="meta-group">Tesla S-3-X-Y &amp; Cybertruck Fleet</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Tesla Cybertruck All-Wheel Drive</h2>
+              <div class="product-price">$79,990.00</div>
+            </div>
+            <div class="product-subtitle">Tesla Cybertruck Dual Motor All-Wheel Drive</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg', 'Cybertruck AWD packshot')">
+                <div class="frame-tag">HERO PACKSHOT</div>
+                <div class="frame-img-box">
+                  <img src="https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg" alt="Cybertruck AWD packshot" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Autonomous Electric Propulsion &amp; Structural Battery</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Brushed Stainless Steel</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Stainless Steel Exoskeleton, High-Strength Acoustic Glass</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Length: 223.7 in x Width: 86.6 in x Bed Length: 6 ft</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Tesla Factory Direct Delivery Suite</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">Dual Motor AWD. 600 horsepower, 0-60 mph in 4.1 seconds, 340 miles estimated range.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="TSLA-MODELS-PLAID" data-category="Luxury Performance Sedan" data-name="tesla model s plaid">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Luxury Performance Sedan</span>
+              <span class="meta-sku">SKU: TSLA-MODELS-PLAID</span>
+              <span class="meta-group">Tesla S-3-X-Y &amp; Cybertruck Fleet</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Tesla Model S Plaid</h2>
+              <div class="product-price">$89,990.00</div>
+            </div>
+            <div class="product-subtitle">Tesla Model S Tri-Motor All-Wheel Drive Plaid</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-S-Interior-Hero-Desktop.jpg', 'Model S interior cockpit')">
+                <div class="frame-tag">INTERIOR COCKPIT ARCHITECTURE</div>
+                <div class="frame-img-box">
+                  <img src="https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-S-Interior-Hero-Desktop.jpg" alt="Model S interior cockpit" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Autonomous Electric Propulsion &amp; Structural Battery</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Solid Black / Ultra Red / Stealth Grey / Pearl White</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Carbon-sleeved rotors, high-tensile steel, full glass panoramic roof</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Length: 197.7 in (4,970 mm) x Width: 78.2 in (1,964 mm) x Height: 56.5 in</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Factory Delivery Experience Suite</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">1,020 horsepower, 0-60 mph in 1.99 seconds, 200 mph top speed, 359 miles EPA range.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="TSLA-MODELX-PLAID" data-category="Luxury Performance SUV" data-name="tesla model x plaid">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Luxury Performance SUV</span>
+              <span class="meta-sku">SKU: TSLA-MODELX-PLAID</span>
+              <span class="meta-group">Tesla S-3-X-Y &amp; Cybertruck Fleet</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Tesla Model X Plaid</h2>
+              <div class="product-price">$94,990.00</div>
+            </div>
+            <div class="product-subtitle">Tesla Model X Tri-Motor All-Wheel Drive Plaid</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-S-Interior-Hero-Desktop.jpg', 'Model X interior cockpit')">
+                <div class="frame-tag">INTERIOR COCKPIT ARCHITECTURE</div>
+                <div class="frame-img-box">
+                  <img src="https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-S-Interior-Hero-Desktop.jpg" alt="Model X interior cockpit" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Autonomous Electric Propulsion &amp; Structural Battery</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Ultra Red / Stealth Grey / Deep Blue Metallic</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Falcon Wing double-hinged doors, medical-grade HEPA filtration system</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Length: 199.1 in (5,057 mm) x Width: 78.7 in (1,999 mm) x Height: 66.1 in</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Factory Delivery Experience Suite</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">1,020 horsepower SUV. 0-60 mph in 2.5 seconds, Falcon Wing doors, 335 miles range.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="TSLA-MODEL3-PERF" data-category="Electric Sport Sedan" data-name="tesla model 3 performance">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Electric Sport Sedan</span>
+              <span class="meta-sku">SKU: TSLA-MODEL3-PERF</span>
+              <span class="meta-group">Tesla S-3-X-Y &amp; Cybertruck Fleet</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Tesla Model 3 Performance</h2>
+              <div class="product-price">$54,990.00</div>
+            </div>
+            <div class="product-subtitle">Upgraded Tesla Model 3 All-Wheel Drive Performance</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg', 'Model 3 Performance')">
+                <div class="frame-tag">HERO LOCATION THREE-QUARTER</div>
+                <div class="frame-img-box">
+                  <img src="https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg" alt="Model 3 Performance" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Autonomous Electric Propulsion &amp; Structural Battery</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Ultra Red / Deep Blue Metallic / Solid Black</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">Forged 20-inch Warp Wheels, Adaptive Damping suspension, carbon fiber spoiler</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Length: 185.8 in (4,720 mm) x Width: 72.8 in (1,850 mm) x Height: 56.7 in</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Factory Delivery Suite</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">510 horsepower, 0-60 mph in 2.9 seconds, next-generation adaptive damping suspension.</p>
+            </div>
+          </div>
+        </article>
+        
+        <article class="product-entry" id="TSLA-MODELY-LR" data-category="Midsize Electric SUV" data-name="tesla model y long range">
+          <div class="product-sheet-header">
+            <div class="sheet-meta">
+              <span class="meta-tag">Midsize Electric SUV</span>
+              <span class="meta-sku">SKU: TSLA-MODELY-LR</span>
+              <span class="meta-group">Tesla S-3-X-Y &amp; Cybertruck Fleet</span>
+            </div>
+            <div class="sheet-title-row">
+              <h2 class="product-title">Tesla Model Y Long Range</h2>
+              <div class="product-price">$47,990.00</div>
+            </div>
+            <div class="product-subtitle">Tesla Model Y Dual Motor All-Wheel Drive Long Range</div>
+          </div>
+
+          <div class="contact-sheet-container">
+            <div class="contact-sheet-banner">
+              <div class="banner-title">
+                <span class="pulse-indicator"></span> PHOTOGRAPHIC PROOF CONTACT SHEET // MULTI-ANGLE ASSET PROOFS
+              </div>
+              <div class="banner-frames-count">1 Official Camera Proofs</div>
+            </div>
+            <div class="contact-sheet-grid">
+              
+              <div class="contact-frame" onclick="openLightbox('https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg', 'Model Y Long Range')">
+                <div class="frame-tag">HERO LOCATION THREE-QUARTER</div>
+                <div class="frame-img-box">
+                  <img src="https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Main-Hero-Desktop.jpg" alt="Model Y Long Range" loading="lazy" onerror="this.src='https://placehold.co/600x600/111/fff?text=Official+Asset'"/>
+                </div>
+                <div class="frame-caption">Frame #1 &bull; Click to Expand</div>
+              </div>
+            
+            </div>
+          </div>
+
+          <div class="product-specs-grid">
+            <div class="spec-cell">
+              <span class="spec-label">Style / Line</span>
+              <span class="spec-value">Autonomous Electric Propulsion &amp; Structural Battery</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Color / Finish</span>
+              <span class="spec-value">Quicksilver / Stealth Grey / Pearl White Multi-Coat</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Materials</span>
+              <span class="spec-value">High-strength acoustic glass, 76 cubic feet of cargo storage</span>
+            </div>
+            <div class="spec-cell">
+              <span class="spec-label">Dimensions / Sizing</span>
+              <span class="spec-value">Length: 187.0 in (4,751 mm) x Width: 75.6 in (1,921 mm) x Height: 63.9 in</span>
+            </div>
+            <div class="spec-cell full-width">
+              <span class="spec-label">Packaging & Presentation</span>
+              <span class="spec-value">Factory Delivery Suite</span>
+            </div>
+            <div class="spec-cell full-width brief-cell">
+              <span class="spec-label">Production Brief & Catalog Notes</span>
+              <p class="spec-brief">The world&#x27;s best-selling car. 310 miles EPA range, dual motor AWD, 5-star safety rating.</p>
+            </div>
+          </div>
+        </article>
+        
+    </main>
+  </div>
+
+  <div class="lightbox-modal" id="lightboxModal" onclick="closeLightbox()">
+    <span class="lightbox-close">&times;</span>
+    <img class="lightbox-content" id="lightboxImg" src="" alt=""/>
+  </div>
+
+  <script>
+    function openLightbox(url, alt) {
+      const modal = document.getElementById('lightboxModal');
+      const img = document.getElementById('lightboxImg');
+      img.src = url;
+      img.alt = alt;
+      modal.classList.add('active');
+    }
+    function closeLightbox() {
+      document.getElementById('lightboxModal').classList.remove('active');
+    }
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeLightbox();
+    });
+
+    function filterProducts() {
+      const query = document.getElementById('searchBar').value.toLowerCase();
+      const entries = document.querySelectorAll('.product-entry');
+      entries.forEach(entry => {
+        const text = entry.innerText.toLowerCase();
+        entry.style.display = text.includes(query) ? '' : 'none';
+      });
+    }
+  </script>
+</body>
+</html>

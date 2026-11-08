@@ -1,0 +1,1409 @@
+{
+  "brand": "J.Crew",
+  "tagline": "Coastal American Prep, Archive 1983 & Everyday Heritage",
+  "total_products": 50,
+  "total_frames": 100,
+  "total_value_usd": 6649.95,
+  "products": [
+    {
+      "id": "JC-CS840",
+      "name": "J.Crew Tropez short in linen stripe",
+      "full_name": "J.Crew Tropez short in linen stripe (Code: CS840)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 89.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CS840_YA0789?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CS840_front.jpg",
+          "alt": "J.Crew Tropez short in linen stripe front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CS840_YA0789?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CS840_detail.jpg",
+          "alt": "J.Crew Tropez short in linen stripe detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CT651",
+      "name": "J.Crew Cotton canvas cap with dog embroidery",
+      "full_name": "J.Crew Cotton canvas cap with dog embroidery (Code: CT651)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 59.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CT651_BL7361?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CT651_front.jpg",
+          "alt": "J.Crew Cotton canvas cap with dog embroidery front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CT651_BL7361?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CT651_detail.jpg",
+          "alt": "J.Crew Cotton canvas cap with dog embroidery detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-P1190",
+      "name": "J.Crew Petite Plume<sup>&trade;</sup> women's pajama set in timeless toile",
+      "full_name": "J.Crew Petite Plume<sup>&trade;</sup> women's pajama set in timeless toile (Code: P1190)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 118.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/P1190_BL0021?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_P1190_front.jpg",
+          "alt": "J.Crew Petite Plume<sup>&trade;</sup> women's pajama set in timeless toile front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/P1190_BL0021?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_P1190_detail.jpg",
+          "alt": "J.Crew Petite Plume<sup>&trade;</sup> women's pajama set in timeless toile detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CW809",
+      "name": "J.Crew Girls' heart-button skirt in striped cotton poplin",
+      "full_name": "J.Crew Girls' heart-button skirt in striped cotton poplin (Code: CW809)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 69.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CW809_YA1765?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CW809_front.jpg",
+          "alt": "J.Crew Girls' heart-button skirt in striped cotton poplin front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CW809_YA1765?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CW809_detail.jpg",
+          "alt": "J.Crew Girls' heart-button skirt in striped cotton poplin detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CP420",
+      "name": "J.Crew '47 x J.Crew brushed wool Michigan State sweater",
+      "full_name": "J.Crew '47 x J.Crew brushed wool Michigan State sweater (Code: CP420)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 248.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CP420_SR8341?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CP420_front.jpg",
+          "alt": "J.Crew '47 x J.Crew brushed wool Michigan State sweater front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CP420_SR8341?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CP420_detail.jpg",
+          "alt": "J.Crew '47 x J.Crew brushed wool Michigan State sweater detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CE521",
+      "name": "J.Crew Kids' stretchy woven leather belt",
+      "full_name": "J.Crew Kids' stretchy woven leather belt (Code: CE521)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 36.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CE521_BR5393?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CE521_front.jpg",
+          "alt": "J.Crew Kids' stretchy woven leather belt front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CE521_BR5393?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CE521_detail.jpg",
+          "alt": "J.Crew Kids' stretchy woven leather belt detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CV270",
+      "name": "J.Crew Men's Barbour<sup>&reg;</sup> x J.Crew Beaufort jacket in Hybrid/Aero<sup>&trade;</sup> waxed cotton",
+      "full_name": "J.Crew Men's Barbour<sup>&reg;</sup> x J.Crew Beaufort jacket in Hybrid/Aero<sup>&trade;</sup> waxed cotton (Code: CV270)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 495.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CV270_EE0986?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CV270_front.jpg",
+          "alt": "J.Crew Men's Barbour<sup>&reg;</sup> x J.Crew Beaufort jacket in Hybrid/Aero<sup>&trade;</sup> waxed cotton front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CV270_EE0986?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CV270_detail.jpg",
+          "alt": "J.Crew Men's Barbour<sup>&reg;</sup> x J.Crew Beaufort jacket in Hybrid/Aero<sup>&trade;</sup> waxed cotton detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-P3017",
+      "name": "J.Crew Petite Plume<sup>&trade;</sup> women's Pima cotton Clara nightgown",
+      "full_name": "J.Crew Petite Plume<sup>&trade;</sup> women's Pima cotton Clara nightgown (Code: P3017)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 118.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/P3017_EF0047?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_P3017_front.jpg",
+          "alt": "J.Crew Petite Plume<sup>&trade;</sup> women's Pima cotton Clara nightgown front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/P3017_EF0047?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_P3017_detail.jpg",
+          "alt": "J.Crew Petite Plume<sup>&trade;</sup> women's Pima cotton Clara nightgown detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-L9225",
+      "name": "J.Crew HANRO® luxury moments underwire bra",
+      "full_name": "J.Crew HANRO® luxury moments underwire bra (Code: L9225)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 125.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/L9225_WC6066?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_L9225_front.jpg",
+          "alt": "J.Crew HANRO® luxury moments underwire bra front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/L9225_WC6066?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_L9225_detail.jpg",
+          "alt": "J.Crew HANRO® luxury moments underwire bra detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CU797",
+      "name": "J.Crew Button-front dress in dot-print cotton poplin",
+      "full_name": "J.Crew Button-front dress in dot-print cotton poplin (Code: CU797)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 188.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CU797_PT9980?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CU797_front.jpg",
+          "alt": "J.Crew Button-front dress in dot-print cotton poplin front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CU797_PT9980?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CU797_detail.jpg",
+          "alt": "J.Crew Button-front dress in dot-print cotton poplin detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CW967",
+      "name": "J.Crew Double-layer cardigan in merino wool",
+      "full_name": "J.Crew Double-layer cardigan in merino wool (Code: CW967)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 128.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CW967_SX0001?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CW967_front.jpg",
+          "alt": "J.Crew Double-layer cardigan in merino wool front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CW967_SX0001?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CW967_detail.jpg",
+          "alt": "J.Crew Double-layer cardigan in merino wool detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CL306",
+      "name": "J.Crew 5&quot; everyday drawstring short in corduroy",
+      "full_name": "J.Crew 5&quot; everyday drawstring short in corduroy (Code: CL306)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 98.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CL306_WZ8904?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CL306_front.jpg",
+          "alt": "J.Crew 5&quot; everyday drawstring short in corduroy front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CL306_WZ8904?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CL306_detail.jpg",
+          "alt": "J.Crew 5&quot; everyday drawstring short in corduroy detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CJ281",
+      "name": "J.Crew Texture-stripe socks",
+      "full_name": "J.Crew Texture-stripe socks (Code: CJ281)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 19.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CJ281_WT0151?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CJ281_front.jpg",
+          "alt": "J.Crew Texture-stripe socks front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CJ281_WT0151?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CJ281_detail.jpg",
+          "alt": "J.Crew Texture-stripe socks detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CU307",
+      "name": "J.Crew Claudia scrunchie one-piece in metallic stripe",
+      "full_name": "J.Crew Claudia scrunchie one-piece in metallic stripe (Code: CU307)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 168.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CU307_KW0261?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CU307_front.jpg",
+          "alt": "J.Crew Claudia scrunchie one-piece in metallic stripe front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CU307_KW0261?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CU307_detail.jpg",
+          "alt": "J.Crew Claudia scrunchie one-piece in metallic stripe detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CV866",
+      "name": "J.Crew Classic Straight bleached jean",
+      "full_name": "J.Crew Classic Straight bleached jean (Code: CV866)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 168.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CV866_DM9469?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CV866_front.jpg",
+          "alt": "J.Crew Classic Straight bleached jean front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CV866_DM9469?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CV866_detail.jpg",
+          "alt": "J.Crew Classic Straight bleached jean detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CZ291",
+      "name": "J.Crew Tie-on collar in faux fur",
+      "full_name": "J.Crew Tie-on collar in faux fur (Code: CZ291)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 89.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CZ291_WZ7160?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CZ291_front.jpg",
+          "alt": "J.Crew Tie-on collar in faux fur front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CZ291_WZ7160?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CZ291_detail.jpg",
+          "alt": "J.Crew Tie-on collar in faux fur detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-M8798",
+      "name": "J.Crew Druthers™ organic cotton boxers",
+      "full_name": "J.Crew Druthers™ organic cotton boxers (Code: M8798)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 48.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/M8798_WC6066?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_M8798_front.jpg",
+          "alt": "J.Crew Druthers™ organic cotton boxers front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/M8798_WC6066?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_M8798_detail.jpg",
+          "alt": "J.Crew Druthers™ organic cotton boxers detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CM712",
+      "name": "J.Crew 2025 Rollneck<sup>&trade;</sup> sweater",
+      "full_name": "J.Crew 2025 Rollneck<sup>&trade;</sup> sweater (Code: CM712)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 98.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CM712_BL0113?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CM712_front.jpg",
+          "alt": "J.Crew 2025 Rollneck<sup>&trade;</sup> sweater front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CM712_BL0113?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CM712_detail.jpg",
+          "alt": "J.Crew 2025 Rollneck<sup>&trade;</sup> sweater detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CV646",
+      "name": "J.Crew Embroidered mini dress in gingham",
+      "full_name": "J.Crew Embroidered mini dress in gingham (Code: CV646)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 148.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CV646_YA0238?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CV646_front.jpg",
+          "alt": "J.Crew Embroidered mini dress in gingham front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CV646_YA0238?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CV646_detail.jpg",
+          "alt": "J.Crew Embroidered mini dress in gingham detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CR150",
+      "name": "J.Crew 6&quot; stretch swim trunk with ECONYL<sup>&reg;</sup> nylon",
+      "full_name": "J.Crew 6&quot; stretch swim trunk with ECONYL<sup>&reg;</sup> nylon (Code: CR150)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 89.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CR150_PT8949?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CR150_front.jpg",
+          "alt": "J.Crew 6&quot; stretch swim trunk with ECONYL<sup>&reg;</sup> nylon front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CR150_PT8949?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CR150_detail.jpg",
+          "alt": "J.Crew 6&quot; stretch swim trunk with ECONYL<sup>&reg;</sup> nylon detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-BX697",
+      "name": "J.Crew Hallie bikini bottom in dot-stripe print",
+      "full_name": "J.Crew Hallie bikini bottom in dot-stripe print (Code: BX697)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 79.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/BX697_PT5372?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_BX697_front.jpg",
+          "alt": "J.Crew Hallie bikini bottom in dot-stripe print front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/BX697_PT5372?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_BX697_detail.jpg",
+          "alt": "J.Crew Hallie bikini bottom in dot-stripe print detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CX610",
+      "name": "J.Crew Girls' long-sleeve &quot;Petit bakehouse&quot; embroidered graphic T-shirt",
+      "full_name": "J.Crew Girls' long-sleeve &quot;Petit bakehouse&quot; embroidered graphic T-shirt (Code: CX610)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 34.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CX610_GP1167?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CX610_front.jpg",
+          "alt": "J.Crew Girls' long-sleeve &quot;Petit bakehouse&quot; embroidered graphic T-shirt front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CX610_GP1167?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CX610_detail.jpg",
+          "alt": "J.Crew Girls' long-sleeve &quot;Petit bakehouse&quot; embroidered graphic T-shirt detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CL892",
+      "name": "J.Crew Wallace &amp; Barnes flight jacket in cotton chino",
+      "full_name": "J.Crew Wallace &amp; Barnes flight jacket in cotton chino (Code: CL892)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 228.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CL892_WZ6539?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CL892_front.jpg",
+          "alt": "J.Crew Wallace &amp; Barnes flight jacket in cotton chino front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CL892_WZ6539?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CL892_detail.jpg",
+          "alt": "J.Crew Wallace &amp; Barnes flight jacket in cotton chino detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CX997",
+      "name": "J.Crew New Carolina pant in four-season stretch",
+      "full_name": "J.Crew New Carolina pant in four-season stretch (Code: CX997)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 158.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CX997_NA0264?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CX997_front.jpg",
+          "alt": "J.Crew New Carolina pant in four-season stretch front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CX997_NA0264?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CX997_detail.jpg",
+          "alt": "J.Crew New Carolina pant in four-season stretch detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CZ509",
+      "name": "J.Crew Short-sleeve pointelle sweater in alpaca blend",
+      "full_name": "J.Crew Short-sleeve pointelle sweater in alpaca blend (Code: CZ509)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 128.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CZ509_GY6469?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CZ509_front.jpg",
+          "alt": "J.Crew Short-sleeve pointelle sweater in alpaca blend front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CZ509_GY6469?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CZ509_detail.jpg",
+          "alt": "J.Crew Short-sleeve pointelle sweater in alpaca blend detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CZ476",
+      "name": "J.Crew Column slip dress in floral crepe de chine",
+      "full_name": "J.Crew Column slip dress in floral crepe de chine (Code: CZ476)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 198.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CZ476_PX0858?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CZ476_front.jpg",
+          "alt": "J.Crew Column slip dress in floral crepe de chine front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CZ476_PX0858?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CZ476_detail.jpg",
+          "alt": "J.Crew Column slip dress in floral crepe de chine detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CU268",
+      "name": "J.Crew Ronnie bikini bottom in marigold block print",
+      "full_name": "J.Crew Ronnie bikini bottom in marigold block print (Code: CU268)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 79.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CU268_PT9415?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CU268_front.jpg",
+          "alt": "J.Crew Ronnie bikini bottom in marigold block print front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CU268_PT9415?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CU268_detail.jpg",
+          "alt": "J.Crew Ronnie bikini bottom in marigold block print detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-BW380",
+      "name": "J.Crew Oval buckle belt in Italian leather",
+      "full_name": "J.Crew Oval buckle belt in Italian leather (Code: BW380)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 98.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/BW380_BK0001?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_BW380_front.jpg",
+          "alt": "J.Crew Oval buckle belt in Italian leather front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/BW380_BK0001?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_BW380_detail.jpg",
+          "alt": "J.Crew Oval buckle belt in Italian leather detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-P0265",
+      "name": "J.Crew CADDIS<sup>&trade;</sup> Hooper readers",
+      "full_name": "J.Crew CADDIS<sup>&trade;</sup> Hooper readers (Code: P0265)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 140.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/P0265_EC7246?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_P0265_front.jpg",
+          "alt": "J.Crew CADDIS<sup>&trade;</sup> Hooper readers front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/P0265_EC7246?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_P0265_detail.jpg",
+          "alt": "J.Crew CADDIS<sup>&trade;</sup> Hooper readers detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CY134",
+      "name": "J.Crew 18k gold vermeil cubic zirconia hoop earrings",
+      "full_name": "J.Crew 18k gold vermeil cubic zirconia hoop earrings (Code: CY134)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 98.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CY134_EC8333?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CY134_front.jpg",
+          "alt": "J.Crew 18k gold vermeil cubic zirconia hoop earrings front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CY134_EC8333?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CY134_detail.jpg",
+          "alt": "J.Crew 18k gold vermeil cubic zirconia hoop earrings detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CU880",
+      "name": "J.Crew Perfect rib dolman-sleeve T-shirt",
+      "full_name": "J.Crew Perfect rib dolman-sleeve T-shirt (Code: CU880)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 42.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CU880_YL0115?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CU880_front.jpg",
+          "alt": "J.Crew Perfect rib dolman-sleeve T-shirt front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CU880_YL0115?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CU880_detail.jpg",
+          "alt": "J.Crew Perfect rib dolman-sleeve T-shirt detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CO179",
+      "name": "J.Crew Wool-blend sherpa fleece coverall jacket",
+      "full_name": "J.Crew Wool-blend sherpa fleece coverall jacket (Code: CO179)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 10.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CO179_PT8247?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CO179_front.jpg",
+          "alt": "J.Crew Wool-blend sherpa fleece coverall jacket front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CO179_PT8247?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CO179_detail.jpg",
+          "alt": "J.Crew Wool-blend sherpa fleece coverall jacket detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CX073",
+      "name": "J.Crew Wallace &amp; Barnes lined canvas work jacket",
+      "full_name": "J.Crew Wallace &amp; Barnes lined canvas work jacket (Code: CX073)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 268.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CX073_BL8278?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CX073_front.jpg",
+          "alt": "J.Crew Wallace &amp; Barnes lined canvas work jacket front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CX073_BL8278?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CX073_detail.jpg",
+          "alt": "J.Crew Wallace &amp; Barnes lined canvas work jacket detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CO543",
+      "name": "J.Crew Patterned dress socks",
+      "full_name": "J.Crew Patterned dress socks (Code: CO543)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 24.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CO543_BL8843?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CO543_front.jpg",
+          "alt": "J.Crew Patterned dress socks front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CO543_BL8843?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CO543_detail.jpg",
+          "alt": "J.Crew Patterned dress socks detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-53010",
+      "name": "J.Crew Kids' Blundstone<sup>&reg;</sup> boots in oiled leather",
+      "full_name": "J.Crew Kids' Blundstone<sup>&reg;</sup> boots in oiled leather (Code: 53010)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 134.95,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/53010_EB8080?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_53010_front.jpg",
+          "alt": "J.Crew Kids' Blundstone<sup>&reg;</sup> boots in oiled leather front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/53010_EB8080?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_53010_detail.jpg",
+          "alt": "J.Crew Kids' Blundstone<sup>&reg;</sup> boots in oiled leather detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CS953",
+      "name": "J.Crew Lace-trim pintuck midi dress in cotton dobby",
+      "full_name": "J.Crew Lace-trim pintuck midi dress in cotton dobby (Code: CS953)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 10.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CS953_YA0793?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CS953_front.jpg",
+          "alt": "J.Crew Lace-trim pintuck midi dress in cotton dobby front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CS953_YA0793?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CS953_detail.jpg",
+          "alt": "J.Crew Lace-trim pintuck midi dress in cotton dobby detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CT759",
+      "name": "J.Crew 6&quot; soft-lined stretch swim trunk",
+      "full_name": "J.Crew 6&quot; soft-lined stretch swim trunk (Code: CT759)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 98.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CT759_PT9358?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CT759_front.jpg",
+          "alt": "J.Crew 6&quot; soft-lined stretch swim trunk front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CT759_PT9358?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CT759_detail.jpg",
+          "alt": "J.Crew 6&quot; soft-lined stretch swim trunk detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-BB113",
+      "name": "J.Crew Marled camp socks",
+      "full_name": "J.Crew Marled camp socks (Code: BB113)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 16.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/BB113_EE0862?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_BB113_front.jpg",
+          "alt": "J.Crew Marled camp socks front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/BB113_EE0862?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_BB113_detail.jpg",
+          "alt": "J.Crew Marled camp socks detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-BO123",
+      "name": "J.Crew Girls' island denim short",
+      "full_name": "J.Crew Girls' island denim short (Code: BO123)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 59.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/BO123_DM6761?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_BO123_front.jpg",
+          "alt": "J.Crew Girls' island denim short front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/BO123_DM6761?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_BO123_detail.jpg",
+          "alt": "J.Crew Girls' island denim short detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CZ719",
+      "name": "J.Crew Margeaux blazer in plaid four-season stretch",
+      "full_name": "J.Crew Margeaux blazer in plaid four-season stretch (Code: CZ719)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 258.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CZ719_WZ9230?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CZ719_front.jpg",
+          "alt": "J.Crew Margeaux blazer in plaid four-season stretch front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CZ719_WZ9230?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CZ719_detail.jpg",
+          "alt": "J.Crew Margeaux blazer in plaid four-season stretch detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CZ079",
+      "name": "J.Crew Girls' cupcake sweatshirt-dress with metallic tulle",
+      "full_name": "J.Crew Girls' cupcake sweatshirt-dress with metallic tulle (Code: CZ079)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 79.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CZ079_PK0206?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CZ079_front.jpg",
+          "alt": "J.Crew Girls' cupcake sweatshirt-dress with metallic tulle front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CZ079_PK0206?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CZ079_detail.jpg",
+          "alt": "J.Crew Girls' cupcake sweatshirt-dress with metallic tulle detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CR637",
+      "name": "J.Crew U.S. Ski &amp; Snowboard by J.Crew sweater leggings",
+      "full_name": "J.Crew U.S. Ski &amp; Snowboard by J.Crew sweater leggings (Code: CR637)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 298.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CR637_SR8350?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CR637_front.jpg",
+          "alt": "J.Crew U.S. Ski &amp; Snowboard by J.Crew sweater leggings front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CR637_SR8350?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CR637_detail.jpg",
+          "alt": "J.Crew U.S. Ski &amp; Snowboard by J.Crew sweater leggings detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CJ457",
+      "name": "J.Crew Featherweight cashmere ruffle-trim T-shirt in stripe",
+      "full_name": "J.Crew Featherweight cashmere ruffle-trim T-shirt in stripe (Code: CJ457)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 178.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CJ457_SR7333?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CJ457_front.jpg",
+          "alt": "J.Crew Featherweight cashmere ruffle-trim T-shirt in stripe front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CJ457_SR7333?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CJ457_detail.jpg",
+          "alt": "J.Crew Featherweight cashmere ruffle-trim T-shirt in stripe detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CT943",
+      "name": "J.Crew Summer Rollneck<sup>&trade;</sup> sweater in linen blend",
+      "full_name": "J.Crew Summer Rollneck<sup>&trade;</sup> sweater in linen blend (Code: CT943)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 128.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CT943_BL8133?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CT943_front.jpg",
+          "alt": "J.Crew Summer Rollneck<sup>&trade;</sup> sweater in linen blend front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CT943_BL8133?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CT943_detail.jpg",
+          "alt": "J.Crew Summer Rollneck<sup>&trade;</sup> sweater in linen blend detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-BV111",
+      "name": "J.Crew Ludlow Slim-fit suit jacket in Portuguese cotton oxford",
+      "full_name": "J.Crew Ludlow Slim-fit suit jacket in Portuguese cotton oxford (Code: BV111)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 198.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/BV111_WZ4211?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_BV111_front.jpg",
+          "alt": "J.Crew Ludlow Slim-fit suit jacket in Portuguese cotton oxford front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/BV111_WZ4211?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_BV111_detail.jpg",
+          "alt": "J.Crew Ludlow Slim-fit suit jacket in Portuguese cotton oxford detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CR915",
+      "name": "J.Crew Audrey sandals in patent leather",
+      "full_name": "J.Crew Audrey sandals in patent leather (Code: CR915)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 128.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CR915_BK0001?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CR915_front.jpg",
+          "alt": "J.Crew Audrey sandals in patent leather front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CR915_BK0001?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CR915_detail.jpg",
+          "alt": "J.Crew Audrey sandals in patent leather detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-K4195",
+      "name": "J.Crew Gold hoop earrings",
+      "full_name": "J.Crew Gold hoop earrings (Code: K4195)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 49.5,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/K4195_YL5433?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_K4195_front.jpg",
+          "alt": "J.Crew Gold hoop earrings front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/K4195_YL5433?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_K4195_detail.jpg",
+          "alt": "J.Crew Gold hoop earrings detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CY465",
+      "name": "J.Crew Long-sleeve pajama pant set in cotton poplin ski print",
+      "full_name": "J.Crew Long-sleeve pajama pant set in cotton poplin ski print (Code: CY465)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 128.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CY465_PX0306?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CY465_front.jpg",
+          "alt": "J.Crew Long-sleeve pajama pant set in cotton poplin ski print front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CY465_PX0306?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CY465_detail.jpg",
+          "alt": "J.Crew Long-sleeve pajama pant set in cotton poplin ski print detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-CI673",
+      "name": "J.Crew Claudia scrunchie one-piece",
+      "full_name": "J.Crew Claudia scrunchie one-piece (Code: CI673)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 148.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/CI673_YD8471?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CI673_front.jpg",
+          "alt": "J.Crew Claudia scrunchie one-piece front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/CI673_YD8471?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_CI673_detail.jpg",
+          "alt": "J.Crew Claudia scrunchie one-piece detail"
+        }
+      ]
+    },
+    {
+      "id": "JC-BZ638",
+      "name": "J.Crew Kenmare Relaxed-fit suit jacket in Italian wool",
+      "full_name": "J.Crew Kenmare Relaxed-fit suit jacket in Italian wool (Code: BZ638)",
+      "category": "Apparel & Menswear / Womenswear",
+      "group": "J.Crew Heritage Archive",
+      "style": "Timeless Coastal Prep",
+      "price": 550.0,
+      "color": "Heather Forest / Classic Navy / Vintage Khaki",
+      "material": "100% Cotton / Heritage Wool / Irish Linen",
+      "dimensions": "Tailored Regular Fit / Pre-washed Soft Handfeel",
+      "packaging": "J.Crew recycled mailer with branded tissue wrap",
+      "brief": "Classic American style reimagined with premium fabrics and enduring tailoring.",
+      "frames": [
+        {
+          "label": "STUDIO PACKSHOT FRONT",
+          "url": "https://www.jcrew.com/s7-img-facade/BZ638_BL7493?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_BZ638_front.jpg",
+          "alt": "J.Crew Kenmare Relaxed-fit suit jacket in Italian wool front"
+        },
+        {
+          "label": "DETAIL CLOSEUP & TEXTURE",
+          "url": "https://www.jcrew.com/s7-img-facade/BZ638_BL7493?hei=1700&crop=0,0,1360,0",
+          "file": "jcrew_BZ638_detail.jpg",
+          "alt": "J.Crew Kenmare Relaxed-fit suit jacket in Italian wool detail"
+        }
+      ]
+    }
+  ]
+}
